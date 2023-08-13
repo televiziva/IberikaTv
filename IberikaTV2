@@ -8,21 +8,35 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Generalistas" , Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/1200px-Telemadrid.svg.png" group-title="Generalistas" , Telemadrid
 https://telemadrid_23.secure2.footprint.net/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/1200px-Telemadrid.svg.png" group-title="Generalistas" , Telemadrid Internacional
+https://new_international_23.secure2.footprint.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="Generalistas" , 101TV Málaga
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="Generalistas" , Castilla-La Mancha Media
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="Generalistas" , La 8 Mediterráneo
 https://streaming004.gestec-video.com/hls/8TV.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png" group-title="Generalistas", ETB2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8?start=1691927363
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="Generalistas", EITB Basque
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RTPAoficial/picture?width=200&height=200" group-title="Generalistas" , TPA7
 https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/331px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Generalistas" , TVG
+https://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title="Generalistas" , 7 Murcia
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Radio_Televisi%C3%B3n_Ceuta.svg/250px-Radio_Televisi%C3%B3n_Ceuta.svg.png" group-title="Generalistas" , RTVCE
+https://cdnlive.codev8.net/rtvcelive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Televisi%C3%B3n_Melilla.svg/320px-Televisi%C3%B3n_Melilla.svg.png" group-title="Generalistas" , Melilla
+https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Canal-4-Baleares-en-DIRECTO-Online-en-vivo.png?resize=696%2C392&ssl=1" group-title="Generalistas" , Canal 4 Mallorca
+https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/8tv_logo_2021.svg/472px-8tv_logo_2021.svg.png" group-title="Generalistas" , 8tv
+https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200" group-title="Int. Europa" , TV5Monde Francia
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rainews.it/picture?width=200&height=200" group-title="Int. Europa" , Rai News 24 Italia IT
@@ -47,8 +61,8 @@ http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/131101
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/TVI_logo_2017.png/150px-TVI_logo_2017.png" group-title="Int. Europa" , TVI pt
 https://video-auth5.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDExOjM0OjI3IEFNJmhhc2hfdmFsdWU9aCtkU1UxdjF5MzVwVVBlZUYvdFhKdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWU5M2FkZmEyLTM5NzEtNDExYi1hZDc3LTc0MThlOTk5NWRhMQ==
-#EXTINF:-1 tvg-logo="https://www.portugalmxgp.com/u-files/CMTV.png" group-title="Int. Europa" , CMTV
-https://n13.aliflailaaliflaila.com:999/hls/CN117-400579.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/800px-CNN_Portugal.svg.png" group-title="Int. Europa" , CNN pt
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDE6NTk6NDAgUE0maGFzaF92YWx1ZT1ncktRNFU4ZGdKVGVueDN6aWdFcUNnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZGQyYzRiMjctZjdkOS00MjczLThjMjItNGVmNDJiZjAwODNi
 
 
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-xtra_2.jpg" group-title="Int. América" , RCN xtra
