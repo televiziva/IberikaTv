@@ -32,11 +32,15 @@ http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/TVR_i_2022_logo.png/800px-TVR_i_2022_logo.png?20221206210625" , TVRi Rumania
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b6096000.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtp1.pt/picture?width=200&height=200" group-title="Int. Europa" , RTP 1 Portugal
-http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/130916
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/chunklist_b2540000_slpor.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtpdois/picture?width=200&height=200" group-title="Int. Europa" , RTP 2 Portugal
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/130917
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/ohXJmiR.png" group-title="Int. Europa" ,RTP3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275" group-title="Int. Europa" , RTPInternacional.pt
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPiAsia.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Int. Europa",RTP Internacional Asia (480p)
+http://210.210.155.37/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275" group-title="Int. Europa" , RTP Memória
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/131101
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png/200px-Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="Int. Europa" , SIC
@@ -66,6 +70,8 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 
 #EXTINF:-1 tvg-logo="https://scontent.fmad16-1.fna.fbcdn.net/v/t39.30808-6/352238500_581232967236278_2172326846492466207_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=be3454&_nc_ohc=t9GtlgWC9o8AX9CMlwb&_nc_ht=scontent.fmad16-1.fna&oh=00_AfDSRriec02t_ztfeeaHmvALZhCrPTNJFVWELNIBCsqHfA&oe=64DE0054" group-title="Cine y Series" , Cine tv A3
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
+#EXTINF:-1 tvg-id="Cine Friki" tvg-name="Cine Friki" tvg-logo="https://yt3.googleusercontent.com/n0Fhql2NpPiWWatqfJV_XaU3J0h_CMs0agQf6fc75xywnJZEZVVww-NUZsrwPrwfq3RSVcoD=s900-c-k-c0x00ffffff-no-rj" group-title="Cine y Series" , Cine Friki
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6490e17c18a55242eea95991.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Lz_31Kh_Da_xHomy2UFH
 #EXTINF:-1 tvg-id="runtime-4" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_es_1920x1080_0.jpg" group-title="Cine y Series" , Runtime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
 #EXTINF:-1 tvg-id="runtime-trash" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/e03499de-runtime_trash_16x9.jpg" group-title="Cine y Series" , Runtime Trash
@@ -88,6 +94,8 @@ https://daiconnect.com/live/hls/tvup/rt-cv/.m3u8?DAdID={{DEVICE_ID}}
 https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}
 #EXTINF:-1 tvg-id="cinema" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/c0TigcKgF60wy9rr2T6bcc2LzOMuKpkG9zvXqhqeIao.jpg" group-title="Cine y Series" , Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+#EXTINF:-1 tvg-id="ArtFlix" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/3nihQR5c2F_Skk5bOj8ciGPFccBPMnc-sO4bmeFR7IIgfIhGIQZaVgHInBv1Bm33NVfj-vHQZdw=s900-c-k-c0x00ffffff-no-rj" group-title="Cine y Series" , ArtFlix
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6348a34c1159f6a5ce819b81.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8pV2vxyyD6YrbS8yBHNd
 
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-tv.jpg" group-title="Cine y Series" , Canela Tv
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
