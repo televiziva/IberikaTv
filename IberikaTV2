@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" , La 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" , La 2
@@ -7,14 +8,15 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Generalistas" , Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/1200px-Telemadrid.svg.png" group-title="Generalistas" , Telemadrid
+https://telemadrid_23.secure2.footprint.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="Generalistas" , 101TV Málaga
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="Generalistas" , Castilla-La Mancha Media
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="Generalistas" , La 8 Mediterráneo
 https://streaming004.gestec-video.com/hls/8TV.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/televigo/picture?width=200&height=200" group-title="Generalistas" , TeleVigo
-https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="Generalistas", EITB Basque
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RTPAoficial/picture?width=200&height=200" group-title="Generalistas" , TPA7
@@ -43,60 +45,8 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://video-auth5.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDExOjM0OjI3IEFNJmhhc2hfdmFsdWU9aCtkU1UxdjF5MzVwVVBlZUYvdFhKdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWU5M2FkZmEyLTM5NzEtNDExYi1hZDc3LTc0MThlOTk5NWRhMQ==
 #EXTINF:-1 tvg-logo="https://www.portugalmxgp.com/u-files/CMTV.png" group-title="Int. Europa" , CMTV
 https://n13.aliflailaaliflaila.com:999/hls/CN117-400579.ts
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" group-title="Int. América" tvg-name="FOX Live Now USA",FOX Live Now USA EN
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200" group-title="Int. América" tvg-name="ABC News USA",ABC News USA EN
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200" group-title="Int. América" tvg-name="CBS News USA",CBS News USA EN
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/courttv/picture?width=200&height=200" group-title="Int. América" tvg-name="CourtTV USA",CourtTV USA EN
-https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" group-title="Int. América" tvg-name="NASA TV Public",NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" group-title="Int. América" tvg-name="NASA TV Media",NASA TV Media
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/BUZZRtv/picture?width=200&height=200" group-title="Int. América" tvg-name="BUZZR TV USA",BUZZR TV USA EN
-https://buzzr-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/americateve/picture?width=200&height=200" group-title="Int. América" tvg-name="America TeVe USA",America TeVe USA
-https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal 6 Multimedios Mexico",Canal 6 Multimedios Mexico
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1508338964771459074/JG2pfMx1_200x200.jpg" group-title="Int. América" tvg-name="FORO TV Mexico",FORO TV Mexico
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1 tvg-id="ADN40.TV" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200" group-title="Int. América" tvg-name="ADN40 Mexico",ADN40 Mexico
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal Once Mexico",Canal Once Mexico
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" group-title="Int. América" tvg-name="Noticias Caracol Colombia",Noticias Caracol Colombia
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalCapitalOficial/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal Capital Colombia",Canal Capital Colombia
-https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200" group-title="Int. América" tvg-name="Teleantioquia Colombia",Teleantioquia Colombia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" group-title="Int. América" tvg-name="Señal Colombia",Señal Colombia
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TelepacificoTV/picture?width=200&height=200" group-title="Int. América" tvg-name="Telepacifico Colombia",Telepacifico Colombia
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canaltro/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal TRO Colombia",Canal TRO Colombia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta318.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200" group-title="Int. América" tvg-name="Exitosa Noticias Perú",Exitosa Noticias Perú
-https://cu.onliv3.com/livevd1/user2.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=200&height=200" group-title="Int. América" tvg-name="Panamericana Perú",Panamericana Perú
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="Int. América" tvg-name="TV Perú",TV Perú
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="Int. América" tvg-name="TV Perú Noticias",TV Perú Noticias
-https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalipe/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal IPe Perú",Canal IPe Perú
-https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-id="TeleSUR.TV" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200" group-title="Int. América" tvg-name="TeleSUR Venezuela",TeleSUR Venezuela
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605618616027779072/A0RmPxdd_200x200.jpg" group-title="Int. América" tvg-name="Bolivia 7.2 TV",Bolivia 7.2 TV
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/patboliviahd/picture?width=200&height=200" group-title="Int. América" tvg-name="Red Pat Bolivia",Red Pat Bolivia
-https://master.tucableip.com/pat/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-xtra_2.jpg" group-title="Int. América" , RCN xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-xtra_2.jpg" group-title="Int. América" , RCN +
@@ -124,6 +74,9 @@ http://45.55.127.106/live/unicanal_mid.m3u8
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/MultimediosCR/picture?width=200&height=200" group-title="Int. América" tvg-name="TeleDiario Costa Rica",TeleDiario Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fmad16-1.fna.fbcdn.net/v/t39.30808-6/352238500_581232967236278_2172326846492466207_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=be3454&_nc_ohc=t9GtlgWC9o8AX9CMlwb&_nc_ht=scontent.fmad16-1.fna&oh=00_AfDSRriec02t_ztfeeaHmvALZhCrPTNJFVWELNIBCsqHfA&oe=64DE0054" group-title="Cine y Series" , Cine tv A3
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 #EXTINF:-1 tvg-id="runtime-4" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_es_1920x1080_0.jpg" group-title="Cine y Series" , Runtime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
 #EXTINF:-1 tvg-id="runtime-trash" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/e03499de-runtime_trash_16x9.jpg" group-title="Cine y Series" , Runtime Trash
