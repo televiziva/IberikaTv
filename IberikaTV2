@@ -54,7 +54,7 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/800px-Ecuavisa_Logo_2019.png"  group-title="Int. América" , Ecuavisa
 https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?uid=Bv7BCKJsvVlj6dgUh8bl0xA5siBWBI4j&sid=l60M8DCd6Lldt15NE5gopKLFsu5iCuJu&pid=IChW9afMmRgN1gLc1XeyToOCYIi0Ogat&an=screen&at=web-app&av=v5.2.338&ref=https%3A%2F%2Fwww.ecuavisa.com%2F&res=1116x438&without_cookies=false&listenerid=&dvrOffset=3600&dnt=true&type=dvr
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/ATV_logo_con_fondo_2021-.svg/revision/latest/scale-to-width-down/250?cb=20220425162558&path-prefix=es" group-title="Int. América" , ATV
-https://atvperu.akamaized.net/hls/live/2100630/atv/master_480.m3u8
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/ATV_Sur_2018_2.svg/revision/latest/scale-to-width-down/300?cb=20210522015013&path-prefix=es" group-title="Int. América",ATV sur
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/512px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="Int. América" , TVP Argentina
