@@ -117,8 +117,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
 #EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2022/Entret_RevryLatinX_476x476circle.png" , group-title="Cine y Series" , Revry Latinx
 https://linear-142.frequency.stream/142/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/d757448584c873d5c321ecf83f820f316d0facb7256c704ad758bae0422be15c/68747470733a2f2f692e696d6775722e636f6d2f52504c797249432e706e67" group-title="Cine y Series", Cine.Ar
-https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/150px-Estrella_TV_Logo_2020.png" group-title="Cine y Series", Cine Estrella
 https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 
