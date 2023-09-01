@@ -12,8 +12,6 @@ https://telemadrid-23.secure2.footprint.net/master.m3u8
 https://laotra-1-23.secure2.footprint.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Generalistas" , Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="Generalistas" , 101TV Málaga
-https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="Generalistas" , Castilla-La Mancha Media
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="Generalistas" , La 8 Mediterráneo
@@ -37,45 +35,6 @@ https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/8tv_logo_2021.svg/472px-8tv_logo_2021.svg.png" group-title="Generalistas" , 8tv
 https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200" group-title="Int. Europa" , TV5Monde Francia
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rainews.it/picture?width=200&height=200" group-title="Int. Europa" , Rai News 24 Italia IT
-https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Rai_Italia_2017.jpg/revision/latest/scale-to-width-down/145?cb=20200805150207&path-prefix=es" group-title="Int. Europa" ,RAI Italia Asia (576p)
-http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/TVR_i_2022_logo.png/800px-TVR_i_2022_logo.png?20221206210625" , TVRi Rumania
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b6096000.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtp1.pt/picture?width=200&height=200" group-title="Int. Europa" , RTP 1 Portugal
-https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/chunklist_b2540000_slpor.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtpdois/picture?width=200&height=200" group-title="Int. Europa" , RTP 2 Portugal
-http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/130917
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/ohXJmiR.png" group-title="Int. Europa" ,RTP3
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275" group-title="Int. Europa" , RTPInternacional
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8
-#EXTINF:-1 tvg-id="RTPiAsia.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Int. Europa",RTP Internacional Asia (480p)
-http://210.210.155.37/qwr9ew/s/s38/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275" group-title="Int. Europa" , RTP Memória
-http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/131101
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png/200px-Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="Int. Europa" , SIC
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-xtra_2.jpg" group-title="Int. América" , RCN xtra
-https://latv-rcn-xtra-1-mx.tcl.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-xtra_2.jpg" group-title="Int. América" , RCN +
-https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/800px-Ecuavisa_Logo_2019.png"  group-title="Int. América" , Ecuavisa
-https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?uid=Bv7BCKJsvVlj6dgUh8bl0xA5siBWBI4j&sid=l60M8DCd6Lldt15NE5gopKLFsu5iCuJu&pid=IChW9afMmRgN1gLc1XeyToOCYIi0Ogat&an=screen&at=web-app&av=v5.2.338&ref=https%3A%2F%2Fwww.ecuavisa.com%2F&res=1116x438&without_cookies=false&listenerid=&dvrOffset=3600&dnt=true&type=dvr
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/ATV_logo_con_fondo_2021-.svg/revision/latest/scale-to-width-down/250?cb=20220425162558&path-prefix=es" group-title="Int. América" , ATV
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/ATV_Sur_2018_2.svg/revision/latest/scale-to-width-down/300?cb=20210522015013&path-prefix=es" group-title="Int. América",ATV sur
-https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/512px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="Int. América" , TVP Argentina
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_480p.m3u8
-#EXTINF:-1 tvg-id="Cubavision.TV" tvg-logo="https://graph.facebook.com/CubavisionInternacional/picture?width=200&height=200" group-title="Int. América" tvg-name="Cubavisión TV",Cubavisión TV
-#EXTVLCOPT:http-referrer=https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="Int. Asia",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -188,6 +147,43 @@ https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fmad16-1.fna.fbcdn.net/v/t39.30808-6/299367660_497566552372306_5913360356188070313_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=be3454&_nc_ohc=YLON6GqURA0AX-cKLzB&_nc_ht=scontent.fmad16-1.fna&oh=00_AfC8dHX95cPRboY4TobKziEuenHsiJTkXC0dynC-yb6S3A&oe=64DEA6EF" group-title="Viajes" , Travel tv Bulgaria
 https://streamer103.neterra.tv/travel/travel_SD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-xtra_2.jpg" group-title="Int. América" , RCN xtra
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-xtra_2.jpg" group-title="Int. América" , RCN +
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/800px-Ecuavisa_Logo_2019.png"  group-title="Int. América" , Ecuavisa
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?uid=Bv7BCKJsvVlj6dgUh8bl0xA5siBWBI4j&sid=l60M8DCd6Lldt15NE5gopKLFsu5iCuJu&pid=IChW9afMmRgN1gLc1XeyToOCYIi0Ogat&an=screen&at=web-app&av=v5.2.338&ref=https%3A%2F%2Fwww.ecuavisa.com%2F&res=1116x438&without_cookies=false&listenerid=&dvrOffset=3600&dnt=true&type=dvr
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/ATV_logo_con_fondo_2021-.svg/revision/latest/scale-to-width-down/250?cb=20220425162558&path-prefix=es" group-title="Int. América" , ATV
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/ATV_Sur_2018_2.svg/revision/latest/scale-to-width-down/300?cb=20210522015013&path-prefix=es" group-title="Int. América",ATV sur
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/512px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="Int. América" , TVP Argentina
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200" group-title="Int. Europa" , TV5Monde Francia
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rainews.it/picture?width=200&height=200" group-title="Int. Europa" , Rai News 24 Italia IT
+https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Rai_Italia_2017.jpg/revision/latest/scale-to-width-down/145?cb=20200805150207&path-prefix=es" group-title="Int. Europa" ,RAI Italia Asia (576p)
+http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/TVR_i_2022_logo.png/800px-TVR_i_2022_logo.png?20221206210625" , TVRi Rumania
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b6096000.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtp1.pt/picture?width=200&height=200" group-title="Int. Europa" , RTP 1 Portugal
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/chunklist_b2540000_slpor.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtpdois/picture?width=200&height=200" group-title="Int. Europa" , RTP 2 Portugal
+http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/130917
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/ohXJmiR.png" group-title="Int. Europa" ,RTP3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275" group-title="Int. Europa" , RTPInternacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8
+#EXTINF:-1 tvg-id="RTPiAsia.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Int. Europa",RTP Internacional Asia (480p)
+http://210.210.155.37/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275" group-title="Int. Europa" , RTP Memória
+http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/131101
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png/200px-Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="Int. Europa" , SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/kronehit/picture?width=200&height=200" group-title="Musicales" tvg-name="Kronehit Austria",Kronehit Austria
