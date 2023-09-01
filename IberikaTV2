@@ -6,6 +6,10 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" , El Toro TV
 https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="Generalistas" , Telemadrid
+https://telemadrid-23.secure2.footprint.net/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg" group-title="Generalistas" , La Otra
+https://laotra-1-23.secure2.footprint.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Generalistas" , Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="Generalistas" , 101TV Málaga
@@ -55,10 +59,6 @@ http://210.210.155.37/qwr9ew/s/s38/index.m3u8
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/131101
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png/200px-Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="Int. Europa" , SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/TVI_logo_2017.png/150px-TVI_logo_2017.png" group-title="Int. Europa" , TVI pt
-https://video-auth5.iol.pt/live_tvi/live_tvi/edge_servers/tvi-240p/chunks.m3u8?nimblesessionid=50054164&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIzIDEwOjg6NDIgQU0maGFzaF92YWx1ZT1hR2NwL09vUzlmQWhzRG5udVBqQklnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZTllMDQ2MjMtMWM5ZC00MGUwLWI2YTEtOTVmODQ3YzE1NDBl
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/800px-CNN_Portugal.svg.png" group-title="Int. Europa" , CNN pt
-https://video-auth6.iol.pt/live_cnn/live_cnn/edge_servers/cnn-480p/chunks.m3u8?nimblesessionid=366009078&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIzIDEwOjc6NTAgQU0maGFzaF92YWx1ZT1YN3ZtVEJIdVlwUlpQZ0dJcDBOUXBnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTU5ODVhNjItY2E1Yi00ZTVmLTg4NzAtM2JkMTI5NTkxZTZj
 
 
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-xtra_2.jpg" group-title="Int. América" , RCN xtra
