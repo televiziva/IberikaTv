@@ -44,7 +44,7 @@ https://spottvod.akamaized.net/i/hdflash/rlaxx/indigenius/memoria_negra_S01E13_,
 #EXTINF:-1 tvg-name= "Memoria Negra" tvg-logo="https://pics.filmaffinity.com/Memoria_negra_Serie_de_TV-480872261-large.jpg" group-title="MEMORIA NEGRA" ,Memoria Negra 1x14
 https://spottvod.akamaized.net/i/hdflash/rlaxx/indigenius/memoria_negra_S01E14_,premium,high,regular,.mp4.csmil/master.m3u8?cid=29842&ecid=1359164&pid=5&dtid=3&sid=078813147101&gc=3Uo&gsd=1V0&grm=1&hdnea=exp=1694777661~acl=*/rlaxx/indigenius/memoria_negra_S01E14*~hmac=e22d1a99bcb5cd337d22d3c84e7362476ca806829a3cbf9536437fc2871d5c06&content=742230
 
-
+#EXTINF:-1 tvg-name= "Prueba" tvg-logo="" group-title="Prueba" ,prueba
 
 
 
