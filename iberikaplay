@@ -2,31 +2,31 @@
 
 #EXTINF:1
 
-#EXTINF:-1 tvg-shift=0 tvg-name= "Memoria Negra" tvg-logo="https://pics.filmaffinity.com/Memoria_negra_Serie_de_TV-480872261-large.jpg" group-title="Memoria Negra" ,Memoria Negra 1x01
+#EXTINF:-1 tvg-name= "Memoria Negra" tvg-logo="https://pics.filmaffinity.com/Memoria_negra_Serie_de_TV-480872261-large.jpg" group-title="Memoria Negra" ,Memoria Negra 1x01
 https://spottvod.akamaized.net/ott/rlaxx/indigenius/memoria_negra_S01E01_high.mp4/index-v1-a1.m3u8?cid=29842&ecid=1361926&pid=5&dtid=3&sid=998090078193&gc=Zow&gsd=bps&grm=1&content=744314
 
-#EXTINF:-1 tvg-shift=0 tvg-name= "Memoria Negra" tvg-logo="https://pics.filmaffinity.com/Memoria_negra_Serie_de_TV-480872261-large.jpg" group-title="MEMORIA NEGRA",Memoria Negra 1x02
+#EXTINF:-1 tvg-name= "Memoria Negra" tvg-logo="https://pics.filmaffinity.com/Memoria_negra_Serie_de_TV-480872261-large.jpg" group-title="MEMORIA NEGRA",Memoria Negra 1x02
 https://spottvod.akamaized.net/ott/rlaxx/indigenius/memoria_negra_S01E02_premium.mp4/index-v1-a1.m3u8?cid=29842&ecid=1361922&pid=5&dtid=3&sid=339310995922&gc=TKk&gsd=RL4&grm=1&content=744303
 
-#EXTINF:-1 tvg-shift=0 tvg-name= "Memoria Negra" tvg-logo="https://pics.filmaffinity.com/Memoria_negra_Serie_de_TV-480872261-large.jpg" group-title="MEMORIA NEGRA" ,Memoria Negra 1x03
+#EXTINF:-1 tvg-name= "Memoria Negra" tvg-logo="https://pics.filmaffinity.com/Memoria_negra_Serie_de_TV-480872261-large.jpg" group-title="MEMORIA NEGRA" ,Memoria Negra 1x03
 https://spottvod.akamaized.net/ott/rlaxx/indigenius/memoria_negra_S01E03_premium.mp4/index-v1-a1.m3u8?cid=29842&ecid=1361920&pid=5&dtid=3&sid=988274392213&gc=Zb0&gsd=bao&grm=1&content=744292
 
-#EXTINF:-1 tvg-shift=0 tvg-name= "Memoria Negra" tvg-logo="https://pics.filmaffinity.com/Memoria_negra_Serie_de_TV-480872261-large.jpg" group-title="MEMORIA NEGRA" ,Memoria Negra 1x04
+#EXTINF:-1 tvg-name= "Memoria Negra" tvg-logo="https://pics.filmaffinity.com/Memoria_negra_Serie_de_TV-480872261-large.jpg" group-title="MEMORIA NEGRA" ,Memoria Negra 1x04
 https://spottvod.akamaized.net/i/hdflash/rlaxx/indigenius/memoria_negra_S01E04_,premium,high,regular,.mp4.csmil/master.m3u8?cid=29842&ecid=1361918&pid=5&dtid=3&sid=923113730818&gc=VpE&gsd=XoY&grm=1&hdnea=exp=1694777228~acl=*/rlaxx/indigenius/memoria_negra_S01E04*~hmac=22960e5b0e2e25f5dda18cf14714bf7a40a61f12fda27b1b475c0942e52234a8&content=744281
 
-#EXTINF:-1 tvg-shift=0 tvg-name= "Memoria Negra" tvg-logo="https://pics.filmaffinity.com/Memoria_negra_Serie_de_TV-480872261-large.jpg" group-title="MEMORIA NEGRA" ,Memoria Negra 1x05
+#EXTINF:-1 tvg-name= "Memoria Negra" tvg-logo="https://pics.filmaffinity.com/Memoria_negra_Serie_de_TV-480872261-large.jpg" group-title="MEMORIA NEGRA" ,Memoria Negra 1x05
 https://spottvod.akamaized.net/i/hdflash/rlaxx/indigenius/memoria_negra_S01E05_,premium,high,regular,.mp4.csmil/master.m3u8?cid=29842&ecid=1361916&pid=5&dtid=3&sid=774951730213&gc=UYc&gsd=WZA&grm=1&hdnea=exp=1694777266~acl=*/rlaxx/indigenius/memoria_negra_S01E05*~hmac=64982260e0e8df36f1c3157b2adfe1e8f62560821ccb045fa1fc75a0376d1ea4&content=744270
 
-#EXTINF:-1 tvg-shift=0 tvg-name= "Memoria Negra" tvg-logo="https://pics.filmaffinity.com/Memoria_negra_Serie_de_TV-480872261-large.jpg" group-title="MEMORIA NEGRA" ,Memoria Negra 1x06
+#EXTINF:-1 tvg-name= "Memoria Negra" tvg-logo="https://pics.filmaffinity.com/Memoria_negra_Serie_de_TV-480872261-large.jpg" group-title="MEMORIA NEGRA" ,Memoria Negra 1x06
 https://spottvod.akamaized.net/i/hdflash/rlaxx/indigenius/memoria_negra_S01E06_,premium,high,regular,.mp4.csmil/master.m3u8?cid=29842&ecid=1361914&pid=5&dtid=3&sid=098793539282&gc=1ZY&gsd=3YE&grm=1&hdnea=exp=1694777324~acl=*/rlaxx/indigenius/memoria_negra_S01E06*~hmac=cc6f4c858cfa787a73266e96910fa11192aa134026ad4846be4fb2fa90267134&content=744259
 
-#EXTINF:-1 tvg-shift=0 tvg-name= "Memoria Negra" tvg-logo="https://pics.filmaffinity.com/Memoria_negra_Serie_de_TV-480872261-large.jpg" group-title="MEMORIA NEGRA" ,Memoria Negra 1x07
+#EXTINF:-1 tvg-name= "Memoria Negra" tvg-logo="https://pics.filmaffinity.com/Memoria_negra_Serie_de_TV-480872261-large.jpg" group-title="MEMORIA NEGRA" ,Memoria Negra 1x07
 https://spottvod.akamaized.net/i/hdflash/rlaxx/indigenius/memoria_negra_S01E07_,premium,high,regular,.mp4.csmil/master.m3u8?cid=29842&ecid=1361912&pid=5&dtid=3&sid=395840003789&gc=-FI&gsd=8EU&grm=1&hdnea=exp=1694777354~acl=*/rlaxx/indigenius/memoria_negra_S01E07*~hmac=673ddc3b3ea581f94ac50040733b5f2561e5aee16e08e2eaca5129e016cd16d2&content=744248
 
-#EXTINF:-1 tvg-shift=0 tvg-name= "Memoria Negra" tvg-logo="https://pics.filmaffinity.com/Memoria_negra_Serie_de_TV-480872261-large.jpg" group-title="MEMORIA NEGRA" ,Memoria Negra 1x08
+#EXTINF:-1 tvg-name= "Memoria Negra" tvg-logo="https://pics.filmaffinity.com/Memoria_negra_Serie_de_TV-480872261-large.jpg" group-title="MEMORIA NEGRA" ,Memoria Negra 1x08
 https://spottvod.akamaized.net/i/hdflash/rlaxx/indigenius/memoria_negra_S01E08_,premium,high,regular,.mp4.csmil/master.m3u8?cid=29842&ecid=1361654&pid=5&dtid=3&sid=020242800987&gc=19A&gsd=38c&grm=1&hdnea=exp=1694777386~acl=*/rlaxx/indigenius/memoria_negra_S01E08*~hmac=99ba63411d4b840601bd57f0167190979748687ef089a706cb9035bebb5e9dd6&content=743786
 
-#EXTINF:-1 tvg-shift=0 tvg-name= "Memoria Negra" tvg-logo="https://pics.filmaffinity.com/Memoria_negra_Serie_de_TV-480872261-large.jpg" group-title="MEMORIA NEGRA" ,Memoria Negra 1x09
+#EXTINF:-1 tvg-name= "Memoria Negra" tvg-logo="https://pics.filmaffinity.com/Memoria_negra_Serie_de_TV-480872261-large.jpg" group-title="MEMORIA NEGRA" ,Memoria Negra 1x09
 https://spottvod.akamaized.net/i/hdflash/rlaxx/indigenius/memoria_negra_S01E09_,premium,high,regular,.mp4.csmil/master.m3u8?cid=29842&ecid=1361652&pid=5&dtid=3&sid=873725148288&gc=17Q&gsd=36M&grm=1&hdnea=exp=1694777423~acl=*/rlaxx/indigenius/memoria_negra_S01E09*~hmac=a59b08861de595cd3cbf469845e528976a7cd478781d9795cbffe5daee69cc55&content=743775
 
 #EXTINF:-1 tvg-shift=0 tvg-name= "Memoria Negra" tvg-logo="https://pics.filmaffinity.com/Memoria_negra_Serie_de_TV-480872261-large.jpg"  group-title="MEMORIA NEGRA" ,Memoria Negra 1x10
