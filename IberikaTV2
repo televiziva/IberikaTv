@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz"
+#EXTM3U url-tvg="https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz, "http://m3u4u.com/xml/476rnmqx82f277x1nekg" 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" , La 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
