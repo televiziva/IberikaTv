@@ -5,7 +5,7 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La2.es(m3u4u)" tvg-name="La 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-shift="+1",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.es(m3u4u)" tvg-name="El Toro TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-shift="+1",El Toro TV
-https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8
 #EXTINF:-1 tvg-id="TelemadridInt(src01).es(m3u4u)" tvg-name="Telemadrid" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="Generalistas" tvg-shift="+1",Telemadrid
 https://telemadrid-23.secure2.footprint.net/master.m3u8
 #EXTINF:-1 tvg-id="CANALSURA(src01).es(m3u4u)" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Generalistas" tvg-shift="+1",Canal Sur Andalucía
@@ -56,22 +56,9 @@ https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12019.m3u8
 #EXTINF:-1 tvg-id="History2.mx(m3u4u)" tvg-name="Historia 2 latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="Culturales" tvg-shift="+1",Historia 2 latino
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16564.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Canal Historia Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/1200px-History_Logo_2008-2015.svg.png" group-title="Culturales" tvg-shift="+1",Canal Historia Latino
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16565.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Equipo de Investigación" tvg-logo="https://pbs.twimg.com/media/EXLgewKVcAMRnwk?format=jpg&name=medium" group-title="Culturales" tvg-shift="+1",Equipo de Investigación
-https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Extranormal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Extranormal_Punto_2.jpg" group-title="Culturales" tvg-shift="+1",Extranormal
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12019.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Historia 2 latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="Culturales" tvg-shift="+1",Historia 2 latino
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16564.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Universal Crime" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs3aBpkvdK_uW4ON3hJipvQLoAZe18MMAwnnJHzvj8ULMgJ5PGcIUx0ePRlVgbrnOfMPKmV6NxvCSctRp_r0_Td0PQaPFNZEMSeLp05_6P94J4-qlnfo0KLx31yTpSUY4m6ock8laE0yzpkKJoT5PTUM4jFaOOPmfnZSsLByg6FuPOHlV9rXgCoisZ/s250/unive" group-title="Culturales" tvg-shift="+1",Universal Crime
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38846.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Histonauta TV" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Culturales" tvg-shift="+1",El Histonauta TV
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rakuten Documentários Pt" tvg-logo="" group-title="Culturales" tvg-shift="+1",Rakuten Documentários Pt
-https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TEC TV" tvg-logo="https://i.imgur.com/LYy0Rfo.png" group-title="Culturales" tvg-shift="+1",TEC TV
-https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Viajar Tv" tvg-logo="https://herogo-origin001.sotalcloud.com/contentserver/v2/distributions/18677570/content/1644229962057_tv_ch_256X256_Viajar_TV.png?img.crop=200x200" group-title="Viajes" tvg-shift="+1",Viajar Tv
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="INTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/1200px-INTI_Network_TV.png" group-title="Viajes" tvg-shift="+1",INTI
@@ -166,21 +153,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Eurodance 90s" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-eurodance-90-hd.jpg?itok=Nr_oAx6e" group-title="Musicales" tvg-shift="+1",Eurodance 90s
 https://eurodance90.catcast.tv/content/36987/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Agallas el perro cobarde latino" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/96/Coraje-Perro-Cobarde_logo.png/revision/latest?cb=20180125003920&path-prefix=es" group-title="Animación" tvg-shift="+1",Agallas el perro cobarde latino
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11067.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Picapiedras" tvg-logo="https://static.wikia.nocookie.net/hanna-barbera/images/0/0f/416-4167243_car-in-the-flintstones-hd-png-download.png/revision/latest?cb=20210803225923&path-prefix=es" group-title="Animación" tvg-shift="+1",Los Picapiedras
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38710.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpons latino moderno" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv0MIrsxU_8ME6xdsffj55QlpHsRtYxX2Jy20A3Pw-brLtQY02Qr800jdZjNQ1uoYzHXs&usqp=CAU" group-title="Animación" tvg-shift="+1",Los Simpons latino moderno
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38722.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpsons Latino Halloween" tvg-logo="https://cdn.imgbin.com/2/23/13/imgbin-treehouse-of-horror-xviii-logo-the-simpsons-tapped-out-youtube-youtube-qeTFuPtcFxd1yrPKvtxd6Pfr4.jpg" group-title="Animación" tvg-shift="+1",Los Simpsons Latino Halloween
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11998.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Power Ranger" tvg-logo="https://freepngimg.com/download/power_rangers/21068-1-power-rangers-transparent-image.png" group-title="Animación" tvg-shift="+1",Power Ranger
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12043.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SailorMoon Latino" tvg-logo="https://i.pinimg.com/originals/0f/9d/a8/0f9da8e247f478759dce0064a14d1994.png" group-title="Animación" tvg-shift="+1",SailorMoon Latino
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2395.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Tom y Jerry Show" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Tom_and_Jerry.gif/revision/latest?cb=20210607004645&path-prefix=es" group-title="Animación" tvg-shift="+1",Tom y Jerry Show
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/46974.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Agallas el perro cobarde latino" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/96/Coraje-Perro-Cobarde_logo.png/revision/latest?cb=20180125003920&path-prefix=es" group-title="Animación" tvg-shift="+1",Agallas el perro cobarde latino
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11067.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Picapiedras" tvg-logo="https://static.wikia.nocookie.net/hanna-barbera/images/0/0f/416-4167243_car-in-the-flintstones-hd-png-download.png/revision/latest?cb=20210803225923&path-prefix=es" group-title="Animación" tvg-shift="+1",Los Picapiedras
