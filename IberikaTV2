@@ -71,14 +71,10 @@ https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx(m3u4u)" tvg-name="Golden Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/GoldenPlus.png/revision/latest?cb=20171205221730" group-title="Int. América" tvg-shift="+1",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Logo_Panamericana_2020.png" group-title="Int. América" tvg-shift="+1",Panamericana
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1202870003&_cdn_timestamp=1695216636&_cdn_token=4f66a26c0f79b3e175a7cefda833f575bab81e4b
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx(m3u4u)" tvg-name="Telemundo California" tvg-logo="https://i.pinimg.com/originals/9c/60/52/9c60522c8605b531d55f5fd7975f9de3.jpg" group-title="Int. América" tvg-shift="+1",Telemundo California
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="UnivisionTDN.mx(m3u4u)" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png" group-title="Int. América" tvg-shift="+1",Univision
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericaTV.ar(m3u4u)" tvg-name="America Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png" group-title="Int. América" tvg-shift="+1",America Television
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=1194197483&_cdn_timestamp=1695046729&_cdn_token=b00e05073eee5e148ed58e5682a26bf1488e6aba
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/800px-Ecuavisa_Logo_2019.png" group-title="Int. América" tvg-shift="+1",Ecuavisa
 https://mdstrm.com/live-stream-playlist/6089d0a7f61e11081f8c832a.m3u8
 #EXTINF:-1 tvg-id="AmericaTeVe.mx(m3u4u)" tvg-name="ATV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/ATV_logo_con_fondo_2021-.svg/revision/latest/scale-to-width-down/250?cb=20220425162558&path-prefix=es" group-title="Int. América" tvg-shift="+1",ATV
@@ -87,10 +83,6 @@ https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ATV sur" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/ATV_Sur_2018_2.svg/revision/latest/scale-to-width-down/300?cb=20210522015013&path-prefix=es" group-title="Int. América" tvg-shift="+1",ATV sur
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur2/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="N+" tvg-logo="https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/659a4eb3948eeed2e5ad230850f3b429~c5_720x720.jpeg?x-expires=1694829600&x-signature=19NfFz26ZUmwlKClFWuIYzGhKjM%3D" group-title="Int. América" tvg-shift="+1",N+
-https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Logo_Panamericana_2020.png" group-title="Int. América" tvg-shift="+1",Panamericana
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=1202870003&_cdn_timestamp=1695216636&_cdn_token=4f66a26c0f79b3e175a7cefda833f575bab81e4b
 #EXTINF:-1 tvg-id="SenalColombia.co(m3u4u)" tvg-name="Señal Colombia" tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" group-title="Int. América" tvg-shift="+1",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="Las estrellas Mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Int. América" tvg-shift="+1",Las estrellas Mx
