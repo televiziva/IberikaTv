@@ -81,14 +81,6 @@ https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las estrellas Mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Int. América" tvg-shift="+1",Las estrellas Mx
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90447_dark_360w_270h.png" group-title="Int. Europa" tvg-shift="+1",Das Erste
-https://mcdn.daserste.de/daserste/int/master.m3u8
-#EXTINF:-1 tvg-id="DWEnespanol.co" tvg-name="DW Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64230_dark_360w_270h.png" group-title="Int. Europa" tvg-shift="+1",DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="m2(src01).hu" tvg-name="M2 Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/M2_gyerekcsatorna_log%C3%B3ja.png/1200px-M2_gyerekcsatorna_log%C3%B3ja.png" group-title="Int. Europa" tvg-shift="+1",M2 Hungary
-https://c202-node61-cdn.connectmedia.hu/110302/6fae73bc55f0897709e6eaf4ac17a34a/6515c8bd/index.m3u8?v=5iip:84.39.178.144
-#EXTINF:-1 tvg-id="TVRInternational(Romanian-English).de" tvg-name="TVRi Rumania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/TVR_i_2022_logo.png/800px-TVR_i_2022_logo.png?20221206210625" group-title="Int. Europa" tvg-shift="+1",TVRi Rumania
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b6096000.m3u8
 #EXTINF:-1 tvg-id="DasErste.de(m3u4u)" tvg-name="Das Erste" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90447_dark_360w_270h.png" group-title="Int. Europa" tvg-shift="+1",Das Erste
 https://mcdn.daserste.de/daserste/int/master.m3u8
 #EXTINF:-1 tvg-id="DWEnespanol.co(m3u4u)" tvg-name="DW Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64230_dark_360w_270h.png" group-title="Int. Europa" tvg-shift="+1",DW Español
