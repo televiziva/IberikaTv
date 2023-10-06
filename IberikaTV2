@@ -41,7 +41,7 @@ https://bbc-bbcearth-1-us.plex.wurl.tv/playlist.m3u8
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Extranormal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Extranormal_Punto_2.jpg" group-title="CULTURALES" tvg-shift="+1",Extranormal
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12019.m3u8
-#EXTINF:-1 tvg-id="History2.mx" tvg-name="Historia 2 latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="CULTURALES" tvg-shift="+1",Historia 2 latino
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="CULTURALES" tvg-shift="+1",Historia 2 latino
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16564.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Histonauta TV" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="CULTURALES" tvg-shift="+1",El Histonauta TV
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
@@ -81,8 +81,6 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las estrellas Mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="INT. AMÉRICA" tvg-shift="+1",Las estrellas Mx
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="m2(src01).hu" tvg-name="M2 Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/M2_gyerekcsatorna_log%C3%B3ja.png/1200px-M2_gyerekcsatorna_log%C3%B3ja.png" group-title="INT. EUROPA" tvg-shift="+1",M2 Hungary
-https://c202-node61-cdn.connectmedia.hu/110302/6fae73bc55f0897709e6eaf4ac17a34a/6515c8bd/index.m3u8?v=5iip:84.39.178.144
 #EXTINF:-1 tvg-id="DasErste.de(m3u4u)" tvg-name="Das Erste" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90447_dark_360w_270h.png" group-title="INT. EUROPA" tvg-shift="+1",Das Erste
 https://mcdn.daserste.de/daserste/int/master.m3u8
 #EXTINF:-1 tvg-id="DWEnespanol.co(m3u4u)" tvg-name="DW Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64230_dark_360w_270h.png" group-title="INT. EUROPA" tvg-shift="+1",DW Español
@@ -114,7 +112,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/TVI_logo.jpg" group-title="INT. EUROPA" tvg-shift="+1",TVI
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIzIDU6MDo1MiBQTSZoYXNoX3ZhbHVlPWxLdUdjakFQbHhwblcreVlTNmhsVEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lNmQ5NDZhNi00Y2Q1LTQxYmItYTgxMS1mZjQ3OTVlMDI3NDU=/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 80s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="MUSICALES" tvg-shift="+1",MTV 80s
-http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/85413
+https://ip1.pokaz.me:1443/174/index.m3u8?wmsAuthSign=1696631940p441i871i93i48S7ebac0c647fe60fc2ab97cfed0333193
 #EXTINF:-1 tvg-id="KRONEHIT.de" tvg-name="Kronehit Austria" tvg-logo="https://graph.facebook.com/kronehit/picture?width=200&height=200" group-title="MUSICALES" tvg-shift="+1",Kronehit Austria
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV00sEurope(English).de" tvg-name="MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MUSICALES" tvg-shift="+1",MTV 00s
