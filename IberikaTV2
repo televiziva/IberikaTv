@@ -53,15 +53,15 @@ https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist_w1345826
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Turistika tv" tvg-logo="https://graph.facebook.com/turistikmedia/picture?width=200&height=200" group-title="VIAJES" tvg-shift="+1",Turistika tv
 https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Autentica tv" tvg-logo="" group-title="INT. AMÉRICA" tvg-shift="+1",Autentica tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Autentica tv" tvg-logo="https://cdn.m3u.cl/logo/1089_Autentica_TV.png" group-title="INT. AMÉRICA" tvg-shift="+1",Autentica tv
 https://live.obslivestream.com/autenticatvmux/index.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ElTrece" tvg-logo="" group-title="INT. AMÉRICA" tvg-shift="+1",ElTrece
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ElTrece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png" group-title="INT. AMÉRICA" tvg-shift="+1",ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oromar TV" tvg-logo="" group-title="INT. AMÉRICA" tvg-shift="+1",Oromar TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oromar TV" tvg-logo="https://cdn.m3u.cl/logo/1323_Oromar.png" group-title="INT. AMÉRICA" tvg-shift="+1",Oromar TV
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv Pública" tvg-logo="" group-title="INT. AMÉRICA" tvg-shift="+1",Tv Pública
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv Pública" tvg-logo="https://seeklogo.com/images/T/tvp-television-publica-logo-68D29E4E3A-seeklogo.com.png" group-title="INT. AMÉRICA" tvg-shift="+1",Tv Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVPe" tvg-logo="" group-title="INT. AMÉRICA" tvg-shift="+1",TVPe
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVPe" tvg-logo="https://cdn.m3u.cl/logo/1091_TVPE.png" group-title="INT. AMÉRICA" tvg-shift="+1",TVPe
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Atv+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/VIVOplay_logo.png" group-title="INT. AMÉRICA" tvg-shift="+1",Atv+
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
@@ -99,21 +99,21 @@ http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8
 #EXTINF:-1 tvg-id="RTP3(src01).pt" tvg-name="RTP3" tvg-logo="https://i.imgur.com/ohXJmiR.png" group-title="INT. EUROPA" tvg-shift="+1",RTP3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP Memória" tvg-logo="" group-title="INT. EUROPA" tvg-shift="+1",RTP Memória
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP Memória" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMemoria00.jpg" group-title="INT. EUROPA" tvg-shift="+1",RTP Memória
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPiRadioTVPortuguesaIntl(Portuguese).co" tvg-name="RTP Internacional Asia " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="INT. EUROPA" tvg-shift="+1",RTP Internacional Asia 
 http://210.210.155.37/qwr9ew/s/s38/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Portugal" tvg-logo="" group-title="INT. EUROPA" tvg-shift="+1",CNN Portugal
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/1200px-CNN_Portugal.svg.png" group-title="INT. EUROPA" tvg-shift="+1",CNN Portugal
 https://video-auth2.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIzIDQ6NTI6MzAgUE0maGFzaF92YWx1ZT04T3VQUWxibjJMa3N3b2JoQ3FIUXNRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTVkZWZhM2YtYmM4My00Y2RlLTlkZjYtZjRlMmJiODI4YWE2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP Africa" tvg-logo="" group-title="INT. EUROPA" tvg-shift="+1",RTP Africa
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP Africa" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpAfrica_positivo.jpg" group-title="INT. EUROPA" tvg-shift="+1",RTP Africa
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP Açores" tvg-logo="" group-title="INT. EUROPA" tvg-shift="+1",RTP Açores
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP Açores" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpAc%CC%A7ores_positivo.jpg" group-title="INT. EUROPA" tvg-shift="+1",RTP Açores
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SIC(src01).pt" tvg-name="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png/200px-Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="INT. EUROPA" tvg-shift="+1",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVI" tvg-logo="" group-title="INT. EUROPA" tvg-shift="+1",TVI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/TVI_logo.jpg" group-title="INT. EUROPA" tvg-shift="+1",TVI
 https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIzIDU6MDo1MiBQTSZoYXNoX3ZhbHVlPWxLdUdjakFQbHhwblcreVlTNmhsVEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lNmQ5NDZhNi00Y2Q1LTQxYmItYTgxMS1mZjQ3OTVlMDI3NDU=/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 80s" tvg-logo="" group-title="MUSICALES" tvg-shift="+1",MTV 80s
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 80s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="MUSICALES" tvg-shift="+1",MTV 80s
 http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/85413
 #EXTINF:-1 tvg-id="KRONEHIT.de" tvg-name="Kronehit Austria" tvg-logo="https://graph.facebook.com/kronehit/picture?width=200&height=200" group-title="MUSICALES" tvg-shift="+1",Kronehit Austria
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
