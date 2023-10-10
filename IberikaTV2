@@ -27,25 +27,29 @@ https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 #EXTINF:-1 tvg-id="8tv.es" tvg-name="8tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/8tv_logo_2021.svg/472px-8tv_logo_2021.svg.png" group-title="GENERALISTAS" tvg-shift="+1",8tv
 https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVE Int." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png" group-title="GENERALISTAS" tvg-shift="+1", TVE Int.
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trece" tvg-logo="https://brandemia.org/sites/default/files/inline/images/destacado13-1200x750.jpg" group-title="GENERALISTAS" tvg-shift="+1", Trece
+https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+
 #EXTINF:-1 tvg-id=" Aida 24 Horas" tvg-name="Aida 24h" tvg-logo="https://www.portobellostreet.es/mercurio_imagenes/serie-aida.jpg" group-title="SERIES" tvg-shift="+1",Aida 24h
 https://directo2.lqsa.es/hls/2/stream.m3u8
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="." tvg-logo="" group-title="SERIES" tvg-shift="+1",.
-https://atres-live.atresmedia.com/428377f1d0b2e571dc2a86a97d796b57647c406e_ES_1696089120_1696117860/h264/live/neox/master.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Encuentro" tvg-logo="" group-title="CULTURALES" tvg-shift="+1",Canal Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="History.mx" tvg-name="Canal Historia Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/1200px-History_Logo_2008-2015.svg.png" group-title="CULTURALES" tvg-shift="+1",Canal Historia Latino
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16565.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Earth" tvg-logo="" group-title="CULTURALES" tvg-shift="+1",BBC Earth
-https://bbc-bbcearth-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal Crime" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png" group-title="CULTURALES" tvg-shift="+1",Universal Crime
+http://177.53.153.21:8001/play/a09g/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Equipo de Investigación" tvg-logo="https://pbs.twimg.com/media/EXLgewKVcAMRnwk?format=jpg&name=medium" group-title="CULTURALES" tvg-shift="+1",Equipo de Investigación
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Extranormal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Extranormal_Punto_2.jpg" group-title="CULTURALES" tvg-shift="+1",Extranormal
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12019.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="CULTURALES" tvg-shift="+1",Historia 2 latino
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo latino" tvg-logo="https://i.pinimg.com/736x/94/33/37/943337fd8005416f5c83711e2c04046b.jpg" group-title="CULTURALES" tvg-shift="+1",Historia 2 latino
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16564.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Histonauta TV" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="CULTURALES" tvg-shift="+1",El Histonauta TV
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Viajar Tv" tvg-logo="https://herogo-origin001.sotalcloud.com/contentserver/v2/distributions/18677570/content/1644229962057_tv_ch_256X256_Viajar_TV.png?img.crop=200x200" group-title="VIAJES" tvg-shift="+1",Viajar Tv
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Viajar Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7l1LnyaGGAWZA_zRnZhhk6ZzIKhEXEeO1ipXB6KWdvjbz-WB69b8Y3mbCHlRloKJeXjo&usqp=CAU" group-title="VIAJES" tvg-shift="+1",Viajar Tv
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="INTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/1200px-INTI_Network_TV.png" group-title="VIAJES" tvg-shift="+1",INTI
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist_w1345826689.m3u8
@@ -53,6 +57,9 @@ https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist_w1345826
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Turistika tv" tvg-logo="https://graph.facebook.com/turistikmedia/picture?width=200&height=200" group-title="VIAJES" tvg-shift="+1",Turistika tv
 https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Azteca Uno" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7DFAtOYGciVRuk5wEDsKJJBmLeF2GSVydw6qCl_mPeVuVa8uQrCZGoO4wqnk4kJXR0qY&usqp=CAU" group-title="INT. AMÉRICA" tvg-shift="+1",Azteca Uno
+https://live.obslivestream.com/autenticatvmux/index.m3u8?WebM3UCL
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Autentica tv" tvg-logo="https://cdn.m3u.cl/logo/1089_Autentica_TV.png" group-title="INT. AMÉRICA" tvg-shift="+1",Autentica tv
 https://live.obslivestream.com/autenticatvmux/index.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ElTrece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png" group-title="INT. AMÉRICA" tvg-shift="+1",ElTrece
@@ -109,14 +116,9 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SIC(src01).pt" tvg-name="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png/200px-Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="INT. EUROPA" tvg-shift="+1",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/TVI_logo.jpg" group-title="INT. EUROPA" tvg-shift="+1",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIzIDU6MDo1MiBQTSZoYXNoX3ZhbHVlPWxLdUdjakFQbHhwblcreVlTNmhsVEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lNmQ5NDZhNi00Y2Q1LTQxYmItYTgxMS1mZjQ3OTVlMDI3NDU=/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV 80s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="MUSICALES" tvg-shift="+1",MTV 80s
-https://ip1.pokaz.me:1443/174/index.m3u8?wmsAuthSign=1696631940p441i871i93i48S7ebac0c647fe60fc2ab97cfed0333193
+
 #EXTINF:-1 tvg-id="KRONEHIT.de" tvg-name="Kronehit Austria" tvg-logo="https://graph.facebook.com/kronehit/picture?width=200&height=200" group-title="MUSICALES" tvg-shift="+1",Kronehit Austria
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV00sEurope(English).de" tvg-name="MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MUSICALES" tvg-shift="+1",MTV 00s
-http://195.24.89.82/VH1_SD/index.m3u8
 #EXTINF:-1 tvg-id="4Fun.pl" tvg-name="4FUN TV Polonia" tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200" group-title="MUSICALES" tvg-shift="+1",4FUN TV Polonia
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-id="ocko.music" tvg-name="Ocko Chequia" tvg-logo="https://graph.facebook.com/tvocko/picture?width=200&height=200" group-title="MUSICALES" tvg-shift="+1",Ocko Chequia
@@ -141,14 +143,38 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-id="eurodance.at" tvg-name="Eurodance 90s" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-eurodance-90-hd.jpg?itok=Nr_oAx6e" group-title="MUSICALES" tvg-shift="+1",Eurodance 90s
 https://eurodance90.catcast.tv/content/36987/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Film Detective" tvg-logo="" group-title="CINE INGLÉS" tvg-shift="+1",The Film Detective
 https://amg01201-cinedigmenterta-filmdetective-cineverse-q86jq.amagi.tv/playlist/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Film Detective" tvg-logo="" group-title="CINE INGLÉS" tvg-shift="+1",The Film Detective
-https://amg01201-cinedigmenterta-filmdetective-cineverse-q86jq.amagi.tv/playlist/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Sundance East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png" group-title="CINE INGLÉS" tvg-shift="+1",Sundance East
-https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Shout! Cult" tvg-logo="https://shoutfactorytvlive.com/media_cache/userFiles/uploads/Shout_Cult/max2000/ShoutCult_1450x630_LiveSite_v2.jpg" group-title="CINE INGLÉS" tvg-shift="+1",Shout! Cult
-https://shoutfactory-shoutcult-1-us.ono.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINE" , Cinemax
+http://45.189.117.202:48000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="CINE" tvg-shift="+1", Cinecanal
+http://181.78.21.60:16123/play/ch10
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/HBO-Logo-1975.png" group-title="CINE" tvg-shift=, HBO
+http://177.53.153.21:8001/play/a03b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO2" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-2-logo-png-transparent.png" group-title="CINE" tvg-shift="+1",HBO2
+http://177.53.153.21:8001/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="CINE" tvg-shift="+1",HBO+
+http://201.218.137.242:8000/play/a00a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family" tvg-logo="https://2.bp.blogspot.com/-fWMY8sHAuHs/TqB9xKDM_-I/AAAAAAAAQh0/N-fI53l9A84/s1600/hbo-family.png" group-title="CINE" tvg-shift="+1",HBO Family
+http://177.53.153.21:8001/play/a04g/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Xtreme" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/HBO_Xtreme.svg/revision/latest/scale-to-width-down/200?cb=20230215144641&path-prefix=es" group-title="CINE" tvg-shift="+1",HBO Xtreme
+http://177.53.153.21:8001/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Pop" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2019_12/small.logo-hboPOP2020.png.dc4448e735467a37d79683e6b085c43f.png" group-title="CINE" tvg-shift="+1",HBO Pop
+http://177.53.153.21:8001/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/120px-A%26E_Network_logo.svg.png" group-title="CINE" , A&E
+http://45.166.92.22:58001/play/a00p/index.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MST3K" tvg-logo="https://i.imgur.com/2LSdcga.png" group-title="CINE INGLÉS" tvg-shift="+1",MST3K
 https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Agallas el perro cobarde latino" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/96/Coraje-Perro-Cobarde_logo.png/revision/latest?cb=20180125003920&path-prefix=es" group-title="ANIMACIÓN" tvg-shift="+1",Agallas el perro cobarde latino
