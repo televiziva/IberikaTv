@@ -58,7 +58,6 @@ https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Turistika tv" tvg-logo="https://graph.facebook.com/turistikmedia/picture?width=200&height=200" group-title="VIAJES" tvg-shift="+1",Turistika tv
 https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Azteca Uno" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7DFAtOYGciVRuk5wEDsKJJBmLeF2GSVydw6qCl_mPeVuVa8uQrCZGoO4wqnk4kJXR0qY&usqp=CAU" group-title="INT. AMÉRICA" tvg-shift="+1",Azteca Uno
-https://live.obslivestream.com/autenticatvmux/index.m3u8?WebM3UCL
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Autentica tv" tvg-logo="https://cdn.m3u.cl/logo/1089_Autentica_TV.png" group-title="INT. AMÉRICA" tvg-shift="+1",Autentica tv
 https://live.obslivestream.com/autenticatvmux/index.m3u8?WebM3UCL
