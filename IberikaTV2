@@ -35,7 +35,7 @@ https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/livel
 #EXTINF:-1 tvg-id=" Aida 24 Horas" tvg-name="Aida 24h" tvg-logo="https://www.portobellostreet.es/mercurio_imagenes/serie-aida.jpg" group-title="SERIES" tvg-shift="+1",Aida 24h
 https://directo2.lqsa.es/hls/2/stream.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Encuentro" tvg-logo="" group-title="CULTURALES" tvg-shift="+1",Canal Encuentro
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Encuentro" tvg-logo="https://www.cultura.gob.ar/media/uploads/captura_de_pantalla_2021-03-05_a_las_12.27.24.png" group-title="CULTURALES" tvg-shift="+1",Canal Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="History.mx" tvg-name="Canal Historia Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/1200px-History_Logo_2008-2015.svg.png" group-title="CULTURALES" tvg-shift="+1",Canal Historia Latino
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16565.m3u8
