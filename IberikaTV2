@@ -69,7 +69,7 @@ https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8?WebM3UCL
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVPe" tvg-logo="https://cdn.m3u.cl/logo/1091_TVPE.png" group-title="INT. AMÉRICA" tvg-shift="+1",TVPe
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Atv+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/VIVOplay_logo.png" group-title="INT. AMÉRICA" tvg-shift="+1",Atv+
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Atv+" tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="INT. AMÉRICA" tvg-shift="+1",Atv+
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/800px-Ecuavisa_Logo_2019.png" group-title="INT. AMÉRICA" tvg-shift="+1",Ecuavisa
 https://mdstrm.com/live-stream-playlist/6089d0a7f61e11081f8c832a.m3u8
@@ -91,8 +91,6 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://mcdn.daserste.de/daserste/int/master.m3u8
 #EXTINF:-1 tvg-id="DWEnespanol.co(m3u4u)" tvg-name="DW Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64230_dark_360w_270h.png" group-title="INT. EUROPA" tvg-shift="+1",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="m2(src01).hu(m3u4u)" tvg-name="M2 Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/M2_gyerekcsatorna_log%C3%B3ja.png/1200px-M2_gyerekcsatorna_log%C3%B3ja.png" group-title="INT. EUROPA" tvg-shift="+1",M2 Hungary
-http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/83463
 #EXTINF:-1 tvg-id="TV5MondeEurope(Spanish).de" tvg-name="TV5Monde Francia" tvg-logo="https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200" group-title="INT. EUROPA" tvg-shift="+1",TV5Monde Francia
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24 Italia IT" tvg-logo="https://graph.facebook.com/rainews.it/picture?width=200&height=200" group-title="INT. EUROPA" tvg-shift="+1",Rai News 24 Italia IT
@@ -101,11 +99,11 @@ https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/pla
 http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 tvg-id="RTPInternacionalEurope(Portuguese).de" tvg-name="RTPi Eu" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275" group-title="INT. EUROPA" tvg-shift="+1",RTPi Eu
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8
-#EXTINF:-1 tvg-id="RTP3(src01).pt" tvg-name="RTP3" tvg-logo="https://i.imgur.com/ohXJmiR.png" group-title="INT. EUROPA" tvg-shift="+1",RTP3
+#EXTINF:-1 tvg-id="RTP3(src01).pt" tvg-name="RTP3" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/28545_38014_27812.jpg?amp;w=160" group-title="INT. EUROPA" tvg-shift="+1",RTP3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP Memória" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMemoria00.jpg" group-title="INT. EUROPA" tvg-shift="+1",RTP Memória
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPiRadioTVPortuguesaIntl(Portuguese).co" tvg-name="RTP Internacional Asia " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="INT. EUROPA" tvg-shift="+1",RTP Internacional Asia 
+#EXTINF:-1 tvg-id="RTPiRadioTVPortuguesaIntl(Portuguese).co" tvg-name="RTP Internacional Asia " tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?v=3&w=860" group-title="INT. EUROPA" tvg-shift="+1",RTP Internacional Asia 
 http://210.210.155.37/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/1200px-CNN_Portugal.svg.png" group-title="INT. EUROPA" tvg-shift="+1",CNN Portugal
 https://video-auth2.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIzIDQ6NTI6MzAgUE0maGFzaF92YWx1ZT04T3VQUWxibjJMa3N3b2JoQ3FIUXNRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTVkZWZhM2YtYmM4My00Y2RlLTlkZjYtZjRlMmJiODI4YWE2
@@ -143,7 +141,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 #EXTINF:-1 tvg-id="eurodance.at" tvg-name="Eurodance 90s" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-eurodance-90-hd.jpg?itok=Nr_oAx6e" group-title="MUSICALES" tvg-shift="+1",Eurodance 90s
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Film Detective" tvg-logo="" group-title="CINE INGLÉS" tvg-shift="+1",The Film Detective
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Film Detective" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/The_Film_Detective_logo.png" group-title="CINE INGLÉS" tvg-shift="+1",The Film Detective
 https://amg01201-cinedigmenterta-filmdetective-cineverse-q86jq.amagi.tv/playlist/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINE" , Cinemax
@@ -152,7 +150,7 @@ http://45.189.117.202:48000/play/a02a/index.m3u8
 http://181.78.21.60:16123/play/ch10
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/HBO-Logo-1975.png" group-title="CINE" tvg-shift=, HBO
 http://177.53.153.21:8001/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO2" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-2-logo-png-transparent.png" group-title="CINE" tvg-shift="+1",HBO2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-2_m.png" group-title="CINE" tvg-shift="+1",HBO2
 http://177.53.153.21:8001/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="CINE" tvg-shift="+1",HBO+
 http://201.218.137.242:8000/play/a00a
