@@ -19,14 +19,10 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-id="TPA7.es" tvg-name="TPA7" tvg-logo="https://graph.facebook.com/RTPAoficial/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",TPA7
 https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="TVG(src01).es" tvg-name="TVG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/331px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="GENERALISTAS" tvg-shift="+1",TVG
-https://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="La7TelevisionRegiondeMurcia.es" tvg-name="7 Murcia" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",7 Murcia
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Canal 4 Mallorca" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Canal-4-Baleares-en-DIRECTO-Online-en-vivo.png?resize=696%2C392&ssl=1" group-title="GENERALISTAS" tvg-shift="+1",Canal 4 Mallorca
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
-#EXTINF:-1 tvg-id="8tv.es" tvg-name="8tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/8tv_logo_2021.svg/472px-8tv_logo_2021.svg.png" group-title="GENERALISTAS" tvg-shift="+1",8tv
-https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVE Int." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png" group-title="GENERALISTAS" tvg-shift="+1", TVE Int.
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Trece" tvg-logo="https://brandemia.org/sites/default/files/inline/images/destacado13-1200x750.jpg" group-title="GENERALISTAS" tvg-shift="+1", Trece
@@ -37,16 +33,10 @@ https://directo2.lqsa.es/hls/2/stream.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Encuentro" tvg-logo="https://www.cultura.gob.ar/media/uploads/captura_de_pantalla_2021-03-05_a_las_12.27.24.png" group-title="CULTURALES" tvg-shift="+1",Canal Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="History.mx" tvg-name="Canal Historia Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/History_Logo_2008-2015.svg/1200px-History_Logo_2008-2015.svg.png" group-title="CULTURALES" tvg-shift="+1",Canal Historia Latino
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16565.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal Crime" tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png" group-title="CULTURALES" tvg-shift="+1",Universal Crime
 http://177.53.153.21:8001/play/a09g/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Equipo de Investigación" tvg-logo="https://pbs.twimg.com/media/EXLgewKVcAMRnwk?format=jpg&name=medium" group-title="CULTURALES" tvg-shift="+1",Equipo de Investigación
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Extranormal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Extranormal_Punto_2.jpg" group-title="CULTURALES" tvg-shift="+1",Extranormal
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12019.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo latino" tvg-logo="https://i.pinimg.com/736x/94/33/37/943337fd8005416f5c83711e2c04046b.jpg" group-title="CULTURALES" tvg-shift="+1",Historia 2 latino
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16564.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="El Histonauta TV" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="CULTURALES" tvg-shift="+1",El Histonauta TV
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Viajar Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7l1LnyaGGAWZA_zRnZhhk6ZzIKhEXEeO1ipXB6KWdvjbz-WB69b8Y3mbCHlRloKJeXjo&usqp=CAU" group-title="VIAJES" tvg-shift="+1",Viajar Tv
@@ -63,8 +53,6 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3
 https://live.obslivestream.com/autenticatvmux/index.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ElTrece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png" group-title="INT. AMÉRICA" tvg-shift="+1",ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oromar TV" tvg-logo="https://cdn.m3u.cl/logo/1323_Oromar.png" group-title="INT. AMÉRICA" tvg-shift="+1",Oromar TV
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv Pública" tvg-logo="https://seeklogo.com/images/T/tvp-television-publica-logo-68D29E4E3A-seeklogo.com.png" group-title="INT. AMÉRICA" tvg-shift="+1",Tv Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVPe" tvg-logo="https://cdn.m3u.cl/logo/1091_TVPE.png" group-title="INT. AMÉRICA" tvg-shift="+1",TVPe
@@ -105,8 +93,6 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPiRadioTVPortuguesaIntl(Portuguese).co" tvg-name="RTP Internacional Asia " tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?v=3&w=860" group-title="INT. EUROPA" tvg-shift="+1",RTP Internacional Asia 
 http://210.210.155.37/qwr9ew/s/s38/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/1200px-CNN_Portugal.svg.png" group-title="INT. EUROPA" tvg-shift="+1",CNN Portugal
-https://video-auth2.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDIzIDQ6NTI6MzAgUE0maGFzaF92YWx1ZT04T3VQUWxibjJMa3N3b2JoQ3FIUXNRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTVkZWZhM2YtYmM4My00Y2RlLTlkZjYtZjRlMmJiODI4YWE2
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP Africa" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpAfrica_positivo.jpg" group-title="INT. EUROPA" tvg-shift="+1",RTP Africa
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP Açores" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpAc%CC%A7ores_positivo.jpg" group-title="INT. EUROPA" tvg-shift="+1",RTP Açores
@@ -141,9 +127,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 #EXTINF:-1 tvg-id="eurodance.at" tvg-name="Eurodance 90s" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-eurodance-90-hd.jpg?itok=Nr_oAx6e" group-title="MUSICALES" tvg-shift="+1",Eurodance 90s
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Film Detective" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/The_Film_Detective_logo.png" group-title="CINE INGLÉS" tvg-shift="+1",The Film Detective
-https://amg01201-cinedigmenterta-filmdetective-cineverse-q86jq.amagi.tv/playlist/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINE" , Cinemax
 http://45.189.117.202:48000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="CINE" tvg-shift="+1", Cinecanal
@@ -162,29 +145,3 @@ http://177.53.153.21:8001/play/a04h/index.m3u8
 http://177.53.153.21:8001/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/120px-A%26E_Network_logo.svg.png" group-title="CINE" , A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MST3K" tvg-logo="https://i.imgur.com/2LSdcga.png" group-title="CINE INGLÉS" tvg-shift="+1",MST3K
-https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Agallas el perro cobarde latino" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/96/Coraje-Perro-Cobarde_logo.png/revision/latest?cb=20180125003920&path-prefix=es" group-title="ANIMACIÓN" tvg-shift="+1",Agallas el perro cobarde latino
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11067.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Picapiedras" tvg-logo="https://static.wikia.nocookie.net/hanna-barbera/images/0/0f/416-4167243_car-in-the-flintstones-hd-png-download.png/revision/latest?cb=20210803225923&path-prefix=es" group-title="ANIMACIÓN" tvg-shift="+1",Los Picapiedras
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38710.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpons latino moderno" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv0MIrsxU_8ME6xdsffj55QlpHsRtYxX2Jy20A3Pw-brLtQY02Qr800jdZjNQ1uoYzHXs&usqp=CAU" group-title="ANIMACIÓN" tvg-shift="+1",Los Simpons latino moderno
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38722.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Los Simpsons Latino Halloween" tvg-logo="https://cdn.imgbin.com/2/23/13/imgbin-treehouse-of-horror-xviii-logo-the-simpsons-tapped-out-youtube-youtube-qeTFuPtcFxd1yrPKvtxd6Pfr4.jpg" group-title="ANIMACIÓN" tvg-shift="+1",Los Simpsons Latino Halloween
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/11998.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Power Ranger" tvg-logo="https://freepngimg.com/download/power_rangers/21068-1-power-rangers-transparent-image.png" group-title="ANIMACIÓN" tvg-shift="+1",Power Ranger
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/12043.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SailorMoon Latino" tvg-logo="https://i.pinimg.com/originals/0f/9d/a8/0f9da8e247f478759dce0064a14d1994.png" group-title="ANIMACIÓN" tvg-shift="+1",SailorMoon Latino
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2395.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Tom y Jerry Show" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Tom_and_Jerry.gif/revision/latest?cb=20210607004645&path-prefix=es" group-title="ANIMACIÓN" tvg-shift="+1",Tom y Jerry Show
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/46974.m3u8
