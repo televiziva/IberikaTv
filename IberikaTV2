@@ -51,22 +51,16 @@ https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Autentica tv" tvg-logo="https://cdn.m3u.cl/logo/1089_Autentica_TV.png" group-title="INT. AMÉRICA" tvg-shift="+1",Autentica tv
 https://live.obslivestream.com/autenticatvmux/index.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ElTrece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png" group-title="INT. AMÉRICA" tvg-shift="+1",ElTrece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv Pública" tvg-logo="https://seeklogo.com/images/T/tvp-television-publica-logo-68D29E4E3A-seeklogo.com.png" group-title="INT. AMÉRICA" tvg-shift="+1",Tv Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVPe" tvg-logo="https://cdn.m3u.cl/logo/1091_TVPE.png" group-title="INT. AMÉRICA" tvg-shift="+1",TVPe
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Atv+" tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="INT. AMÉRICA" tvg-shift="+1",Atv+
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecuavisa" tvg-name="Ecuavisa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/800px-Ecuavisa_Logo_2019.png" group-title="INT. AMÉRICA" tvg-shift="+1",Ecuavisa
-https://mdstrm.com/live-stream-playlist/6089d0a7f61e11081f8c832a.m3u8
 #EXTINF:-1 tvg-id="AmericaTeVe.mx" tvg-name="ATV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/ATV_logo_con_fondo_2021-.svg/revision/latest/scale-to-width-down/250?cb=20220425162558&path-prefix=es" group-title="INT. AMÉRICA" tvg-shift="+1",ATV
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ATV sur" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/ATV_Sur_2018_2.svg/revision/latest/scale-to-width-down/300?cb=20210522015013&path-prefix=es" group-title="INT. AMÉRICA" tvg-shift="+1",ATV sur
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur2/chunks.m3u8
-#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/GoldenPlus.png/revision/latest?cb=20171205221730" group-title="INT. AMÉRICA" tvg-shift="+1",Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Señal Colombia" tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" group-title="INT. AMÉRICA" tvg-shift="+1",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx(m3u4u)" tvg-name="Telemundo California" tvg-logo="https://i.pinimg.com/originals/9c/60/52/9c60522c8605b531d55f5fd7975f9de3.jpg" group-title="INT. AMÉRICA" tvg-shift="+1",Telemundo California
@@ -127,16 +121,12 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 #EXTINF:-1 tvg-id="eurodance.at" tvg-name="Eurodance 90s" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-eurodance-90-hd.jpg?itok=Nr_oAx6e" group-title="MUSICALES" tvg-shift="+1",Eurodance 90s
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="CINE" , Cinemax
-http://45.189.117.202:48000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="CINE" tvg-shift="+1", Cinecanal
-http://181.78.21.60:16123/play/ch10
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/GoldenPlus.png/revision/latest?cb=20171205221730" group-title="CINE" tvg-shift="+1",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/HBO-Logo-1975.png" group-title="CINE" tvg-shift=, HBO
 http://177.53.153.21:8001/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-2_m.png" group-title="CINE" tvg-shift="+1",HBO2
 http://177.53.153.21:8001/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="CINE" tvg-shift="+1",HBO+
-http://201.218.137.242:8000/play/a00a
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family" tvg-logo="https://2.bp.blogspot.com/-fWMY8sHAuHs/TqB9xKDM_-I/AAAAAAAAQh0/N-fI53l9A84/s1600/hbo-family.png" group-title="CINE" tvg-shift="+1",HBO Family
 http://177.53.153.21:8001/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Xtreme" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/HBO_Xtreme.svg/revision/latest/scale-to-width-down/200?cb=20230215144641&path-prefix=es" group-title="CINE" tvg-shift="+1",HBO Xtreme
@@ -145,3 +135,21 @@ http://177.53.153.21:8001/play/a04h/index.m3u8
 http://177.53.153.21:8001/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/120px-A%26E_Network_logo.svg.png" group-title="CINE" , A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-id="MOvieSphere mx" tvg-name="MOvieSphere mx" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/ca53ff4d-moviesphere_intl_runtime_channeltitle.jpg" group-title="Runtime Mx" ,MOvieSphere mx
+https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/playlist/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8?timestamp=1698413629&id=12047&ip=201.150.35.76&override_expiration=1500&sign=n2LLwgVD9SERcPAlC4QucrcV2m8H%2BPVjP5k0MoxBXS0%3D&ads.ip=201.150.35.76
+
+#EXTINF:-1 tvg-id="Runtime Acción mx" tvg-name="Accion mx" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_action_bg.jpg" group-title="Runtime Mx" ,Runtime Acción mx
+https://stream.ads.ottera.tv/cl/231027cktrsc63pdfsg82fefe0/1280x720_3071200_0_f.m3u8?i=728_2550
+
+#EXTINF:-1 tvg-id="Runtime Crimen mx" tvg-name="crimen mx" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_crimen_latam_16x9.jpg" group-title="Runtime Mx" ,Runtime Crimen mx
+https://stream.ads.ottera.tv/cl/231027ckts26snsepsgipsnjcg/1280x720_3071200_0_f.m3u8?i=728_6129
+
+#EXTINF:-1 tvg-id="Runtime Espanto mx" tvg-name="Espanto mx" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_cinespanto_16x9_0.jpg" group-title="Runtime Mx" ,Runtime Espanto mx
+https://stream.ads.ottera.tv/cl/231027ckts360v7e9flc8dmdi0/1280x720_3071200_0_f.m3u8?i=728_6126
+
+#EXTINF:-1 tvg-id="Runtime mx" tvg-name="MOvieSphere mx" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_1920x1080.jpg" group-title="Runtime Mx" ,Runtime mx
+https://stream.ads.ottera.tv/cl/231027cktrof0ji6silj406dlg/960x540_1927200_1_f.m3u8?i=728_2154
+
+#EXTINF:-1 tvg-id="Runtime Sangre fría mx" tvg-name="MOvieSphere mx" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/square/366x206/e68983a1-sangre_fria_1920x1920_0.jpg" group-title="Runtime Mx" ,RuntimeSangre fría mx
+https://stream.ads.ottera.tv/cl/231027ckts6kokbchi9929lvtg/640x360_350000_2_f.m3u8?i=728_6130
