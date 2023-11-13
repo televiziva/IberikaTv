@@ -29,8 +29,7 @@ https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/livel
 #EXTINF:-1 tvg-id=" Aida 24 Horas" tvg-name="Aida 24h" tvg-logo="https://www.portobellostreet.es/mercurio_imagenes/serie-aida.jpg" group-title="SERIES" tvg-shift="+1",Aida 24h
 https://directo2.lqsa.es/hls/2/stream.m3u8
 
-#EXTINF:-1 tvg-id=" Aida 24 Horas" tvg-name="Aida 24h 2" tvg-logo="https://www.portobellostreet.es/mercurio_imagenes/serie-aida.jpg" group-title="SERIES" tvg-shift="+1",Aida 24h 2
-https://usher.ttvnw.net/api/channel/hls/lacolonial.m3u8?acmb=e30%3D&allow_source=true&cdm=wv&fast_bread=true&p=7711618&play_session_id=089648837f044a48cdceeaf3faeda06b&player_backend=mediaplayer&player_version=1.23.0&playlist_include_framerate=true&reassignments_supported=true&sig=4e3b3bbabcac1bf3ca612418e53a649979d6b04e&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22lacolonial%22%2C%22channel_id%22%3A943634662%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22a78c776b2dec6e63%22%2C%22expires%22%3A1699649213%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2284.39.182.118%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Equipo de Investigación" tvg-logo="https://pbs.twimg.com/media/EXLgewKVcAMRnwk?format=jpg&name=medium" group-title="CULTURALES" tvg-shift="+1",Equipo de Investigación
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
@@ -135,4 +134,14 @@ http://45.166.92.22:58001/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="MOvieSphere mx" tvg-name="MOvieSphere mx" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/ca53ff4d-moviesphere_intl_runtime_channeltitle.jpg" group-title="Runtime Mx" ,MOvieSphere mx
 https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/playlist/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8?timestamp=1698413629&id=12047&ip=201.150.35.76&override_expiration=1500&sign=n2LLwgVD9SERcPAlC4QucrcV2m8H%2BPVjP5k0MoxBXS0%3D&ads.ip=201.150.35.76
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME TV Y PELÍCULAS" tvg-logo="" group-title="Runtime MX",RUNTIME TV Y PELÍCULAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME CLÁSICO" tvg-logo="" group-title="Runtime MX",RUNTIME CLÁSICO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME FAMILIA" tvg-logo="" group-title="Runtime MX",RUNTIME FAMILIA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=352
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME CRIMEN" tvg-logo="" group-title="Runtime MX",RUNTIME CRIMEN
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME CINE ESPANTO" tvg-logo="" group-title="Runtime MX",RUNTIME CINE ESPANTO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 
