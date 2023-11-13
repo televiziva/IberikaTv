@@ -29,7 +29,21 @@ https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/livel
 #EXTINF:-1 tvg-id=" Aida 24 Horas" tvg-name="Aida 24h" tvg-logo="https://www.portobellostreet.es/mercurio_imagenes/serie-aida.jpg" group-title="SERIES" tvg-shift="+1",Aida 24h
 https://directo2.lqsa.es/hls/2/stream.m3u8
 
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/GoldenPlus.png/revision/latest?cb=20171205221730" group-title="CINE" tvg-shift="+1",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/120px-A%26E_Network_logo.svg.png" group-title="CINE" , A&E
+http://45.166.92.22:58001/play/a00p/index.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)x" tvg-name="MOVIESPHERE MX" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/ca53ff4d-moviesphere_intl_runtime_channeltitle.jpg" group-title="Runtime MX" ,MOvieSphere mx
+https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/playlist/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8?timestamp=1698413629&id=12047&ip=201.150.35.76&override_expiration=1500&sign=n2LLwgVD9SERcPAlC4QucrcV2m8H%2BPVjP5k0MoxBXS0%3D&ads.ip=201.150.35.76
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME TV Y PELÍCULAS" tvg-logo="" group-title="Runtime MX",RUNTIME TV Y PELÍCULAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME CLÁSICO" tvg-logo="" group-title="Runtime MX",RUNTIME CLÁSICO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME CRIMEN" tvg-logo="" group-title="Runtime MX",RUNTIME CRIMEN
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME CINE ESPANTO" tvg-logo="" group-title="Runtime MX",RUNTIME CINE ESPANTO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Equipo de Investigación" tvg-logo="https://pbs.twimg.com/media/EXLgewKVcAMRnwk?format=jpg&name=medium" group-title="CULTURALES" tvg-shift="+1",Equipo de Investigación
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
@@ -117,31 +131,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 #EXTINF:-1 tvg-id="eurodance.at" tvg-name="Eurodance 90s" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-eurodance-90-hd.jpg?itok=Nr_oAx6e" group-title="MUSICALES" tvg-shift="+1",Eurodance 90s
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 
-#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/GoldenPlus.png/revision/latest?cb=20171205221730" group-title="CINE" tvg-shift="+1",Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/HBO-Logo-1975.png" group-title="CINE" tvg-shift=, HBO
-http://177.53.153.21:8001/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-2_m.png" group-title="CINE" tvg-shift="+1",HBO2
-http://177.53.153.21:8001/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family" tvg-logo="https://2.bp.blogspot.com/-fWMY8sHAuHs/TqB9xKDM_-I/AAAAAAAAQh0/N-fI53l9A84/s1600/hbo-family.png" group-title="CINE" tvg-shift="+1",HBO Family
-http://177.53.153.21:8001/play/a04g/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Xtreme" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/HBO_Xtreme.svg/revision/latest/scale-to-width-down/200?cb=20230215144641&path-prefix=es" group-title="CINE" tvg-shift="+1",HBO Xtreme
-http://177.53.153.21:8001/play/a04h/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Pop" tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2019_12/small.logo-hboPOP2020.png.dc4448e735467a37d79683e6b085c43f.png" group-title="CINE" tvg-shift="+1",HBO Pop
-http://177.53.153.21:8001/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/120px-A%26E_Network_logo.svg.png" group-title="CINE" , A&E
-http://45.166.92.22:58001/play/a00p/index.m3u8
 
-#EXTINF:-1 tvg-id="MOvieSphere mx" tvg-name="MOvieSphere mx" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/ca53ff4d-moviesphere_intl_runtime_channeltitle.jpg" group-title="Runtime Mx" ,MOvieSphere mx
-https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/playlist/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8?timestamp=1698413629&id=12047&ip=201.150.35.76&override_expiration=1500&sign=n2LLwgVD9SERcPAlC4QucrcV2m8H%2BPVjP5k0MoxBXS0%3D&ads.ip=201.150.35.76
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME TV Y PELÍCULAS" tvg-logo="" group-title="Runtime MX",RUNTIME TV Y PELÍCULAS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME CLÁSICO" tvg-logo="" group-title="Runtime MX",RUNTIME CLÁSICO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME FAMILIA" tvg-logo="" group-title="Runtime MX",RUNTIME FAMILIA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=352
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME CRIMEN" tvg-logo="" group-title="Runtime MX",RUNTIME CRIMEN
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME CINE ESPANTO" tvg-logo="" group-title="Runtime MX",RUNTIME CINE ESPANTO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+
+
 
