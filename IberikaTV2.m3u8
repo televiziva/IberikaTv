@@ -6,35 +6,35 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.es" tvg-name="El Toro TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",El Toro TV
 https://streaming-1.eltorotv.com/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="TelemadridInt(src01).es" tvg-name="Telemadrid" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",Telemadrid
-https://new_international_23.secure2.footprint.net/index.m3u8
+https://new-international-23.secure2.footprint.net/index.m3u8
 #EXTINF:-1 tvg-id="CANALSURA(src01).es" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CastillaLaManchaMedia.es" tvg-name="Castilla-La Mancha Media" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",Castilla-La Mancha Media
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 #EXTINF:-1 tvg-id="La8Mediterraneo(src01).es" tvg-name="La 8 Mediterráneo" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",La 8 Mediterráneo
 https://streaming004.gestec-video.com/hls/8TV.m3u8
-#EXTINF:-1 tvg-id="ETB2(src01).es" tvg-name="ETB2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png" group-title="GENERALISTAS" tvg-shift="+1",ETB2
-https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTINF:-1 tvg-id="ETB(Basque).es" tvg-name="EITB Basque" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",EITB Basque
-https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-id="TPA7.es" tvg-name="TPA7" tvg-logo="https://graph.facebook.com/RTPAoficial/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",TPA7
 https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="La7TelevisionRegiondeMurcia.es" tvg-name="7 Murcia" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",7 Murcia
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Canal 4 Mallorca" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Canal-4-Baleares-en-DIRECTO-Online-en-vivo.png?resize=696%2C392&ssl=1" group-title="GENERALISTAS" tvg-shift="+1",Canal 4 Mallorca
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
+#EXTINF:-1 tvg-id="ETB2(src01).es" tvg-name="ETB2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png" group-title="GENERALISTAS" tvg-shift="+1",ETB2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:-1 tvg-id="ETB(Basque).es" tvg-name="EITB Basque" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",EITB Basque
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Trece" tvg-logo="https://brandemia.org/sites/default/files/inline/images/destacado13-1200x750.jpg" group-title="GENERALISTAS" tvg-shift="+1", Trece
 https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 
 #EXTINF:-1 tvg-id=" Aida 24 Horas" tvg-name="Aida 24h" tvg-logo="https://www.portobellostreet.es/mercurio_imagenes/serie-aida.jpg" group-title="SERIES" tvg-shift="+1",Aida 24h
-https://directo2.lqsa.es/hls/2/stream.m3u8
+https://cdn4.lqsa.es/hls/1/stream.m3u8
 
 #EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/GoldenPlus.png/revision/latest?cb=20171205221730" group-title="CINE" tvg-shift="+1",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/120px-A%26E_Network_logo.svg.png" group-title="CINE" , A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)x" tvg-name="MOVIESPHERE MX" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/ca53ff4d-moviesphere_intl_runtime_channeltitle.jpg" group-title="Runtime MX" ,MOvieSphere mx
+#EXTINF:-1 tvg-id="(no tvg-id)x" tvg-name="MOVIESPHERE MX" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/ca53ff4d-moviesphere_intl_runtime_channeltitle.jpg" group-title="Runtime MX" ,MOVIESPHERE MX
 https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/playlist/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8?timestamp=1698413629&id=12047&ip=201.150.35.76&override_expiration=1500&sign=n2LLwgVD9SERcPAlC4QucrcV2m8H%2BPVjP5k0MoxBXS0%3D&ads.ip=201.150.35.76
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME TV Y PELÍCULAS" tvg-logo="" group-title="Runtime MX",RUNTIME TV Y PELÍCULAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
