@@ -6,7 +6,7 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.es" tvg-name="El Toro TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",El Toro TV
 https://streaming-1.eltorotv.com/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="TelemadridInt(src01).es" tvg-name="Telemadrid" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",Telemadrid
-https://new-international-23.secure2.footprint.net/index.m3u8
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="CANALSURA(src01).es" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CastillaLaManchaMedia.es" tvg-name="Castilla-La Mancha Media" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",Castilla-La Mancha Media
@@ -21,8 +21,8 @@ https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 #EXTINF:-1 tvg-id="ETB2(src01).es" tvg-name="ETB2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png" group-title="GENERALISTAS" tvg-shift="+1",ETB2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTINF:-1 tvg-id="ETB(Basque).es" tvg-name="EITB Basque" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",EITB Basque
-https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.teletoledo.es/img/logo.png" group-title="GENERALISTAS" tvg-shift="+1",Teletoledo
+https://cloud.fastchannel.es/mic/manifiest/hls/teletoledo/teletoledo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Trece" tvg-logo="https://brandemia.org/sites/default/files/inline/images/destacado13-1200x750.jpg" group-title="GENERALISTAS" tvg-shift="+1", Trece
 https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 
