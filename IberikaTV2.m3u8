@@ -47,6 +47,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dmax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/231px-DMax_Espa%C3%B1a.svg.png" group-title="CULTURALES" tvg-shift="+1",Dmax
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDc1OTM0MTUsIm5iZiI6MTcwNzU5MzQxNSwiZXhwIjoxNzA3NTkzNzc1LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMzkuMTc5LjkxIn0.UGy1f1HtWgqVKb8spE14GBByE_B70NKP5YEDe7gEtkA/live/es/b9243cdb24df40128098f3ea25fcf47d/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="CULTURALES" tvg-shift="+1",Classic Arts
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Viajar Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7l1LnyaGGAWZA_zRnZhhk6ZzIKhEXEeO1ipXB6KWdvjbz-WB69b8Y3mbCHlRloKJeXjo&usqp=CAU" group-title="VIAJES" tvg-shift="+1",Viajar Tv
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="INTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/1200px-INTI_Network_TV.png" group-title="VIAJES" tvg-shift="+1",INTI
@@ -55,6 +57,8 @@ https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist_w1345826
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Turistika tv" tvg-logo="https://graph.facebook.com/turistikmedia/picture?width=200&height=200" group-title="VIAJES" tvg-shift="+1",Turistika tv
 https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="true-crime" tvg-name="true-crime" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-true_crime-16x9.jpg" group-title="En Vivo" , True Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
