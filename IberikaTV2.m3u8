@@ -45,8 +45,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME CINE ESPANTO" tvg-logo="" group-title="Runtime MX",RUNTIME CINE ESPANTO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Equipo de Investigación" tvg-logo="https://pbs.twimg.com/media/EXLgewKVcAMRnwk?format=jpg&name=medium" group-title="CULTURALES" tvg-shift="+1",Equipo de Investigación
-https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dmax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/231px-DMax_Espa%C3%B1a.svg.png" group-title="CULTURALES" tvg-shift="+1",Dmax
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDc1OTM0MTUsIm5iZiI6MTcwNzU5MzQxNSwiZXhwIjoxNzA3NTkzNzc1LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMzkuMTc5LjkxIn0.UGy1f1HtWgqVKb8spE14GBByE_B70NKP5YEDe7gEtkA/live/es/b9243cdb24df40128098f3ea25fcf47d/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Viajar Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7l1LnyaGGAWZA_zRnZhhk6ZzIKhEXEeO1ipXB6KWdvjbz-WB69b8Y3mbCHlRloKJeXjo&usqp=CAU" group-title="VIAJES" tvg-shift="+1",Viajar Tv
