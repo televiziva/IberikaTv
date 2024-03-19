@@ -27,6 +27,8 @@ https://cloud.fastchannel.es/mic/manifiest/hls/teletoledo/teletoledo.m3u8
 https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Neox", Neox
 https://atres-live.atresmedia.com/9333ed7fb2bd9e51dcddf11cae340438a3e4d13c_ES_1710806448_1710835188/h264/live/neox/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mega", Mega
+https://atres-live.atresmedia.com/f236a40e2c48679ab7d1380787cc844eed6644ff_ES_1710806572_1710835312/h264/live/mega/master.m3u8
 
 #EXTINF:-1 tvg-id=" Aida 24 Horas" tvg-name="Aida 24h" tvg-logo="https://www.portobellostreet.es/mercurio_imagenes/serie-aida.jpg" group-title="SERIES" tvg-shift="+1",Aida 24h
 https://cdn4.lqsa.es/hls/1/stream.m3u8
