@@ -60,7 +60,8 @@ https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist_w1345826
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Turistika tv" tvg-logo="https://graph.facebook.com/turistikmedia/picture?width=200&height=200" group-title="VIAJES" tvg-shift="+1",Turistika tv
 https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2023/Circle-C4-En-Alerta-300x300.png" , C4 En Alerta
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-65b1568052aa31b8f64da064.m3u8?X-Plex-Session-Identifier=v2mi6zoqm2ptl9oyv5uqnin5&X-Plex-Product=Plex%20Web&X-Plex-Version=4.129.1&X-Plex-Client-Identifier=m1cg3dqmro92pj68tp5u2gw9&X-Plex-Platform=Chrome&X-Plex-Platform-Version=124.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1366x641%2C1366x768&X-Plex-Token=BSQWtC53TJ633pzDUsz4&X-Plex-Language=es&Accept-Language=es&X-Plex-Session-Id=65e51786-8699-4616-849d-016f8602e6e9
 
 
 #EXTINF:-1 tvg-id="true-crime" tvg-name="true-crime" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-true_crime-16x9.jpg" group-title="En Vivo" , True Crime
