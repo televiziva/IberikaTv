@@ -25,11 +25,8 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/teletoledo/teletoledo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Trece" tvg-logo="https://brandemia.org/sites/default/files/inline/images/destacado13-1200x750.jpg" group-title="GENERALISTAS" tvg-shift="+1", Trece
 https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Neox", Neox
-https://atres-live.atresmedia.com/9333ed7fb2bd9e51dcddf11cae340438a3e4d13c_ES_1710806448_1710835188/h264/live/neox/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mega", Mega
-https://atres-live.atresmedia.com/f236a40e2c48679ab7d1380787cc844eed6644ff_ES_1710806572_1710835312/h264/live/mega/master.m3u8
-
+#EXTINF:-1 channel-id="samsung-ES12000024R" tvg-id="ES12000024R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20240507T094209SQUARE.png" tvg-chno="4205" group-title="" , Historia y Vida
+https://i.mjh.nz/SamsungTVPlus/ES12000024R.m3u8
 #EXTINF:-1 tvg-id=" Aida 24 Horas" tvg-name="Aida 24h" tvg-logo="https://www.portobellostreet.es/mercurio_imagenes/serie-aida.jpg" group-title="SERIES" tvg-shift="+1",Aida 24h
 https://cdn4.lqsa.es/hls/stream.m3u8?cachebust=12d58c2e
 #EXTINF:-1 tvg-id="mytime-movie-network-spanish" tvg-name="mytime-movie-network-spanish" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg" group-title="Películas" , MyTime Movie Network
@@ -55,8 +52,8 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_HD.smil/mani
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDc1OTM0MTUsIm5iZiI6MTcwNzU5MzQxNSwiZXhwIjoxNzA3NTkzNzc1LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMzkuMTc5LjkxIn0.UGy1f1HtWgqVKb8spE14GBByE_B70NKP5YEDe7gEtkA/live/es/b9243cdb24df40128098f3ea25fcf47d/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="CULTURALES" tvg-shift="+1",Classic Arts
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Viajar Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7l1LnyaGGAWZA_zRnZhhk6ZzIKhEXEeO1ipXB6KWdvjbz-WB69b8Y3mbCHlRloKJeXjo&usqp=CAU" group-title="VIAJES" tvg-shift="+1",Viajar Tv
-https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TravelTV-logo.png", travel Tv
+https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="INTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/1200px-INTI_Network_TV.png" group-title="VIAJES" tvg-shift="+1",INTI
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist_w1345826689.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ThisIsBulgaria HD" tvg-logo="https://hd.traveltv.bg/wp-content/uploads/sites/3/2018/12/ThisIsBG.HDTV_.TV_-500x73.png" group-title="VIAJES" tvg-shift="+1",ThisIsBulgaria HD
@@ -98,10 +95,8 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="INT. AMÉRICA", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="Bics Extra", RCN EXTRA CO
-https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Bics Extra", RCN Mas+ CO
-https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="DWEnespanol.co(m3u4u)" tvg-name="DW Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64230_dark_360w_270h.png" group-title="INT. EUROPA" tvg-shift="+1",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope(Spanish).de" tvg-name="TV5Monde Francia" tvg-logo="https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200" group-title="INT. EUROPA" tvg-shift="+1",TV5Monde Francia
@@ -129,9 +124,6 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Xite 90s" tvg-logo="https://pbs.twimg.com/profile_images/1542865436450197509/RUDZ1Mut_400x400.jpg" group-title="MUSICALES" tvg-shift="+1",Xite 90s
 https://d3fr64zqebnqn3.cloudfront.net/amg90rock/playlist.m3u8
-#EXTINF:-1 channel-id="samsung-USBD3300004RH" tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20240401T235724SQUARE.png" tvg-chno="1503" group-title="" , XITE Hits
-https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/cb56341a65716c909bc23f78d4f562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5ba96852db80148b6f4adafb8c2360625f5c98435ee3b24aa1a9b35944d865f5ac1c1c902d58e683179fc914ead2d346cb168023a4179f91f68bd218e027a0598b6f33cbf039521ce3e25ca08b3885ca9b6037ee0042243b60966f17632c46e062564ef7efcec51197ff2e5644f30d16a91297568b3d8567a307a8f20cd1c57f1a9c204bc6e97f1b418de4a498f23171cd0e3a300abe011db48c725546cd7fd126615ffa98994cdd904cc4f24b11d7183ef5c92f54d9b992fa7a6937a00120a567bef518575c6c1407c970a39e7fd22de7b5c9a41c0c53574da196548bd3970e702a788f8e5adb0408f9f5bfc38e5e759a3b5b6de16e8f0f5e2cd4623835a50ce98a3069be2308ae3c29b40d66d70cafee6cbd8cf3d12b17f99ecb4bf46aaf920fd1fd0de02d1f5110bcff2910141e299ebe285d7e298376e5d5cbf37e4655bfa083ad96214d6d53205b028fedf063dbdf905b7a38f51377303a406dd56eb04ed00f4e0c2bb36ef0a41b7b88036160a69036535e6381dbf3e6a3d3d94fa170c3c59f6a7e23386c73148a3c0639d036857e3a56faceb5/31/1280x720_3329040/index.m3u8
-
 #EXTINF:-1 tvg-id="RetroMusicTelevision(src01).cz" tvg-name="Retro" tvg-logo="https://www.coolstreaming.us/img/ch/image82141696383.jpg" group-title="MUSICALES" tvg-shift="+1",Retro
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="DeluxeFlashback(src01).de" tvg-name="Deluxe Music Flashback" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_FLASHBACK_LOGO_RGB-1.png" group-title="MUSICALES" tvg-shift="+1",Deluxe Music Flashback
