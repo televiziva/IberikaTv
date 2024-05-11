@@ -67,6 +67,8 @@ https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-65b1568052aa
 #EXTINF:-1 tvg-logo="https://www.tivify.es/wp-content/uploads/2024/02/Mundo-series.png", MundoSeries
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/dbba246ff831366540a1f20e05003df4/index.m3u8?ApPW=1366&ApPH=768&USrGDPRC=CP-S4UAP-S4UABMB9CESAmEsAP_gAAAAAAiQg1NV_H__bX9r8Xr16ft0eY1X99j77sQxBhfJk-4FyDvW_JwXn2EyNA26tqYKmRIEuzZBIQFkHJHURVigSogVrzDMYkGMgTMIJ6BkgFMRY2dYCFxvmQtjMQIY5_p_d3f52T-9_dv83dziz8FnvzU5PmclcICdA58tDfl_bRKb-5IOd-70v4v09Nfrk2_eTVk_tevr7B-ufs-7_XV-9_AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQUICIAOADPgI8ASqAmcBvgDtgHcgQUAkQBJQCUYEtAJjgTJAmkEFAAYJABgACINQ6ADAAEQaiEAGAAIg1EoAMAARBqKQAYAAiDUWgAwABEGoA.f_wAAAAAAAAA&UGDPR=1&DLg=en&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=%22fbf30604-9ff6-4607-837f-59ff8eb7c635%22&DAdIDT=sessionid&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F124.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.37.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=%22fbf30604-9ff6-4607-837f-59ff8eb7c635%22&tvfy_env=desktop&lmt=&ic=IAB1&requestuid=caa7c5d2-23f3-42c9-ae7f-303533223015
 
+#EXTINF:-1 group-title="" tvg-id="CGTNEspanol.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Español.png",CGTN Español
+https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="true-crime" tvg-name="true-crime" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-true_crime-16x9.jpg" group-title="En Vivo" , True Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 #EXTINF:-1 tvg-id="canela-tv" tvg-name="canela-tv" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canela_tv-16x9_0.jpg" group-title="En Vivo" , Canela TV
@@ -123,7 +125,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="SIC Noticias" tvg-logo="https://i.imgur.com/Gi6Q26M.png" , SIC Notícias
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNNPotugal" tvg-logo="https://i.imgur.com/bc6tYVZ.png" , CNN Portugal
-https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDEyOjExOjEzIFBNJmhhc2hfdmFsdWU9eHo0dnNWd0ZWUmJNQlQydi9mZ2tsUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTE5NWE5NTU0LTM3Y2UtNDM0ZS1iNTJmLTljNTk4ZWFkZjk3OQ==/
 #EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://i.imgur.com/H8Tgl7m.png" , TVI
 https://video-auth5.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=104856242&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDM6MzQ6NyBQTSZoYXNoX3ZhbHVlPThMTmViL0dYd2NpSTJaeFQ0bktxOUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01NGFhY2I1Yy0yNDE4LTRhMDEtYmE4ZS0zMDQ5YjRjMDEzOWE=
 #EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVIFiccao" tvg-logo="https://i.imgur.com/gK3lRtZ.png" , TVI Ficção
