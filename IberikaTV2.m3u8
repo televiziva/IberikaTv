@@ -107,7 +107,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope(Spanish).de" tvg-name="TV5Monde Francia" tvg-logo="https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200" group-title="INT. EUROPA" tvg-shift="+1",TV5Monde Francia
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 tvg-id="RTPInternacionalEurope(Portuguese).de" tvg-name="RTPi Eu" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275" group-title="INT. EUROPA" tvg-shift="+1",RTPi Eu
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP3(src01).pt" tvg-name="RTP3" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/28545_38014_27812.jpg?amp;w=160" group-title="INT. EUROPA" tvg-shift="+1",RTP3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP Memória" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMemoria00.jpg" group-title="INT. EUROPA" tvg-shift="+1",RTP Memória
@@ -120,6 +120,12 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SIC(src01).pt" tvg-name="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png/200px-Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="INT. EUROPA" tvg-shift="+1",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNNPotugal" tvg-logo="https://i.imgur.com/bc6tYVZ.png" , CNN Portugal
+https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://i.imgur.com/H8Tgl7m.png" , TVI
+https://video-auth5.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=104856242&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDI0IDM6MzQ6NyBQTSZoYXNoX3ZhbHVlPThMTmViL0dYd2NpSTJaeFQ0bktxOUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01NGFhY2I1Yy0yNDE4LTRhMDEtYmE4ZS0zMDQ5YjRjMDEzOWE=
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVIFiccao" tvg-logo="https://i.imgur.com/gK3lRtZ.png" , TVI Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4Fun.pl" tvg-name="4FUN TV Polonia" tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200" group-title="MUSICALES" tvg-shift="+1",4FUN TV Polonia
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
