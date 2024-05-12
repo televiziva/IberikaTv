@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U  
 #EXTINF:-1 tvg-id="" tvg-name="TVE Int." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png" group-title="GENERALISTAS" tvg-shift="+1", TVE Int.
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",La 2
@@ -7,8 +7,6 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 https://streaming-1.eltorotv.com/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="TelemadridInt(src01).es" tvg-name="Telemadrid" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
-#EXTINF:-1 tvg-id="CANALSURA(src01).es" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",Canal Sur Andalucía
-https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CastillaLaManchaMedia.es" tvg-name="Castilla-La Mancha Media" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",Castilla-La Mancha Media
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 #EXTINF:-1 tvg-id="La8Mediterraneo(src01).es" tvg-name="La 8 Mediterráneo" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="GENERALISTAS" tvg-shift="+1",La 8 Mediterráneo
@@ -27,8 +25,6 @@ https://cloud.fastchannel.es/mic/manifiest/hls/teletoledo/teletoledo.m3u8
 https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 #EXTINF:-1 channel-id="samsung-ES12000024R" tvg-id="ES12000024R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20240507T094209SQUARE.png" tvg-chno="4205" group-title="CULTURALES", Historia y Vida
 https://i.mjh.nz/SamsungTVPlus/ES12000024R.m3u8
-#EXTINF:-1 channel-id="samsung-ES12000024R" tvg-id="ES12000024R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20240507T094209SQUARE.png" tvg-chno="4205" group-title="CULTURALES", Historia y Vida
-https://acortar.link/5meZZl
 
 
 #EXTINF:-1 tvg-id="mytime-movie-network-spanish" tvg-name="mytime-movie-network-spanish" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg" group-title="Películas" , MyTime Movie Network
