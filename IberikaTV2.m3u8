@@ -45,8 +45,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME  ESPANTO" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_cinespanto_16x9_0.jpg" group-title="",RUNTIME CINE ESPANTO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine en Español" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/cine_en_espanol.jpg" , Cine en Español
-https://amg02724-amg02724c1-runtime-latam-2587.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-runtimelatam/playlist.m3u8?ip=201.150.33.188&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36&dnt=0&app_bundle=com.ammo.runtime&app_name=runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&content_episode=&content_season=API_seasonNumber&content_livestream=1&content_producer_name=REPLACEME&channel_name=run&network_name=&did=4a2a5b139176fd165f25d6d9f437029e&us_privacy=1YNN&gdpr_consent=1&gdpr=0&schain=REPLACEME&lmt=0&device_make=desktop&device_model=&timestamp=1716216899&id=15529&override_expiration=1500&sign=apXL8AC7oluCI999%2FAOIKvqOBxjTHBJlLCxbqNGHCp4%3D
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2023/Circle-C4-En-Alerta-300x300.png" , C4 En Alerta
