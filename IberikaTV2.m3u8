@@ -87,45 +87,45 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="SIC Noticias" tvg-logo="https://i.imgur.com/Gi6Q26M.png" , SIC Notícias
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
-#EXTINF:-1 tvg-id="4Fun.pl" tvg-name="4FUN TV Polonia" tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200" group-title="" tvg-shift="+1",4FUN TV Polonia
+#EXTINF:-1 tvg-id="4Fun.pl" tvg-name="4FUN TV Polonia" tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200" group-title="Música" tvg-shift="+1",4FUN TV Polonia
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-id="xite" tvg-name="Xite" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/800px-Logo_XITE_2017_zwart.png" , Xite
+#EXTINF:-1 tvg-id="xite" tvg-name="Xite" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/800px-Logo_XITE_2017_zwart.png" group-title="Música", Xite
 https://xite-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="xite" tvg-name="Xite 80s" tvg-logo="https://pbs.twimg.com/profile_images/1542865436450197509/RUDZ1Mut_400x400.jpg" group-title="" tvg-shift="+1",Xite 80s
+#EXTINF:-1 tvg-id="xite" tvg-name="Xite 80s" tvg-logo="https://pbs.twimg.com/profile_images/1542865436450197509/RUDZ1Mut_400x400.jpg" group-title="Música" tvg-shift="+1",Xite 80s
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Xite 90s" tvg-logo="https://pbs.twimg.com/profile_images/1542865436450197509/RUDZ1Mut_400x400.jpg" group-title="" tvg-shift="+1",Xite 90s
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Xite 90s" tvg-logo="https://pbs.twimg.com/profile_images/1542865436450197509/RUDZ1Mut_400x400.jpg" group-title="Música" tvg-shift="+1",Xite 90s
 https://d3fr64zqebnqn3.cloudfront.net/amg90rock/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroMusicTelevision(src01).cz" tvg-name="Retro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Retro_Music_TV_logo.png/800px-Retro_Music_TV_logo.png" group-title="" tvg-shift="+1",Retro
+#EXTINF:-1 tvg-id="RetroMusicTelevision(src01).cz" tvg-name="Retro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Retro_Music_TV_logo.png/800px-Retro_Music_TV_logo.png" group-title="Música" tvg-shift="+1",Retro
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="DeluxeFlashback(src01).de" tvg-name="Deluxe Music Flashback" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_FLASHBACK_LOGO_RGB-1.png" group-title="" tvg-shift="+1",Deluxe Music Flashback
+#EXTINF:-1 tvg-id="DeluxeFlashback(src01).de" tvg-name="Deluxe Music Flashback" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_FLASHBACK_LOGO_RGB-1.png" group-title="Música" tvg-shift="+1",Deluxe Music Flashback
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
-#EXTINF:-1 tvg-id="DeluxeDance(src01).de" tvg-name="Deluxe Music Dance" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_KONTOR_RGB-1.png" group-title="" tvg-shift="+1",Deluxe Music Dance
+#EXTINF:-1 tvg-id="DeluxeDance(src01).de" tvg-name="Deluxe Music Dance" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_KONTOR_RGB-1.png" group-title="Música" tvg-shift="+1",Deluxe Music Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" tvg-logo="https://viva-russia.ru/wp-content/uploads/2021/09/viva_2002_belyj_zhjoltyj_prjamougolnik.png" , VIVA Russia
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" tvg-logo="https://viva-russia.ru/wp-content/uploads/2021/09/viva_2002_belyj_zhjoltyj_prjamougolnik.png" group-title="Música" , VIVA Russia
 https://hls.goodgame.ru/manifest/180805_master.m3u8
-#EXTINF:-1 tvg-id="now-70s" tvg-name="now-70s" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e60f4df9-a0e1-4d45-9b3c-ee619812b2bc.jpeg" group-title="" , NOW 70s
+#EXTINF:-1 tvg-id="now-70s" tvg-name="now-70s" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e60f4df9-a0e1-4d45-9b3c-ee619812b2bc.jpeg" group-title="Música" , NOW 70s
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=869&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5284&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=e9b0d9cb-07a0-465a-b30e-8d7cd93675c7&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:-1 tvg-id="now-80s" tvg-name="now-80s" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b696c4d2-540d-4ce5-af19-9d9f27271a48.jpeg" group-title="" , NOW 80s
+#EXTINF:-1 tvg-id="now-80s" tvg-name="now-80s" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b696c4d2-540d-4ce5-af19-9d9f27271a48.jpeg" group-title="Música" , NOW 80s
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=871&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5318&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=d8090a6e-dc7d-4149-b1d2-67052b747231&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:-1 tvg-id="now-90s" tvg-name="now-90s" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/3201ef0f-1ed9-4026-b0db-854409486d04.jpeg" group-title="" , NOW Rock
+#EXTINF:-1 tvg-id="now-90s" tvg-name="now-90s" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/3201ef0f-1ed9-4026-b0db-854409486d04.jpeg" group-title="Música" , NOW Rock
 https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=870&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5352&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=06e71d50-f1fc-424e-be1d-17175de92a86&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:-1 tvg-id="" tvg-name="Folx Zwei 2" tvg-logo="https://folxplay.tv/logos/zwei_neg_b.png" , Folx Zwei 2
+#EXTINF:-1 tvg-id="" tvg-name="Folx Zwei 2" tvg-logo="https://folxplay.tv/logos/zwei_neg_b.png" group-title="Música" , Folx Zwei 2
 https://cdne.folxplay.tv/fxt/streams/ch-2/master.m3u8
-#EXTINF:-1 tvg-id="MoozDance.ro" tvg-logo="https://i.imgur.com/aX70RD2.png", MoozDance
+#EXTINF:-1 tvg-id="MoozDance.ro" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="Música" , MoozDance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
-#EXTINF:-1 tvg-id="MoozHits.ro" tvg-logo="https://i.imgur.com/GwATd3Y.png" , MoozHits
+#EXTINF:-1 tvg-id="MoozHits.ro" tvg-logo="https://i.imgur.com/GwATd3Y.png" group-title="Música" , MoozHits
 https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
-#EXTINF:-1 tvg-id="MoozRo.ro" tvg-logo="https://i.imgur.com/Ft24x5T.png" , MoozRo 
+#EXTINF:-1 tvg-id="MoozRo.ro" tvg-logo="https://i.imgur.com/Ft24x5T.png" group-title="Música" , MoozRo 
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
-#EXTINF:-1 tvg-id="KissTV.ro" tvg-logo="https://i.imgur.com/NKfVymH.png", Kiss TV
+#EXTINF:-1 tvg-id="KissTV.ro" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Música", Kiss TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-#EXTINF:-1 tvg-id="DeejayTV.it" tvg-logo="https://i.imgur.com/YV27Chs.png", Deejay TV
+#EXTINF:-1 tvg-id="DeejayTV.it" tvg-logo="https://i.imgur.com/YV27Chs.png" group-title="Música" , Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 tvg-id="m2" tvg-name="m2o Italia" tvg-logo="https://graph.facebook.com/radiom2o/picture?width=200&height=200" ,m2o Italia
+#EXTINF:-1 tvg-id="m2" tvg-name="m2o Italia" tvg-logo="https://graph.facebook.com/radiom2o/picture?width=200&height=200" group-title="Música" ,m2o Italia
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-id="RUTV.ru" tvg-logo="https://i.imgur.com/Z7HUU7V.png",RU TV
+#EXTINF:-1 tvg-id="RUTV.ru" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="Música" ,RU TV
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
-#EXTINF:-1 tvg-id="TNTMusic.ru", tvg-logo="https://tntmusic.ru/static/img/logo@x2.png" , THT Music
+#EXTINF:-1 tvg-id="TNTMusic.ru", tvg-logo="https://tntmusic.ru/static/img/logo@x2.png" group-title="Música" , THT Music
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 
 
