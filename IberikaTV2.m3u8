@@ -1,12 +1,12 @@
 #EXTM3U  
-#EXTINF:-1 tvg-id="TVEI" tvg-name="TVEInternacional.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png" group-title="" tvg-shift="+1", TVE Int.
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="" tvg-shift="+1",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.es" tvg-name="El Toro TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="" tvg-shift="+1",El Toro TV
 https://streaming-1.eltorotv.com/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="TelemadridInt(src01).es" tvg-name="Telemadrid" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="" tvg-shift="+1",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-id="LaOtra.es" tvg-name="LaOtra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/512px-La_Otra_logo_%282017%29.svg.png" group-title="" tvg-shift="+1",LaOtra
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="CastillaLaManchaMedia.es" tvg-name="Castilla-La Mancha Media" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="" tvg-shift="+1",Castilla-La Mancha Media
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 #EXTINF:-1 tvg-id="La8Mediterraneo(src01).es" tvg-name="La 8 Mediterráneo" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="" tvg-shift="+1",La 8 Mediterráneo
@@ -25,14 +25,10 @@ https://cloud.fastchannel.es/mic/manifiest/hls/teletoledo/teletoledo.m3u8
 https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 #EXTINF:-1 tvg-logo="https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLWl0Iiwia2V5IjoiZG1heHNwYWluLWltYWdlLTdlYWRlZmYxLTdhMDAtNGYxZS04MjQwLWNhOTU1MTQ1ZTNiOS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJ3aWR0aCI6MjAwfSwicG5nIjp7InF1YWxpdHkiOjU1LCJwcm9ncmVzc2l2ZSI6dHJ1ZSwicGFsZXR0ZSI6dHJ1ZSwiY29sb3VycyI6OH19fQ==", Dmax" 
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTU0Mzk3MjEsIm5iZiI6MTcxNTQzOTcyMSwiZXhwIjoxNzE1NDQwMDgxLCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMzkuMTgwLjEwMiJ9.XuEHixdkD1dWGriVqrPpf2ccN97J-b17SrDXCnc_pQs/live/es/b9243cdb24df40128098f3ea25fcf47d/index.m3u8
-#EXTINF:-1 tvg-id="Historia.es",tvg-logo="https://plataformas.news/online/nota_-history-estrena-nuevo-lago-en-america-latina-.JPEG", Historia 
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://www.tivify.es/wp-content/uploads/2023/06/Oficios-perdidos.png", Oficios Perdidos" 
 https://daiconnect.com/live/hls/tvup/tvfy-op/.m3u8?ApPW=1366&ApPH=768&USrGDPRC=CP-S4UAP-S4UABMB9CESAmEsAP_gAAAAAAiQg1NV_H__bX9r8Xr16ft0eY1X99j77sQxBhfJk-4FyDvW_JwXn2EyNA26tqYKmRIEuzZBIQFkHJHURVigSogVrzDMYkGMgTMIJ6BkgFMRY2dYCFxvmQtjMQIY5_p_d3f52T-9_dv83dziz8FnvzU5PmclcICdA58tDfl_bRKb-5IOd-70v4v09Nfrk2_eTVk_tevr7B-ufs-7_XV-9_AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQUICIAOADPgI8ASqAmcBvgDtgHcgQUAkQBJQCUYEtAJjgTJAmkEFAAYJABgACINQ6ADAAEQaiEAGAAIg1EoAMAARBqKQAYAAiDUWgAwABEGoA.f_wAAAAAAAAA&UGDPR=1&DLg=en&ApStURL=https://tivify.tv&DAdID=%22fbf30604-9ff6-4607-837f-59ff8eb7c635%22&DAdIDT=sessionid&UUA=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F124.0.0.0%20Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.37.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=%22fbf30604-9ff6-4607-837f-59ff8eb7c635%22&tvfy_env=desktop&lmt=&ic=IAB9#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dmax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/231px-DMax_Espa%C3%B1a.svg.png" group-title="" tvg-shift="+1",Dmax
 #EXTINF:-1 tvg-id="mytime-movie-network-spanish" tvg-name="mytime-movie-network-spanish" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg" group-title="" , MyTime Movie Network
 https://appletree-mytimespain-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mytime-spain-rakuten/CDN/master.m3u8?ads_amagi_channel=715&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2589&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=d103b6d4-ddfa-4747-aaf0-6ee8a68155be&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/GoldenPlus.png/revision/latest?cb=20171205221730" group-title="" tvg-shift="+1",Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/120px-A%26E_Network_logo.svg.png" group-title="" , A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)x" tvg-name="MOVIESPHERE MX" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/ca53ff4d-moviesphere_intl_runtime_channeltitle.jpg" group-title="Runtime MX" ,MOVIESPHERE MX
@@ -41,26 +37,17 @@ https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/p
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME CLÁSICO" tvg-logo="" group-title="",RUNTIME CLÁSICO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME CRIMEN" tvg-logo="" group-title="",RUNTIME CRIMEN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME CRIMEN" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_crimen_16x9.jpg" group-title="",RUNTIME CRIMEN
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME  ESPANTO" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_cinespanto_16x9_0.jpg" group-title="",RUNTIME CINE ESPANTO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2023/Circle-C4-En-Alerta-300x300.png" , C4 En Alerta
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-65b1568052aa31b8f64da064.m3u8?X-Plex-Session-Identifier=v2mi6zoqm2ptl9oyv5uqnin5&X-Plex-Product=Plex%20Web&X-Plex-Version=4.129.1&X-Plex-Client-Identifier=m1cg3dqmro92pj68tp5u2gw9&X-Plex-Platform=Chrome&X-Plex-Platform-Version=124.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=hosted&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1366x641%2C1366x768&X-Plex-Token=BSQWtC53TJ633pzDUsz4&X-Plex-Language=es&Accept-Language=es&X-Plex-Session-Id=65e51786-8699-4616-849d-016f8602e6e9
-#EXTINF:-1 tvg-logo="https://www.tivify.es/wp-content/uploads/2024/02/Mundo-series.png", MundoSeries
-https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/dbba246ff831366540a1f20e05003df4/index.m3u8?ApPW=1366&ApPH=768&USrGDPRC=CP-S4UAP-S4UABMB9CESAmEsAP_gAAAAAAiQg1NV_H__bX9r8Xr16ft0eY1X99j77sQxBhfJk-4FyDvW_JwXn2EyNA26tqYKmRIEuzZBIQFkHJHURVigSogVrzDMYkGMgTMIJ6BkgFMRY2dYCFxvmQtjMQIY5_p_d3f52T-9_dv83dziz8FnvzU5PmclcICdA58tDfl_bRKb-5IOd-70v4v09Nfrk2_eTVk_tevr7B-ufs-7_XV-9_AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQUICIAOADPgI8ASqAmcBvgDtgHcgQUAkQBJQCUYEtAJjgTJAmkEFAAYJABgACINQ6ADAAEQaiEAGAAIg1EoAMAARBqKQAYAAiDUWgAwABEGoA.f_wAAAAAAAAA&UGDPR=1&DLg=en&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=%22fbf30604-9ff6-4607-837f-59ff8eb7c635%22&DAdIDT=sessionid&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F124.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.37.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=%22fbf30604-9ff6-4607-837f-59ff8eb7c635%22&tvfy_env=desktop&lmt=&ic=IAB1&requestuid=caa7c5d2-23f3-42c9-ae7f-303533223015
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="INTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/1200px-INTI_Network_TV.png" group-title="" tvg-shift="+1",INTI
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist_w1345826689.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ThisIsBulgaria HD" tvg-logo="https://hd.traveltv.bg/wp-content/uploads/sites/3/2018/12/ThisIsBG.HDTV_.TV_-500x73.png" group-title="" tvg-shift="+1",ThisIsBulgaria HD
-https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png", Encuentro
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF:-1 group-title="" tvg-id="CGTNEspanol.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Español.png",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TravelTV-logo.png", travel Tv
-https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTravel.uk" tvg-logo="https://i.imgur.com/hgJ1Z0w.png" , Pluto Tv travel UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
@@ -83,37 +70,22 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las estrellas Mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="" tvg-shift="+1",Las estrellas Mx
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Logo_Panamericana_2020.png" , PANAMERICANA
-https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/13cultura.svg/revision/latest/scale-to-width-down/250?cb=20220709182305" , 13 Cultura
 https://daiconnect.com/live/hls/tvup/tvfy-13cultura/.m3u8?ApPW=1366&ApPH=768&USrGDPRC=CP-S4UAP-S4UABMB9CESAmEsAP_gAAAAAAiQg1NV_H__bX9r8Xr16ft0eY1X99j77sQxBhfJk-4FyDvW_JwXn2EyNA26tqYKmRIEuzZBIQFkHJHURVigSogVrzDMYkGMgTMIJ6BkgFMRY2dYCFxvmQtjMQIY5_p_d3f52T-9_dv83dziz8FnvzU5PmclcICdA58tDfl_bRKb-5IOd-70v4v09Nfrk2_eTVk_tevr7B-ufs-7_XV-9_AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQUICIAOADPgI8ASqAmcBvgDtgHcgQUAkQBJQCUYEtAJjgTJAmkEFAAYJABgACINQ6ADAAEQaiEAGAAIg1EoAMAARBqKQAYAAiDUWgAwABEGoA.f_wAAAAAAAAA&UGDPR=1&DLg=en&ApStURL=https://tivify.tv&DAdID=%22fbf30604-9ff6-4607-837f-59ff8eb7c635%22&DAdIDT=sessionid&UUA=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F124.0.0.0%20Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.37.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=%22fbf30604-9ff6-4607-837f-59ff8eb7c635%22&tvfy_env=desktop&lmt=&ic=IAB1-5
 
 #EXTINF:-1 tvg-id="DWEnespanol.co(m3u4u)" tvg-name="DW Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64230_dark_360w_270h.png" group-title="" tvg-shift="+1",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondeEurope(Spanish).de" tvg-name="TV5Monde Francia" tvg-logo="https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200" group-title="" tvg-shift="+1",TV5Monde Francia
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 tvg-id="RTPInternacionalEurope(Portuguese).de" tvg-name="RTPi Eu" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275" group-title=" " tvg-shift="+1",RTPi Eu
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP3(src01).pt" tvg-name="RTP3" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/28545_38014_27812.jpg?amp;w=160" group-title="" tvg-shift="+1",RTP3
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP Memória" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMemoria00.jpg" group-title="" tvg-shift="+1",RTP Memória
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPiRadioTVPortuguesaIntl(Portuguese).co" tvg-name="RTP Internacional " tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?v=3&w=860" group-title="" tvg-shift="+1",RTP Internacional Asia 
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP Africa" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpAfrica_positivo.jpg" group-title="" tvg-shift="+1",RTP Africa
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP Açores" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpAc%CC%A7ores_positivo.jpg" group-title="" tvg-shift="+1",RTP Açores
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png/200px-Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="" tvg-shift="+1",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="SIC Noticias" tvg-logo="https://i.imgur.com/Gi6Q26M.png" , SIC Notícias
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNNPotugal" tvg-logo="https://i.imgur.com/bc6tYVZ.png" , CNN Portugal
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NTo0NSBQTSZoYXNoX3ZhbHVlPWJxc1pnMUgvc3UydjZkRWEvZTZ5WkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05NjU3ZTFkZi02NjdmLTQ1MDEtOTdhZC0xODYwOGE3ZDNmYzA=/
-#EXTINF:-1 group-title="" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NTo0NCBQTSZoYXNoX3ZhbHVlPWtWUDRLOEVNWVJUTkZoTVExTkpaSWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xNjMyODYxZS1mMWRiLTQzZTUtOWZhNS04Yzk3MDNjNDQ1NjA=/
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVIFiccao" tvg-logo="https://i.imgur.com/gK3lRtZ.png" , TVI Ficção
-https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4Fun.pl" tvg-name="4FUN TV Polonia" tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200" group-title="" tvg-shift="+1",4FUN TV Polonia
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
