@@ -43,6 +43,26 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME  ESPANTO" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_cinespanto_16x9_0.jpg" group-title="Runtime MX",RUNTIME CINE ESPANTO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 
+
+#EXTINF:-1 tvg-name="Free Tv Acción" tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg" group-title="Free Tv" , Free Tv Acción
+https://topcineus-freetv.amagi.tv/TopCine-roku/master.m3u8
+
+#EXTINF:-1 tvg-name="Free Tv Drama" tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_drama_1080x1080_02092024_0.jpg" group-title="Free Tv" , Free Tv Drama
+https://cinerealus-freetv.amagi.tv/CineReal/master.m3u8
+
+#EXTINF:-1 tvg-name="Free Tv Estelar tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_live_1080x1080_02092024.jpg" group-title="Free Tv" , Free Tv Estelar
+https://tucine-plex.amagi.tv/TuCine/master.m3u8
+
+#EXTINF:-1 tvg-name="Free Tv Live tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_live_1080x1080_02092024.jpg" group-title="Free Tv" , Free Tv Live
+https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
+
+#EXTINF:-1 tvg-name="Free Tv Terror tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_terror_1080x1080_02092024.jpg" group-title="Free Tv" , Free Tv Terror
+https://horrorfy-plex.amagi.tv/Horrify-roku/master.m3u8
+
+#EXTINF:-1 tvg-name="Free Tv Saber Más tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_sabermas_1080x1080_02092024.jpg" group-title="Free Tv" , Free Tv Saber Más
+https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="INTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/1200px-INTI_Network_TV.png" group-title="Docu" tvg-shift="+1",INTI
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist_w1345826689.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Docu" , Encuentro
