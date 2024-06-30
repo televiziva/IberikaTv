@@ -5,7 +5,7 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 https://streaming-1.eltorotv.com/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="TelemadridInt(src01).es" tvg-name="Telemadrid" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="" tvg-shift="+1",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
-#EXTINF:-1 tvg-id="LaOtra.es" tvg-name="LaOtra" tvg-logo="<a href="https://freeimage.host/i/dFc53p1"><img src="https://iili.io/dFc53p1.th.png" alt="dFc53p1.th.png" border="0"></a>" group-title="" tvg-shift="+1",LaOtra
+#EXTINF:-1 tvg-id="LaOtra.es" tvg-name="LaOtra" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_400x400.jpg" group-title="" tvg-shift="+1",LaOtra
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="CastillaLaManchaMedia.es" tvg-name="Castilla-La Mancha Media" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="" tvg-shift="+1",Castilla-La Mancha Media
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
