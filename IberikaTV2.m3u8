@@ -7,6 +7,8 @@ https://streaming-1.eltorotv.com/eltorotv-streaming-web/index.m3u8
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="LaOtra.es" tvg-name="LaOtra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/512px-La_Otra_logo_%282017%29.svg.png" group-title="Nacional" tvg-shift="+1",LaOtra
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Madrid" tvg-logo="https://scontent.fmad17-1.fna.fbcdn.net/v/t39.30808-1/448549746_439962495521522_852912628996673372_n.jpg?stp=c23.26.253.252a_dst-jpg_s200x200&_nc_cat=100&ccb=1-7&_nc_sid=3e9727&_nc_ohc=DsRViEWC8fAQ7kNvgFT40vJ&_nc_ht=scontent.fmad17-1.fna&edm=AKsJ254EAAAA&oh=00_AYDBPwBD8o3SQwhTI-MMCkCDrDkiVkeq7EeWPTWIgqkODw&oe=66CAE4D4" , Canal 4 Madrid
+https://limited35.todostreaming.es/live/mitjans-livestream2.m3u8
 #EXTINF:-1 tvg-id="CastillaLaManchaMedia.es" tvg-name="Castilla-La Mancha Media" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="Nacional" tvg-shift="+1",Castilla-La Mancha Media
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_ski67o97/protocol/https/format/applehttp/flavorIds/1_j798obxa,1_laa7c3yp,1_0dz7pqq5,1_mb6o228p,1_z38wqasa/a.m3u8?uiConfId=51789822&playSessionId=56a330da-ea4f-78e1-022c-65b0b74a1176:c8fce738-e862-bcb7-632b-03ca1afb52e9&referrer=aHR0cHM6Ly93d3cuY21tZWRpYS5lcy9wbGF5L2VuLWRpcmVjdG8vdHY=&clientTag=html5:v7.126
 #EXTINF:-1 tvg-id="La8Mediterraneo(src01).es" tvg-name="La 8 Mediterráneo" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="Nacional" tvg-shift="+1",La 8 Mediterráneo
@@ -87,7 +89,15 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Señal Colombia" tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" group-title="Latino" tvg-shift="+1",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 6 Multimedios Mexico" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="Latino" ,Canal 6 Multimedios Mexico
-
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Once Mexico" tvg-logo="https://www.rarediseaseday.org/wp-content/uploads/canal-once-IPN.png" group-title="Latino" ,Canal Once Mexico
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana Perú" tvg-logo="https://scontent.fmad17-1.fna.fbcdn.net/v/t39.30808-1/391593476_725773112912916_8786014493841453133_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-7&_nc_sid=3e9727&_nc_ohc=9kwBOjN9rg8Q7kNvgF_qf5q&_nc_ht=scontent.fmad17-1.fna&edm=AKsJ254EAAAA&oh=00_AYAsBEl4B8L9mY_HyWvrvqg5sivMfw3ETLpGEr6yWImyHA&oe=66CAE7A7" group-title="Latino" ,Panamericana Perú
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar",TV Publica tvg-logo="https://scontent.fmad17-1.fna.fbcdn.net/v/t39.30808-1/448168285_852435950260419_3274646143261084305_n.jpg?stp=dst-jpg_s200x200&_nc_cat=110&ccb=1-7&_nc_sid=3e9727&_nc_ohc=3ubb5b893ZUQ7kNvgFZCb-O&_nc_ht=scontent.fmad17-1.fna&edm=AKsJ254EAAAA&oh=00_AYDvtUid-LyePAdF1iynjjhh4w2KAvH84vYhieQ7x-0qVw&oe=66CAC8BC" group-title="Latino" , TV Publica Argentina
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZyriiHpvoTGUetcrB62zo7BPEgkw-hLFH9g&s" group-title="Latino",Planeta TV 
+https://live.obslivestream.com/planetatv/index.m3u8
 
 #EXTINF:-1 tvg-id="DWEnespanol.co(m3u4u)" tvg-name="DW Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64230_dark_360w_270h.png" group-title="" tvg-shift="+1",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
