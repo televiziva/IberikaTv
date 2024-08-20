@@ -44,7 +44,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME  ESPANTO" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_cinespanto_16x9_0.jpg" group-title="Runtime MX",RUNTIME CINE ESPANTO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ArtFlix" tvg-logo="https://image.roku.com/developer_channels/prod/c34cd4437f2db0446deeb81c1e4e80d15b0ad95b8691f69cdc57a740d9afe0df.png" , ArtFlix
+https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-6348a34c1159f6a5ce819b81/variant.m3u8?url=8059aa598520281e113809b556edd1c5-91866ffc7fd16d8e61e038fb4d2783b4474f8f915721d92242e3784645c66c998d318fc2935c3a2e842302c553701305bd7e365a813f3e55c3808c9775d471553b3b3f1058766ce88b74f825f605755bc40a6ffb04736de52fd453763352758f08dab575f3fe74b68517a156bf867ffb923e4bf167b73298ac2eda928255462f0c34ef371b88b77ae29a7e7ca74d8af54f11fdcc428ad667f1f63c27eba63280d84cdf794f9eae670f12aa18905aaab44dff897a9b3b92356b7c717eed2fb10cd0b6c450a6943e016292e4bf60794f9a79b003f2a7f0e9d0a45c5846cc614a6c&x-plex-token=t5wZWXUhDeh5TT2T2-3x&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1724188017&autoPreview=0
 
 #EXTINF:-1 tvg-name="Free Tv Acción" tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg" group-title="Free Tv" , Free Tv Acción
 https://topcineus-freetv.amagi.tv/TopCine-roku/master.m3u8
