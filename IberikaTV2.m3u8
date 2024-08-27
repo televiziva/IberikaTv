@@ -111,7 +111,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Mtv 00s" tvg-logo="" group-title="Música" tvg-shift="+1",Mtv 00s
-https://edge01-alm.beetv.kz/bpk-token/2an@b0gmeelc1qrqm0nkikxannyiioqwbdbzbukxt4da/btv/SWM/mtv_00/mtv_00_576p_2000kbps.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000264.m3u8
 #EXTINF:-1 tvg-id="4Fun.pl" tvg-name="4FUN TV Polonia" tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200" group-title="Música" tvg-shift="+1",4FUN TV Polonia
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-id="xite" tvg-name="Xite" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/800px-Logo_XITE_2017_zwart.png" group-title="Música", Xite
@@ -154,7 +154,7 @@ https://hls-03-video.webcaramba.com/rutv/live.m3u8
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTWY_jEHcUCNHS9WZQCUv43qLmaKuy692eVA61De4mYwFovVhx" group-title="Música" ,R-Music
 https://otv.wotom.net/rmusic/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Música" ,R-Music
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Música" ,Music Box Russia
 https://msk2.peers.tv/streaming/musboxru/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjQ4Njg3NzcsImlhdCI6MTcyNDc4MjM3NywiY2lkIjo4MSwidWlkIjo4MTUwMDMwNTQsInJlZyI6ZmFsc2UsImlwIjoxNjA0NTc4NjQxfQ.9wpjD3y4OlUOMp8ZMennEh92gHQfg5ZrV4HgKdQW0_4
 
 
