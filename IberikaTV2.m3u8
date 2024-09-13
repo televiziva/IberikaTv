@@ -47,6 +47,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 
 
+
+
+
 #EXTINF:-1 tvg-name="Free Tv Acción" tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg" group-title="Free Tv" , Free Tv Acción
 https://topcineus-freetv.amagi.tv/TopCine-roku/master.m3u8
 
@@ -71,7 +74,7 @@ https://daiconnect.com/live/hls/tvup/tvfy-13cultura/.m3u8?ApPW=1366&ApPH=768&USr
 #EXTINF:-1 group-title="" tvg-id="CGTNEspanol.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Español.png" group-title="Docu" ,CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="ES12000024R" tvg-name="ES12000024R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20240507T094209SQUARE.png" group-title="" , Historia y Vida
-https://i.mjh.nz/SamsungTVPlus/ES12000024R.m3u8
+https://amg01821-amg01821c22-tivify-international-3877.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-tivifyinternational/playlist.m3u8?w=1920&h=1080&cb=&ip=&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&dnt=&app_bundle=tivify.tv&app_name=Tivify&app_store_url=https://tivify.tv&did=437581ab-f6b0-46e4-89cb-dfd532a90863&pod_max_dur=130&pod_ad_slots=8&gdpr_consent=CP-S4UAP-S4UABMB9CESAmEsAP_gAAAAAAiQg1NV_H__bX9r8Xr16ft0eY1X99j77sQxBhfJk-4FyDvW_JwXn2EyNA26tqYKmRIEuzZBIQFkHJHURVigSogVrzDMYkGMgTMIJ6BkgFMRY2dYCFxvmQtjMQIY5_p_d3f52T-9_dv83dziz8FnvzU5PmclcICdA58tDfl_bRKb-5IOd-70v4v09Nfrk2_eTVk_tevr7B-ufs-7_XV-9_AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQUICIAOADPgI8ASqAmcBvgDtgHcgQUAkQBJQCUYEtAJjgTJAmkEFAAYJABgACINQ6ADAAEQaiEAGAAIg1EoAMAARBqKQAYAAiDUWgAwABEGoA.f_wAAAAAAAAA&gdpr=1&schain=&url=tivify.tv&ifa_type=sessionid&ic=IAB1&content_genre=TV&language=es&rating=TV-PG
 
 
 #EXTINF:-1 tvg-id="true-crime" tvg-name="true-crime" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-true_crime-16x9.jpg" group-title="" , True Crime
