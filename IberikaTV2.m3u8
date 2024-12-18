@@ -56,6 +56,9 @@ https://amg01821-amg01821c22-tivify-international-3877.playouts.now.amagi.tv/pla
 #EXTINF:-1 tvg-id="64ddcbb14c5ed80008fad416" tvg-name="Crimen & Historia" tvg-logo="https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png" group-title="" tvg-chno="301", Crimen & Historia
 https://stitcher.pluto.tv/stitch/hls/channel/64ddcbb14c5ed80008fad416/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b41b9a92-7caa-11ef-886c-b270ff78c77c
 
+#EXTINF:-1 tvg-id="6732499ce40c4a0008bb9894" tvg-name="Crimen" tvg-logo="https://images.pluto.tv/channels/6732499ce40c4a0008bb9894/colorLogoPNG.png" group-title="" tvg-chno="4459", Crimen
+https://stitcher.pluto.tv/stitch/hls/channel/6732499ce40c4a0008bb9894/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d64f5fac-bd22-11ef-a9ef-ee6967560f17
+
 #EXTINF:-1 tvg-id="true-crime" tvg-name="true-crime" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-true_crime-16x9.jpg" group-title="" , True Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 #EXTINF:-1 tvg-id="canela-tv" tvg-name="canela-tv" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canela_tv-16x9_0.jpg" group-title="" , Canela TV
