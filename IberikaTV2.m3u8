@@ -29,7 +29,7 @@ https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5pOZQB4.png", Artflix
 https://amogonetworx-artflix-3-eu.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GzI3RC4.png", 101 tv Malaga
+#EXTINF:-1 tvg-id="101tvMalaga.es" tvg-logo="https://i.imgur.com/GzI3RC4.png", 101 tv Malaga
 https://www.streaming101tv.es:19360/andalucia/andalucia.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ILfXDRs.png", TeleValencia
@@ -48,7 +48,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish
 https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/playlist/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8?timestamp=1698413629&id=12047&ip=201.150.35.76&override_expiration=1500&sign=n2LLwgVD9SERcPAlC4QucrcV2m8H%2BPVjP5k0MoxBXS0%3D&ads.ip=201.150.35.76
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME TV Y PELÍCULAS" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_1920x1080.jpg" group-title="Runtime MX" ,RUNTIME TV Y PELÍCULAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME CLÁSICO" tvg-logo="" group-title="Runtime MX",RUNTIME CLÁSICO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME CLÁSICO" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Runtime MX",RUNTIME CLÁSICO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME CRIMEN" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_crimen_16x9.jpg" group-title="Runtime MX",RUNTIME CRIMEN
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
@@ -102,6 +102,10 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="SIC Noticias" tvg-logo="https://i.imgur.com/Gi6Q26M.png" , SIC Notícias
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8Tgl7m.png", TVI
+https://video-auth1.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAyNCA0OjI6MTYgUE0maGFzaF92YWx1ZT03Q3cxY0R3VC9Gc3hPeE14eTlLZC9RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDcxYTY3NjctNGY3OS00ZmQwLTlkNzMtZTNjZGQ3NjNkZTk1
+
 
 #EXTINF:-1 tvg-id="RUTV.ru" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="Música" ,RU TV
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
