@@ -26,6 +26,15 @@ https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/livel
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/dmax.png", Dmax" 
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTU0Mzk3MjEsIm5iZiI6MTcxNTQzOTcyMSwiZXhwIjoxNzE1NDQwMDgxLCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMzkuMTgwLjEwMiJ9.XuEHixdkD1dWGriVqrPpf2ccN97J-b17SrDXCnc_pQs/live/es/b9243cdb24df40128098f3ea25fcf47d/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pOZQB4.png", Artflix
+https://amogonetworx-artflix-3-eu.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GzI3RC4.png", 101 tv Malaga
+https://www.streaming101tv.es:19360/andalucia/andalucia.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ILfXDRs.png", TeleValencia
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVGAL.TV" tvg-name="Tvg" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="" ,Tvg
 https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="TVG2.TV" tvg-name="Tvg 2" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="" ,Tvg 2
