@@ -1,6 +1,15 @@
 #EXTM3U  
+
+#EXTINF:-1 tvg-id="ESBC4100001NZ" tvg-name="ESBC4100001NZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png" group-title="Nacional" , La 1
+https://jmp2.uk/sam-ESBC4100001NZ.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/la2.png" group-title="Nacional" tvg-shift="+1",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 tvg-id="Antena3.TV" tvg-name="Antena3" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/430610564_968269381327474_7527495341086056082_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=1&ccb=1-7&_nc_sid=79bf43&_nc_ohc=clOKKEqce54Q7kNvgEqY66-&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=ASBA4n6s7M74YTjC2WE9ngU&oh=00_AYAla90aes0PE2ydV3ggOZSDm--ndaKW_TC20s5HYXRMVA&oe=67848853" group-title="Nacional" tvg-shift="+1",Antena3
+https://tvnoov.com/fadoo/antena3.m3u8
+#EXTINF:-1 tvg-id="TEN.TV" tvg-name="Ten" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/355354455_664035169070719_9012729465220653588_n.png?stp=dst-png_s200x200&_nc_cat=100&ccb=1-7&_nc_sid=79bf43&_nc_ohc=_XqcRBq49AcQ7kNvgFPfyid&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=AXdfnBnJw5zRMezy5aWeGci&oh=00_AYCMrHsmHmLgtp_8B6Dv5ajuKynRIYC8dHiDtmz-z38bVQ&oe=6784AADC" tvg-shift="+1",Ten
+https://tvnoov.com/fadoo/ten.m3u8
+#EXTINF:-1 tvg-id="Paramount.TV" tvg-name="Paramount" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/348250810_996459971521809_260722525113462192_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=79bf43&_nc_ohc=3gqDSmHXzHYQ7kNvgHSkCZ-&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=AnAm-dK1DVW1iypzH_PCEUE&oh=00_AYDwL16kW3uD_EOArXOFnURZxgP3yMK4gFBq1ylaK33d2Q&oe=67849F09" tvg-shift="+1", Paramount Channel
+https://tvnoov.com/fadoo/paramountnetwork.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.es" tvg-name="El Toro TV" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/eltorotv.jpg" group-title="Nacional" tvg-shift="+1",El Toro TV
 https://streaming-1.eltorotv.com/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="TelemadridInt(src01).es" tvg-name="Telemadrid" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/telemadrid.jpg" group-title="Nacional" tvg-shift="+1",Telemadrid
@@ -25,6 +34,16 @@ https://tvnoov.com/fadoo/disneychannel.m3u8
 https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/dmax.png", Dmax" 
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTU0Mzk3MjEsIm5iZiI6MTcxNTQzOTcyMSwiZXhwIjoxNzE1NDQwMDgxLCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMzkuMTgwLjEwMiJ9.XuEHixdkD1dWGriVqrPpf2ccN97J-b17SrDXCnc_pQs/live/es/b9243cdb24df40128098f3ea25fcf47d/index.m3u8
+
+#EXTINF:-1,Clan.TV
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+
+#EXTINF:-1,tvg-id="Boing.TV" tvg-logo=":https://graph.facebook.com/boinges/picture?width=200&height=200", Boing
+https://tvnoov.com/fadoo/boing.m3u8
+
+#EXTINF:-1,Kidz.TV
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5pOZQB4.png", Artflix
 https://amogonetworx-artflix-3-eu.plex.wurl.tv/playlist.m3u8
