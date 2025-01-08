@@ -1,8 +1,8 @@
 #EXTM3U  
 
-#EXTINF:-1 tvg-id="ESBC4100001NZ" tvg-name="ESBC4100001NZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png" group-title="Nacional" , La 1
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="La1 " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png" group-title="Nacional" , La 1
 https://jmp2.uk/sam-ESBC4100001NZ.m3u8
-#EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/la2.png" group-title="Nacional" tvg-shift="+1",La 2
+#EXTINF:-1 tvg-id="La2.TV" tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/la2.png" group-title="Nacional" tvg-shift="+1",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-name="Antena3" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/430610564_968269381327474_7527495341086056082_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=1&ccb=1-7&_nc_sid=79bf43&_nc_ohc=clOKKEqce54Q7kNvgEqY66-&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=ASBA4n6s7M74YTjC2WE9ngU&oh=00_AYAla90aes0PE2ydV3ggOZSDm--ndaKW_TC20s5HYXRMVA&oe=67848853" group-title="Nacional" tvg-shift="+1",Antena3
 https://tvnoov.com/fadoo/antena3.m3u8
