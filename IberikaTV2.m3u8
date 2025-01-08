@@ -35,10 +35,8 @@ https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/livel
 #EXTINF:-1 tvg-id="DMax.TV" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/dmax.png", DMax 
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MTU0Mzk3MjEsIm5iZiI6MTcxNTQzOTcyMSwiZXhwIjoxNzE1NDQwMDgxLCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMzkuMTgwLjEwMiJ9.XuEHixdkD1dWGriVqrPpf2ccN97J-b17SrDXCnc_pQs/live/es/b9243cdb24df40128098f3ea25fcf47d/index.m3u8
 
-
-#EXTINF:-1,Bemad.TV
-#EXTIMG:https://graph.facebook.com/BeMadTV/picture?width=200&height=200
-https://directos.mitele.es/orilinear16/live/linear16/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1736362996~exp=1736363176~acl=/*~hmac=d56cd0bc14297cd068e49a98abd228eb44d33c0a7ad1ead9f5f1723178d82d6d
+#EXTINF:-1,tvg-id="Popular.TV" tvg-logo=https://graph.facebook.com/populartvcantabria/picture?width=200&height=200, Popular TV Cantabria
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 
 #EXTINF:-1,Clan.TV
 https://ztnr.rtve.es/ztnr/5466990.m3u8
