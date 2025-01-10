@@ -64,7 +64,7 @@ https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3
 https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="TVG2.TV" tvg-name="Tvg 2" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="" ,Tvg 2
 https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
-#EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg", Negocios tv" 
+#EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg", Negocios tv 
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-id="mytime-movie-network-spanish" tvg-name="mytime-movie-network-spanish" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg" group-title="" , MyTime Movie Network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=82.102.17.185
@@ -104,28 +104,28 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
 #EXTINF:-1 tvg-id="canela-clasicos" tvg-name="canela-clasicos" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-classics-16x9_0.png" group-title="" , Canela Clásicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Azteca Uno" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7DFAtOYGciVRuk5wEDsKJJBmLeF2GSVydw6qCl_mPeVuVa8uQrCZGoO4wqnk4kJXR0qY&usqp=CAU" group-title="Latino" tvg-shift="+1",Azteca Uno
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7DFAtOYGciVRuk5wEDsKJJBmLeF2GSVydw6qCl_mPeVuVa8uQrCZGoO4wqnk4kJXR0qY&usqp=CAU" group-title="Latino" tvg-shift="+1",Azteca Uno
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
-#EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Señal Colombia" tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" group-title="Latino" tvg-shift="+1",Señal Colombia
+#EXTINF:-1 tvg-id="Senal.co" tvg-name="Señal Colombia" tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" group-title="Latino" tvg-shift="+1",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6 Multimedios Mexico" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="Latino" ,Canal 6 Multimedios Mexico
+#EXTINF:-1 tvg-id="MultimediosCdMx.mx" tvg-name="Canal 6 Multimedios Mexico" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="Latino" ,Canal 6 Multimedios Mexico
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Once Mexico" tvg-logo="https://www.rarediseaseday.org/wp-content/uploads/canal-once-IPN.png" group-title="Latino" ,Canal Once Mexico
+#EXTINF:-1 tvg-id="	CanalOnce.mx" tvg-name="Canal Once Mexico" tvg-logo="https://www.rarediseaseday.org/wp-content/uploads/canal-once-IPN.png" group-title="Latino" ,Canal Once Mexico
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DWEnespanol.co(m3u4u)" tvg-name="DW Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64230_dark_360w_270h.png" group-title="" tvg-shift="+1",DW Español
+#EXTINF:-1 tvg-id="DeutscheWelleEs.de" tvg-name="DW Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64230_dark_360w_270h.png" group-title="" tvg-shift="+1",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RT Español" tvg-logo="https://sun9-52.userapi.com/impg/CAXpedftg-D6KHLSLO_2N_b570cwSTn-YfJLdA/AIyPnjAA0fg.jpg?size=1200x1200&quality=95&sign=cf517d93fc131ff714c5522081f8c935&type=album" group-title="" tvg-shift="+1",RT Español
+#EXTINF:-1 tvg-id="RTEspanol.ru" tvg-name="RT Español" tvg-logo="https://sun9-52.userapi.com/impg/CAXpedftg-D6KHLSLO_2N_b570cwSTn-YfJLdA/AIyPnjAA0fg.jpg?size=1200x1200&quality=95&sign=cf517d93fc131ff714c5522081f8c935&type=album" group-title="" tvg-shift="+1",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPInternacionalEurope.pt" tvg-name="RTP Internacional" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275" group-title="" tvg-shift="+1",RTPi Eu
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275" group-title="" tvg-shift="+1",RTPi Eu
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/28545_38014_27812.jpg?amp;w=160" group-title="" tvg-shift="+1",RTP3
+#EXTINF:-1 tvg-id="Rtp3.pt" tvg-name="RTP3" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/28545_38014_27812.jpg?amp;w=160" group-title="" tvg-shift="+1",RTP3
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP Memória" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMemoria00.jpg" group-title="" tvg-shift="+1",RTP Memória
+#EXTINF:-1 tvg-id="RtpMemoria.pt" tvg-name="RTP Memória" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMemoria00.jpg" group-title="" tvg-shift="+1",RTP Memória
 https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/.m3u8
-#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png/200px-Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="" tvg-shift="+1",SIC
+#EXTINF:-1 tvg-id="Sic.pt" tvg-name="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png/200px-Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="" tvg-shift="+1",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-name="SIC Noticias" tvg-logo="https://i.imgur.com/Gi6Q26M.png" , SIC Notícias
+#EXTINF:-1 tvg-id="SicNoticias.pt" tvg-name="SIC Noticias" tvg-logo="https://i.imgur.com/Gi6Q26M.png" , SIC Notícias
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
  Musica ------
