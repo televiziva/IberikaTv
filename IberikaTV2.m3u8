@@ -30,8 +30,10 @@ https://la8avilalive.flumotion.cloud/la8avilalive/smil:channel1PRG.smil/fmt_toke
 https://la8salamancalive.flumotion.cloud/la8salamancalive/smil:channel1PRG.smil/fmt_token/2byQggzwugAjWofr0BVwUsqLoRXF7Br_wM4s_pxO6a8/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYThzYWxhbWFuY2FsaXZlIiwiL29uZGVtYW5kLzBjNWIwYWE0LWZhZDAtNGZlZi1iNzAyLWIxMGE0N2ZlNjEzNSJdfQ/playlist.m3u8
 #EXTINF:-1 tvg-id="La8CYL.TV" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/312237103_550112790448168_2837917071300608519_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=79bf43&_nc_ohc=5Ty5rKvOOVoQ7kNvgFMK1bC&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=AcBaA-ge2IEdGiwiClS90hC&oh=00_AYAxka5-i3bey2O2W4JZiyMwLF1UN8B7m8cWTFCRSB2wiw&oe=67873B57" group-title="" ,La 8 Burgos
 https://la8burgoslive.flumotion.cloud/la8burgoslive/smil:channel1PRG.smil/fmt_token/acBnyQqlEn_pBc6epUzKTuPaMnIySEcdMA5JqpxuEsY/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYThidXJnb3NsaXZlIiwiL29uZGVtYW5kLzhjMzk1Y2FjLTBkNzQtNDgxOC05ODI1LTg4NWI1Y2IxMDcxNCJdfQ/playlist.m3u8
-#EXTINF:-1 tvg-id="La7TelevisionRegiondeMurcia.es" tvg-name="7 Murcia" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title="Nacional" tvg-shift="+1",7 Murcia
+#EXTINF:-1 tvg-id="7RM.TV" tvg-name="7 Murcia" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title="Nacional" tvg-shift="+1",7 Murcia
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TPA.TV" tvg-name="TPA Asturias" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/417523995_912502047547008_6050185578021997263_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=79bf43&_nc_ohc=3pk8lkDgNnAQ7kNvgHRYFCm&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=AEPaow12odhuO4a-vtNqwxn&oh=00_AYBBOYCNwN3H1PcQUvUbLQvEtu6ginUC2EakJ43SAUzz7g&oe=67875418" group-title="Nacional" tvg-shift="+1", TPA Asturias
+https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzY1NTU0MDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.mvPwivq6DI-cO_xgydMZAvIPWgnWOoxDvBoBA7TbLVI/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Canal 4 Mallorca" tvg-logo="https://pbs.twimg.com/profile_images/1802736483951910912/vjhXPo8k_400x400.jpg" group-title="Nacional" tvg-shift="+1",Canal 4 Mallorca
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Squirrel" tvg-logo="" tvg-shift="+1",Squirrel tv
@@ -41,23 +43,32 @@ https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/livel
 #EXTINF:-1 tvg-id="DMax.TV" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/dmax.png", DMax 
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzY1MzE1MjYsIm5iZiI6MTczNjUzMTUyNiwiZXhwIjoxNzM2NTMxODg2LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMzkuMTgwLjEwMiJ9.AK35ylRkL15mij-Z0KulehEq0ZbdM43BjmWDPL5mrvM/live/es/b9243cdb24df40128098f3ea25fcf47d/index.m3u8
 
-#EXTINF:-1,tvg-id="PopularTV_S.TV" tvg-logo=https://graph.facebook.com/populartvcantabria/picture?width=200&height=200, Popular TV Cantabria
+#EXTINF:-1,tvg-id="PopularTV_S.TV" tvg-logo="https://graph.facebook.com/populartvcantabria/picture?width=200&height=200" , Popular TV Cantabria
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 
-#EXTINF:-1,Clan.TV
+#EXTINF:-1,tvg-id="" tvg-logo="https://graph.facebook.com/tvferrol/picture?width=200&height=200", TV Ferrol
+https://directo.tvferrol.es/tv.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-logo="https://graph.facebook.com/televigo/picture?width=200&height=200", TeleVigo
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12687
+
+#EXTINF:-1,tvg-id="" tvg-logo="https://graph.facebook.com/anove.tv/picture?width=200&height=200", A Nove
+https://205245.gvideo.io/mpegts/205245_786753/master_mpegts.m3u8
+
+#EXTINF:-1, tvg-id="Clan.TV" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/463435632_1072352888223534_3331968004613426489_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=79bf43&_nc_ohc=a4FzJSq3H2QQ7kNvgFDtZ6_&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=AvO4VCZthhAHp-1cSBRXSkB&oh=00_AYCInd-IHQpcEH38ZPfKbntzlAP9J1kr-a6f5_AsTPX4NA&oe=67872C7E" , Clan Tve
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 
-#EXTINF:-1, tvg-id="Kidz.TV" , Kidz.TV
+#EXTINF:-1, tvg-id="Kidz.TV" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/308820477_521821366616041_6035068513194751056_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=79bf43&_nc_ohc=T_EwOrgj1J0Q7kNvgF6VESH&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=AVZhqgf1_AEvasxhehEpEmN&oh=00_AYCPAmXJ-I1Kap6PrXkutPobNqmEgCq-PPRZrG3O0mz4Yw&oe=67875095", Kidz.TV
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5pOZQB4.png", Artflix
 https://amogonetworx-artflix-3-eu.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="101tvMalaga.es" tvg-logo="https://i.imgur.com/GzI3RC4.png", 101 tv Malaga
+#EXTINF:-1 tvg-id="101Malaga.TV" tvg-logo="https://i.imgur.com/GzI3RC4.png", 101 tv Malaga
 https://www.streaming101tv.es:19360/andalucia/andalucia.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ILfXDRs.png", TeleValencia
+#EXTINF:-1 tvg-id="7Televalencia.TV" tvg-logo="https://i.imgur.com/ILfXDRs.png", 7 TeleValencia
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVGAL.TV" tvg-name="Tvg" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="" ,Tvg
@@ -83,7 +94,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/13cultura.svg/revision/latest/scale-to-width-down/250?cb=20220709182305" group-title="Docu" , 13 Cultura
 https://daiconnect.com/live/hls/tvup/tvfy-13cultura/.m3u8?ApPW=1366&ApPH=768&USrGDPRC=CP-S4UAP-S4UABMB9CESAmEsAP_gAAAAAAiQg1NV_H__bX9r8Xr16ft0eY1X99j77sQxBhfJk-4FyDvW_JwXn2EyNA26tqYKmRIEuzZBIQFkHJHURVigSogVrzDMYkGMgTMIJ6BkgFMRY2dYCFxvmQtjMQIY5_p_d3f52T-9_dv83dziz8FnvzU5PmclcICdA58tDfl_bRKb-5IOd-70v4v09Nfrk2_eTVk_tevr7B-ufs-7_XV-9_AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQUICIAOADPgI8ASqAmcBvgDtgHcgQUAkQBJQCUYEtAJjgTJAmkEFAAYJABgACINQ6ADAAEQaiEAGAAIg1EoAMAARBqKQAYAAiDUWgAwABEGoA.f_wAAAAAAAAA&UGDPR=1&DLg=en&ApStURL=https://tivify.tv&DAdID=%22fbf30604-9ff6-4607-837f-59ff8eb7c635%22&DAdIDT=sessionid&UUA=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F124.0.0.0%20Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.37.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=%22fbf30604-9ff6-4607-837f-59ff8eb7c635%22&tvfy_env=desktop&lmt=&ic=IAB1-5
-#EXTINF:-1 group-title="" tvg-id="CGTNEspanol.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Español.png" group-title="Docu" ,CGTN Español
+#EXTINF:-1 group-title="" tvg-id="CGTN.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Español.png" group-title="Docu" ,CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="ES12000024R" tvg-name="ES12000024R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20240507T094209SQUARE.png" group-title="" , Historia y Vida
 https://amg01821-amg01821c22-tivify-international-3877.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-tivifyinternational/playlist.m3u8?w=1920&h=1080&cb=&ip=&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&dnt=&app_bundle=tivify.tv&app_name=Tivify&app_store_url=https://tivify.tv&did=437581ab-f6b0-46e4-89cb-dfd532a90863&pod_max_dur=130&pod_ad_slots=8&gdpr_consent=CP-S4UAP-S4UABMB9CESAmEsAP_gAAAAAAiQg1NV_H__bX9r8Xr16ft0eY1X99j77sQxBhfJk-4FyDvW_JwXn2EyNA26tqYKmRIEuzZBIQFkHJHURVigSogVrzDMYkGMgTMIJ6BkgFMRY2dYCFxvmQtjMQIY5_p_d3f52T-9_dv83dziz8FnvzU5PmclcICdA58tDfl_bRKb-5IOd-70v4v09Nfrk2_eTVk_tevr7B-ufs-7_XV-9_AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQUICIAOADPgI8ASqAmcBvgDtgHcgQUAkQBJQCUYEtAJjgTJAmkEFAAYJABgACINQ6ADAAEQaiEAGAAIg1EoAMAARBqKQAYAAiDUWgAwABEGoA.f_wAAAAAAAAA&gdpr=1&schain=&url=tivify.tv&ifa_type=sessionid&ic=IAB1&content_genre=TV&language=es&rating=TV-PG
@@ -138,7 +149,7 @@ https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 https://otv.wotom.net/rmusic/stream.m3u8
 #EXTINF:-1 tvg-id="4Fun.pl" tvg-name="4FUN TV Polonia" tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200" group-title="Música" tvg-shift="+1",4FUN TV Polonia
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-id="xite" tvg-name="Xite" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/800px-Logo_XITE_2017_zwart.png" group-title="Música", Xite
+#EXTINF:-1 tvg-id="Xite.nl" tvg-name="Xite" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/800px-Logo_XITE_2017_zwart.png" group-title="Música", Xite
 https://xite-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="xite" tvg-name="Xite 80s" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/xite80.jpg" group-title="Música" tvg-shift="+1",Xite 80s
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
