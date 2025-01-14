@@ -121,15 +121,16 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MultimediosCdMx.mx" tvg-name="Canal 6 Multimedios Mexico" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="Latino" ,Canal 6 Multimedios Mexico
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="	CanalOnce.mx" tvg-name="Canal Once Mexico" tvg-logo="https://www.rarediseaseday.org/wp-content/uploads/canal-once-IPN.png" group-title="Latino" ,Canal Once Mexico
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="Canal Once Mexico" tvg-logo="https://www.rarediseaseday.org/wp-content/uploads/canal-once-IPN.png" group-title="Latino" ,Canal Once Mexico
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LasEstrellas.mx"tvg-name="Las Estrellas MX" tvg-logo="https://static.epg.best/mx/LasEstrellas.mx.png" group-title="Latino" ,Las Estrellas Mx
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="DeutscheWelleEs.de" tvg-name="DW Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64230_dark_360w_270h.png" group-title="" tvg-shift="+1",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RTEspanol.ru" tvg-name="RT Español" tvg-logo="https://sun9-52.userapi.com/impg/CAXpedftg-D6KHLSLO_2N_b570cwSTn-YfJLdA/AIyPnjAA0fg.jpg?size=1200x1200&quality=95&sign=cf517d93fc131ff714c5522081f8c935&type=album" group-title="" tvg-shift="+1",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="Mega.cl" tvg-name="Meganoticias CL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/1200px-Meganoticias2019.png" group-title="" tvg-shift="-3", Meganoticias
-https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/TdvXGBreTYyJZiwX63BRIA/stream/7ab7a5ad-a2f9-4484-a4d0-fe468d05d00a:DLS/master.m3u8?aid=53bc2bcae41e2d9c662e1ba7&uid=ThOJb3wxww8pVtBe2lIQ9y531RvNU6Dz&sid=QETPRLczHzHicLbivwp4k5SEdnNbTi1Y&pid=XYfzY2KGduavd0vI5cHfFDC6UXGP222q&ref=https%3A%2F%2Fwww.meganoticias.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=3SuojXBghoMvqe5jMBSLTHX1qaNkRkZE3zZU53I4tevcmdnXB2SVAW3PtHMe8fQ7FQrNWZlXLXD&adInsertionGoogleStreamId=7ab7a5ad-a2f9-4484-a4d0-fe468d05d00a%3ADLS&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1736957872482&ot=iFrVyS80XLQNRXz1IW5TdQ&proto=https&pz=us
+
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275" group-title="" tvg-shift="+1",RTPi Eu
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
 #EXTINF:-1 tvg-id="Rtp3.pt" tvg-name="RTP3" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/28545_38014_27812.jpg?amp;w=160" group-title="" tvg-shift="+1",RTP3
