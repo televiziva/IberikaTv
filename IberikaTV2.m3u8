@@ -120,12 +120,16 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3
 #EXTINF:-1 tvg-id="Senal.co" tvg-name="Señal Colombia" tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" group-title="Latino" tvg-shift="+1",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MultimediosCdMx.mx" tvg-name="Canal 6 Multimedios Mexico" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="Latino" ,Canal 6 Multimedios Mexico
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="Canal Once Mexico" tvg-logo="https://www.rarediseaseday.org/wp-content/uploads/canal-once-IPN.png" group-title="Latino" ,Canal Once Mexico
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
-
+#EXTINF:-1 tvg-id="Azteca7.mx"tvg-name="Azteca 7 MX" tvg-logo="https://static.epg.best/mx/LasEstrellas.mx.png" group-title="Latino" ,Azteca 7 Mx
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx"tvg-name="Las Estrellas MX" tvg-logo="https://static.epg.best/mx/LasEstrellas.mx.png" group-title="Latino" ,Las Estrellas Mx
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-name="Univisión" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="Latino" ,Univisión
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
+
 #EXTINF:-1 tvg-id="DeutscheWelleEs.de" tvg-name="DW Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64230_dark_360w_270h.png" group-title="" tvg-shift="+1",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RTEspanol.ru" tvg-name="RT Español" tvg-logo="https://sun9-52.userapi.com/impg/CAXpedftg-D6KHLSLO_2N_b570cwSTn-YfJLdA/AIyPnjAA0fg.jpg?size=1200x1200&quality=95&sign=cf517d93fc131ff714c5522081f8c935&type=album" group-title="" tvg-shift="+1",RT Español
