@@ -1,26 +1,24 @@
 #EXTM3U  
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-name="La1 " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png" group-title="Nacional" , La 1
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="La1 " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png" group-title=" " , La 1
 https://jmp2.uk/sam-ESBC4100001NZ.m3u8
-#EXTINF:-1 tvg-id="La2.TV" tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/la2.png" group-title="Nacional" tvg-shift="+1",La 2
+#EXTINF:-1 tvg-id="La2.TV" tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/la2.png" group-title=" " tvg-shift="+1",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 tvg-id="Antena3.TV" tvg-name="Antena3" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/430610564_968269381327474_7527495341086056082_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=1&ccb=1-7&_nc_sid=79bf43&_nc_ohc=clOKKEqce54Q7kNvgEqY66-&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=ASBA4n6s7M74YTjC2WE9ngU&oh=00_AYAla90aes0PE2ydV3ggOZSDm--ndaKW_TC20s5HYXRMVA&oe=67848853" group-title="Nacional" tvg-shift="+1",Antena3
-https://tvnoov.com/fadoo/antena3.m3u8
 #EXTINF:-1 tvg-id="TEN.TV" tvg-name="Ten" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/355354455_664035169070719_9012729465220653588_n.png?stp=dst-png_s200x200&_nc_cat=100&ccb=1-7&_nc_sid=79bf43&_nc_ohc=_XqcRBq49AcQ7kNvgFPfyid&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=AXdfnBnJw5zRMezy5aWeGci&oh=00_AYCMrHsmHmLgtp_8B6Dv5ajuKynRIYC8dHiDtmz-z38bVQ&oe=6784AADC" tvg-shift="+1",Ten
 https://tvnoov.com/fadoo/ten.m3u8
 #EXTINF:-1 tvg-id="Paramount.TV" tvg-name="Paramount" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/348250810_996459971521809_260722525113462192_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=79bf43&_nc_ohc=3gqDSmHXzHYQ7kNvgHSkCZ-&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=AnAm-dK1DVW1iypzH_PCEUE&oh=00_AYDwL16kW3uD_EOArXOFnURZxgP3yMK4gFBq1ylaK33d2Q&oe=67849F09" tvg-shift="+1", Paramount Channel
 https://tvnoov.com/fadoo/paramountnetwork.m3u8
-#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-name="El Toro TV" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/eltorotv.jpg" group-title="Nacional" tvg-shift="+1",El Toro TV
+#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-name="El Toro TV" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/eltorotv.jpg" group-title=" " tvg-shift="+1",El Toro TV
 https://streaming-1.eltorotv.com/eltorotv-streaming-web/index.m3u8
-#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-name="Telemadrid" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/telemadrid.jpg" group-title="Nacional" tvg-shift="+1",Telemadrid
+#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-name="Telemadrid" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/telemadrid.jpg" group-title=" " tvg-shift="+1",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
-#EXTINF:-1 tvg-id="LaOtra.TV" tvg-name="LaOtra" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/laotra.jpg" group-title="Nacional" tvg-shift="+1",LaOtra
+#EXTINF:-1 tvg-id="LaOtra.TV" tvg-name="LaOtra" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/laotra.jpg" group-title=" " tvg-shift="+1",LaOtra
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 4 Madrid" tvg-logo="https://pbs.twimg.com/profile_images/1802736483951910912/vjhXPo8k_400x400.jpg" , Canal 4 Madrid
 https://limited35.todostreaming.es/live/mitjans-livestream2.m3u8
-#EXTINF:-1 tvg-id="CMM.TV" tvg-name="Castilla-La Mancha Media" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="Nacional" tvg-shift="+1",Castilla-La Mancha Media
+#EXTINF:-1 tvg-id="CMM.TV" tvg-name="Castilla-La Mancha Media" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title=" " tvg-shift="+1",Castilla-La Mancha Media
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="8M.TV" tvg-name="La 8 Mediterráneo" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="Nacional" tvg-shift="+1",La 8 Mediterráneo
+#EXTINF:-1 tvg-id="8M.TV" tvg-name="La 8 Mediterráneo" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title=" " tvg-shift="+1",La 8 Mediterráneo
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 #EXTINF:-1 tvg-id="La7.TV" tvg-logo="https://i.imgur.com/haWbhrS.png" group-title="" ,La 7 CyL
 https://la7live.flumotion.cloud/la7live/smil:channel1.smil/fmt_token/brX2cV1a8QCLEqcPmGRe8fS5w9NpMGCp1qAdd3JaP1g/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYTdsaXZlIiwiL29uZGVtYW5kLzk4MWM0OGU2LWM2M2UtNGQwMC1iMWUxLTc5NzgyMGE2MWM1OSJdfQ/playlist.m3u8
@@ -30,15 +28,15 @@ https://la8avilalive.flumotion.cloud/la8avilalive/smil:channel1PRG.smil/fmt_toke
 https://la8salamancalive.flumotion.cloud/la8salamancalive/smil:channel1PRG.smil/fmt_token/2byQggzwugAjWofr0BVwUsqLoRXF7Br_wM4s_pxO6a8/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYThzYWxhbWFuY2FsaXZlIiwiL29uZGVtYW5kLzBjNWIwYWE0LWZhZDAtNGZlZi1iNzAyLWIxMGE0N2ZlNjEzNSJdfQ/playlist.m3u8
 #EXTINF:-1 tvg-id="La8CYL.TV" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/312237103_550112790448168_2837917071300608519_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=79bf43&_nc_ohc=5Ty5rKvOOVoQ7kNvgFMK1bC&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=AcBaA-ge2IEdGiwiClS90hC&oh=00_AYAxka5-i3bey2O2W4JZiyMwLF1UN8B7m8cWTFCRSB2wiw&oe=67873B57" group-title="" ,La 8 Burgos
 https://la8burgoslive.flumotion.cloud/la8burgoslive/smil:channel1PRG.smil/fmt_token/acBnyQqlEn_pBc6epUzKTuPaMnIySEcdMA5JqpxuEsY/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYThidXJnb3NsaXZlIiwiL29uZGVtYW5kLzhjMzk1Y2FjLTBkNzQtNDgxOC05ODI1LTg4NWI1Y2IxMDcxNCJdfQ/playlist.m3u8
-#EXTINF:-1 tvg-id="7RM.TV" tvg-name="7 Murcia" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title="Nacional" tvg-shift="+1",7 Murcia
+#EXTINF:-1 tvg-id="7RM.TV" tvg-name="7 Murcia" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title=" " tvg-shift="+1",7 Murcia
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TPA.TV" tvg-name="TPA Asturias" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/417523995_912502047547008_6050185578021997263_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=79bf43&_nc_ohc=3pk8lkDgNnAQ7kNvgHRYFCm&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=AEPaow12odhuO4a-vtNqwxn&oh=00_AYBBOYCNwN3H1PcQUvUbLQvEtu6ginUC2EakJ43SAUzz7g&oe=67875418" group-title="Nacional" tvg-shift="+1", TPA Asturias
+#EXTINF:-1 tvg-id="TPA.TV" tvg-name="TPA Asturias" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/417523995_912502047547008_6050185578021997263_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=79bf43&_nc_ohc=3pk8lkDgNnAQ7kNvgHRYFCm&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=AEPaow12odhuO4a-vtNqwxn&oh=00_AYBBOYCNwN3H1PcQUvUbLQvEtu6ginUC2EakJ43SAUzz7g&oe=67875418" group-title=" " tvg-shift="+1", TPA Asturias
 https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzY1NTU0MDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.mvPwivq6DI-cO_xgydMZAvIPWgnWOoxDvBoBA7TbLVI/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Canal 4 Mallorca" tvg-logo="https://pbs.twimg.com/profile_images/1802736483951910912/vjhXPo8k_400x400.jpg" group-title="Nacional" tvg-shift="+1",Canal 4 Mallorca
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Canal 4 Mallorca" tvg-logo="https://pbs.twimg.com/profile_images/1802736483951910912/vjhXPo8k_400x400.jpg" group-title=" " tvg-shift="+1",Canal 4 Mallorca
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Squirrel" tvg-logo="" tvg-shift="+1",Squirrel tv
 https://tvnoov.com/fadoo/disneychannel.m3u8
-#EXTINF:-1 tvg-id="13.TV" tvg-name="Trece" tvg-logo="https://brandemia.org/sites/default/files/inline/images/destacado13-1200x750.jpg" group-title="Nacional" tvg-shift="+1", Trece
+#EXTINF:-1 tvg-id="13.TV" tvg-name="Trece" tvg-logo="https://brandemia.org/sites/default/files/inline/images/destacado13-1200x750.jpg" group-title=" " tvg-shift="+1", Trece
 https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 #EXTINF:-1 tvg-id="DMax.TV" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/dmax.png", DMax 
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzY1MzE1MjYsIm5iZiI6MTczNjUzMTUyNiwiZXhwIjoxNzM2NTMxODg2LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMzkuMTgwLjEwMiJ9.AK35ylRkL15mij-Z0KulehEq0ZbdM43BjmWDPL5mrvM/live/es/b9243cdb24df40128098f3ea25fcf47d/index.m3u8
@@ -49,8 +47,8 @@ https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1,tvg-id="" tvg-logo="https://graph.facebook.com/tvferrol/picture?width=200&height=200", TV Ferrol
 https://directo.tvferrol.es/tv.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-logo="https://graph.facebook.com/televigo/picture?width=200&height=200", TeleVigo
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12687
+#EXTINF:-1,tvg-id="33 TV" tvg-logo="https://karyganet.com/wp-content/uploads/tv-33.jpg", 33tv
+https://limited43.todostreaming.es/live/simbana-livestream.m3u8
 
 #EXTINF:-1,tvg-id="" tvg-logo="https://graph.facebook.com/anove.tv/picture?width=200&height=200", A Nove
 https://205245.gvideo.io/mpegts/205245_786753/master_mpegts.m3u8
@@ -123,7 +121,7 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="Canal Once Mexico" tvg-logo="https://www.rarediseaseday.org/wp-content/uploads/canal-once-IPN.png" group-title="Latino" ,Canal Once Mexico
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx"tvg-name="Azteca 7 MX" tvg-logo="https://static.epg.best/mx/LasEstrellas.mx.png" group-title="Latino" ,Azteca 7 Mx
+#EXTINF:-1 tvg-id="Azteca7.mx"tvg-name="Azteca 7 MX" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="Latino" ,Azteca 7 Mx
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx"tvg-name="Las Estrellas MX" tvg-logo="https://static.epg.best/mx/LasEstrellas.mx.png" group-title="Latino" ,Las Estrellas Mx
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -135,7 +133,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RTEspanol.ru" tvg-name="RT Español" tvg-logo="https://sun9-52.userapi.com/impg/CAXpedftg-D6KHLSLO_2N_b570cwSTn-YfJLdA/AIyPnjAA0fg.jpg?size=1200x1200&quality=95&sign=cf517d93fc131ff714c5522081f8c935&type=album" group-title="" tvg-shift="+1",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275" group-title="" tvg-shift="+1",RTPi Eu
+#EXTINF:-1 tvg-id="RTPInter .pt" tvg-name="RTP Inter " tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275" group-title="" tvg-shift="+1",RTPi Eu
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
 #EXTINF:-1 tvg-id="Rtp3.pt" tvg-name="RTP3" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/28545_38014_27812.jpg?amp;w=160" group-title="" tvg-shift="+1",RTP3
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
