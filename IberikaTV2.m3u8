@@ -124,6 +124,8 @@ https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TelepacificoTV/picture?width=200&height=200" group-title="Latino" tvg-name="Telepacifico Colombia",Telepacifico Colombia
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1850052710403342336/m-om6omY_200x200.jpg" group-title="Latino" tvg-name="Canal Telecaribe Colombia",Canal Telecaribe Colombia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="MultimediosCdMx.mx" tvg-name="Canal 6 Multimedios Mexico" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="Latino" ,Canal 6 Multimedios Mexico
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
