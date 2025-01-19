@@ -137,8 +137,14 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="Univisión" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="Latino" ,Univisión
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="Latino" tvg-name="TV Perú Noticias",TV Perú Noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalipe/picture?width=200&height=200" group-title="Latino" tvg-name="Canal IPe Perú",Canal IPe Perú
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina Pe" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=200&height=200" group-title="Latino" ,Latina Pe
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?did=b21243747182678ccccd05df7
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=200&height=200" group-title="Latino" tvg-name="Latina Perú",Latina Perú Noticias
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina Clásicos Pe" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=200&height=200" group-title="Latino" ,Latina Clásico Pe
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8?did=b21243747182678ccccd05df7
 #EXTINF:-1 tvg-id="" tvg-name="Panamericana Pe" tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=200&height=200" group-title="Latino" ,Panamericana Pe
