@@ -117,8 +117,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 #EXTINF:-1 tvg-id="Senal.co" tvg-name="Señal Colombia" tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" group-title="Latino" tvg-shift="+1",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="RCN Co" tvg-logo="https://static.epg.best/co/RCN.co.png" group-title="Latino" tvg-shift="+1",RCN Co
+https://live-c2.cf.dmcdn.net/sec2(5e8Cc4etkAOv_3rBu3WT0vhwE3pz-a9PaPRfXvkfamkCvWDrRByAmDr5km-FMmyp1b-2sxShgAWpbqKKjaxmauzuKQD5PMRhxgEqyXurYxvndFkLvivbyR89JVZb9V3F)/cloud/3/x7wikpz/s/live-720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Noticias Caracol Co" tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" group-title="Latino" tvg-shift="+1",Noticias Caracol Co
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Más Co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Red%2B_2018_logo.png" group-title="Latino" tvg-shift="+1",Red Más Co
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200" group-title="Latino" tvg-name="Teleantioquia Colombia",Teleantioquia Colombia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 CrKey/1.44.191160
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
