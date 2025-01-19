@@ -117,16 +117,20 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 #EXTINF:-1 tvg-id="Senal.co" tvg-name="Señal Colombia" tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" group-title="Latino" tvg-shift="+1",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Noticias Caracol Co" tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" group-title="Latino" tvg-shift="+1",Noticias Caracol Co
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-id="MultimediosCdMx.mx" tvg-name="Canal 6 Multimedios Mexico" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="Latino" ,Canal 6 Multimedios Mexico
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="Canal Once Mexico" tvg-logo="https://www.rarediseaseday.org/wp-content/uploads/canal-once-IPN.png" group-title="Latino" ,Canal Once Mexico
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx"tvg-name="Azteca 7 MX" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="Latino" ,Azteca 7 Mx
-https://karyganet.com/wp-content/uploads/tv-33.jpg
 #EXTINF:-1 tvg-id="LasEstrellas.mx"tvg-name="Las Estrellas MX" tvg-logo="https://static.epg.best/mx/LasEstrellas.mx.png" group-title="Latino" ,Las Estrellas Mx
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="Univisión" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="Latino" ,Univisión
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latina Pe" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=200&height=200" group-title="Latino" ,Latina Pe
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?did=b21243747182678ccccd05df7
+#EXTINF:-1 tvg-id="" tvg-name="Latina Clásicos Pe" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=200&height=200" group-title="Latino" ,Latina Clásico Pe
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8?did=b21243747182678ccccd05df7
 
 #EXTINF:-1 tvg-id="DeutscheWelleEs.de" tvg-name="DW Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64230_dark_360w_270h.png" group-title="" tvg-shift="+1",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
