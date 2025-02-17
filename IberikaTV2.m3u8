@@ -50,8 +50,6 @@ https://directo.tvferrol.es/tv.m3u8
 #EXTINF:-1,tvg-id="33 TV" tvg-logo="https://karyganet.com/wp-content/uploads/tv-33.jpg", 33tv
 https://limited43.todostreaming.es/live/simbana-livestream.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-logo="https://www.freeshot.live/upload/source/RTP-Memoria-logo.png", RTP Memória
-https://moonlight.wideiptv.top/RTPMemoria/index.fmp4.m3u8?token=d949653347f4aa10ca052e3e72853d2dc5aa1008-e09640143604be52b5e177a82413a843-1739845365-1739834565
 
 #EXTINF:-1, tvg-id="Clan.TV" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/463435632_1072352888223534_3331968004613426489_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=79bf43&_nc_ohc=a4FzJSq3H2QQ7kNvgFDtZ6_&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=AvO4VCZthhAHp-1cSBRXSkB&oh=00_AYCInd-IHQpcEH38ZPfKbntzlAP9J1kr-a6f5_AsTPX4NA&oe=67872C7E" , Clan Tve
 https://ztnr.rtve.es/ztnr/5466990.m3u8
@@ -159,16 +157,26 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RTEspanol.ru" tvg-name="RT Español" tvg-logo="https://sun9-52.userapi.com/impg/CAXpedftg-D6KHLSLO_2N_b570cwSTn-YfJLdA/AIyPnjAA0fg.jpg?size=1200x1200&quality=95&sign=cf517d93fc131ff714c5522081f8c935&type=album" group-title="" tvg-shift="+1",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTPInter .pt" tvg-name="RTP Inter " tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275" group-title="" tvg-shift="+1",RTPi Eu
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
+#EXTINF:-1 tvg-id="RTPInter.pt" tvg-name="RTP Internacional" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275" group-title="" tvg-shift="+1",RTPi Eu
+https://moonlight.wideiptv.top/RTP_INT/index.fmp4.m3u8?token=53c5e36f4c5bcc7e480a7ba965ff0e2638d8481c-54fbedb219ce4387eab415a9f3596396-1739845782-1739834982
+#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="RTP1" tvg-logo="https://www.freeshot.live/upload/source/RTP1-logo.png" group-title="" tvg-shift="+1",RTP1
+https://moonlight.wideiptv.top/RTP1/index.fmp4.m3u8?token=13ffd198d0b290ddab8a18c09686e432f5516c36-3f7c52080643a19b1a58aba0914f9817-1739846184-1739835384
+#EXTINF:-1 tvg-id="Rtp2.pt" tvg-name="RTP2" tvg-logo="https://www.freeshot.live/upload/source/RTP2-logo.png" group-title="" tvg-shift="+1",RTP2
+https://moonlight.wideiptv.top/RTP2/index.fmp4.m3u8?token=fda9ff35bec43220cfbe17ee565db4785755ca65-ab72ca232c0d33cb91e89664b01feb8c-1739846281-1739835481
 #EXTINF:-1 tvg-id="Rtp3.pt" tvg-name="RTP3" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/28545_38014_27812.jpg?amp;w=160" group-title="" tvg-shift="+1",RTP3
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RtpMemoria.pt" tvg-name="RTP Memória" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMemoria00.jpg" group-title="" tvg-shift="+1",RTP Memória
 https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/.m3u8
+#EXTINF:-1,tvg-id="" tvg-logo="https://www.freeshot.live/upload/source/RTP-Memoria-logo.png", RTP Memória
+https://moonlight.wideiptv.top/RTPMemoria/index.fmp4.m3u8?token=d949653347f4aa10ca052e3e72853d2dc5aa1008-e09640143604be52b5e177a82413a843-1739845365-1739834565
 #EXTINF:-1 tvg-id="Sic.pt" tvg-name="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png/200px-Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="" tvg-shift="+1",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-id="SicNoticias.pt" tvg-name="SIC Noticias" tvg-logo="https://i.imgur.com/Gi6Q26M.png" , SIC Notícias
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="https://www.freeshot.live/upload/source/CMTV-new-logo.png" , CMTV
+https://moonlight.wideiptv.top/CMTVPT/index.fmp4.m3u8?token=86e9b7c0a565c820247a95ffd7cff77cab6a30e1-3c7bdee48e2045406d6dc6c90582a71e-1739845923-1739835123
+#EXTINF:-1 tvg-id="" tvg-name="https://www.freeshot.live/upload/source/CanalQ-logo.png" , Canal Q
+https://moonlight.wideiptv.top/CanalQ/index.fmp4.m3u8?token=c2aed306001258e84a1a2a636d97e7710731f54e-3652fd3002c2d69ff201d4ab9997f34a-1739845991-1739835191
 
  Musica ------
 
