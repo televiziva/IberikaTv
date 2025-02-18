@@ -28,29 +28,29 @@ https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 #EXTINF:-1 tvg-id="La7.TV" tvg-logo="https://i.imgur.com/haWbhrS.png" group-title="" ,La 7 CyL
 https://la7live.flumotion.cloud/la7live/smil:channel1.smil/fmt_token/brX2cV1a8QCLEqcPmGRe8fS5w9NpMGCp1qAdd3JaP1g/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYTdsaXZlIiwiL29uZGVtYW5kLzk4MWM0OGU2LWM2M2UtNGQwMC1iMWUxLTc5NzgyMGE2MWM1OSJdfQ/playlist.m3u8
-#EXTINF:-1 tvg-id="La8CYL.TV" tvg-logo="https://pbs.twimg.com/profile_images/1364545643319087104/7qp4nrtS_200x200.jpg" group-title="" ,La 8 Ávila
+#EXTINF:-1 tvg-id="La8CYL.TV" tvg-logo="https://i.imgur.com/oVtVKw0.png" group-title="" ,La 8 Ávila
 https://la8avilalive.flumotion.cloud/la8avilalive/smil:channel1PRG.smil/fmt_token/t2cJACnNomwAyXndoCmCgIcIVAebvtSOmMv-nUHxEa0/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYThhdmlsYWxpdmUiLCIvb25kZW1hbmQvMWU4OTQ5MzAtZTJmNi00MTRlLWI4MzgtOTEwNzI2ZTkzMWIyIl19/playlist.m3u8
-#EXTINF:-1 tvg-id="La8CYL.TV" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/304778350_582682086793496_1047805253609990171_n.png?_nc_cat=110&ccb=1-7&_nc_sid=79bf43&_nc_ohc=ALJyB9gFj7IQ7kNvgF44ivo&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=ACZ3Du1P2mlOkGi_BPNRFVs&oh=00_AYAdYE9DxhSMRj0INpyugieDTARoMMDGH4NwrQQeV89_CA&oe=67873077" group-title="" ,La 8 Salamanca
+#EXTINF:-1 tvg-id="La8CYL.TV" tvg-logo="https://i.imgur.com/DiM5iWn.png" group-title="" ,La 8 Salamanca
 https://la8salamancalive.flumotion.cloud/la8salamancalive/smil:channel1PRG.smil/fmt_token/2byQggzwugAjWofr0BVwUsqLoRXF7Br_wM4s_pxO6a8/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYThzYWxhbWFuY2FsaXZlIiwiL29uZGVtYW5kLzBjNWIwYWE0LWZhZDAtNGZlZi1iNzAyLWIxMGE0N2ZlNjEzNSJdfQ/playlist.m3u8
-#EXTINF:-1 tvg-id="La8CYL.TV" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/312237103_550112790448168_2837917071300608519_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=79bf43&_nc_ohc=5Ty5rKvOOVoQ7kNvgFMK1bC&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=AcBaA-ge2IEdGiwiClS90hC&oh=00_AYAxka5-i3bey2O2W4JZiyMwLF1UN8B7m8cWTFCRSB2wiw&oe=67873B57" group-title="" ,La 8 Burgos
+#EXTINF:-1 tvg-id="La8CYL.TV" tvg-logo="https://i.imgur.com/Uu7XQ15.png" group-title="" ,La 8 Burgos
 https://la8burgoslive.flumotion.cloud/la8burgoslive/smil:channel1PRG.smil/fmt_token/acBnyQqlEn_pBc6epUzKTuPaMnIySEcdMA5JqpxuEsY/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYThidXJnb3NsaXZlIiwiL29uZGVtYW5kLzhjMzk1Y2FjLTBkNzQtNDgxOC05ODI1LTg4NWI1Y2IxMDcxNCJdfQ/playlist.m3u8
 #EXTINF:-1 tvg-id="7RM.TV" tvg-name="7 Murcia" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title=" " tvg-shift="+1",7 Murcia
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TPA.TV" tvg-name="TPA Asturias" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/417523995_912502047547008_6050185578021997263_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=79bf43&_nc_ohc=3pk8lkDgNnAQ7kNvgHRYFCm&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=AEPaow12odhuO4a-vtNqwxn&oh=00_AYBBOYCNwN3H1PcQUvUbLQvEtu6ginUC2EakJ43SAUzz7g&oe=67875418" group-title=" " tvg-shift="+1", TPA Asturias
 https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzY1NTU0MDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.mvPwivq6DI-cO_xgydMZAvIPWgnWOoxDvBoBA7TbLVI/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Canal 4 Mallorca" tvg-logo="https://pbs.twimg.com/profile_images/1802736483951910912/vjhXPo8k_400x400.jpg" group-title=" " tvg-shift="+1",Canal 4 Mallorca
+#EXTINF:-1 tvg-id="Canal4Mallorca.TV" tvg-name="Canal 4 Mallorca" tvg-logo="https://i.imgur.com/tQh8C3s.png" group-title="" tvg-shift="+1",Canal 4 Mallorca
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Squirrel" tvg-logo="https://www.tvguia.es/sites/default/files/logo/squirrel-tv.png" tvg-shift="+1",Squirrel tv
+#EXTINF:-1 tvg-id="Squirrel.TV" tvg-name="Squirrel" tvg-logo="https://www.tvguia.es/sites/default/files/logo/squirrel-tv.png" tvg-shift="+1",Squirrel tv
 https://tvnoov.com/fadoo/disneychannel.m3u8
 #EXTINF:-1 tvg-id="13.TV" tvg-name="Trece" tvg-logo="https://brandemia.org/sites/default/files/inline/images/destacado13-1200x750.jpg" group-title=" " tvg-shift="+1", Trece
-https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 #EXTINF:-1 tvg-id="DMax.TV" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/dmax.png", DMax 
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzY1MzE1MjYsIm5iZiI6MTczNjUzMTUyNiwiZXhwIjoxNzM2NTMxODg2LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMzkuMTgwLjEwMiJ9.AK35ylRkL15mij-Z0KulehEq0ZbdM43BjmWDPL5mrvM/live/es/b9243cdb24df40128098f3ea25fcf47d/index.m3u8
 
 #EXTINF:-1,tvg-id="PopularTV_S.TV" tvg-logo="https://graph.facebook.com/populartvcantabria/picture?width=200&height=200" , Popular TV Cantabria
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 
-#EXTINF:-1,tvg-id="" tvg-logo="https://graph.facebook.com/tvferrol/picture?width=200&height=200", TV Ferrol
+#EXTINF:-1,tvg-id="TVFerrol.TV" tvg-logo="https://i.imgur.com/TjpjoOu.png", TV Ferrol
 https://directo.tvferrol.es/tv.m3u8
 
 #EXTINF:-1,tvg-id="33 TV" tvg-logo="https://karyganet.com/wp-content/uploads/tv-33.jpg", 33tv
