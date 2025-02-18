@@ -177,9 +177,9 @@ https://moonlight.wideiptv.top/RTPMemoria/index.fmp4.m3u8?token=d949653347f4aa10
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-id="SicNoticias.pt" tvg-name="SIC Noticias" tvg-logo="https://i.imgur.com/Gi6Q26M.png" , SIC Notícias
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.freeshot.live/upload/source/CMTV-new-logo.png" , CMTV
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="https://i.imgur.com/QFLqg8y.png" , CMTV
 https://moonlight.wideiptv.top/CMTVPT/index.fmp4.m3u8?token=86e9b7c0a565c820247a95ffd7cff77cab6a30e1-3c7bdee48e2045406d6dc6c90582a71e-1739845923-1739835123
-#EXTINF:-1 tvg-id="" tvg-name="https://www.freeshot.live/upload/source/CanalQ-logo.png" , Canal Q
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="https://i.imgur.com/OovTKqv.png" , Canal Q
 https://moonlight.wideiptv.top/CanalQ/index.fmp4.m3u8?token=c2aed306001258e84a1a2a636d97e7710731f54e-3652fd3002c2d69ff201d4ab9997f34a-1739845991-1739835191
 
  Musica ------
