@@ -40,8 +40,6 @@ https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3
 https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzY1NTU0MDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.mvPwivq6DI-cO_xgydMZAvIPWgnWOoxDvBoBA7TbLVI/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8
 #EXTINF:-1 tvg-id="Canal4Mallorca.TV" tvg-name="Canal 4 Mallorca" tvg-logo="https://i.imgur.com/tQh8C3s.png" group-title="" tvg-shift="+1",Canal 4 Mallorca
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
-#EXTINF:-1 tvg-id="Squirrel.es" tvg-name="Squirrel" tvg-logo="https://www.tvguia.es/sites/default/files/logo/squirrel-tv.png" tvg-shift="+1",Squirrel tv
-https://tvnoov.com/fadoo/disneychannel.m3u8
 #EXTINF:-1 tvg-id="13.TV" tvg-name="Trece" tvg-logo="https://brandemia.org/sites/default/files/inline/images/destacado13-1200x750.jpg" group-title=" " tvg-shift="+1", Trece
 https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 #EXTINF:-1 tvg-id="DMax.TV" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/dmax.png", DMax 
@@ -163,17 +161,17 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RTEspanol.ru" tvg-name="RT Español" tvg-logo="https://sun9-52.userapi.com/impg/CAXpedftg-D6KHLSLO_2N_b570cwSTn-YfJLdA/AIyPnjAA0fg.jpg?size=1200x1200&quality=95&sign=cf517d93fc131ff714c5522081f8c935&type=album" group-title="" tvg-shift="+1",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTPInter.pt" tvg-name="RTP Internacional" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275" group-title="" tvg-shift="+1",RTPi Eu
+#EXTINF:-1 tvg-id="RTPInter.pt" tvg-name="RTP Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="" tvg-shift="+1",RTPi Eu
 https://moonlight.wideiptv.top/RTP_INT/index.fmp4.m3u8?token=53c5e36f4c5bcc7e480a7ba965ff0e2638d8481c-54fbedb219ce4387eab415a9f3596396-1739845782-1739834982
-#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="RTP1" tvg-logo="https://www.freeshot.live/upload/source/RTP1-logo.png" group-title="" tvg-shift="+1",RTP1
+#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="RTP1" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="" tvg-shift="+1",RTP1
 https://moonlight.wideiptv.top/RTP1/index.fmp4.m3u8?token=13ffd198d0b290ddab8a18c09686e432f5516c36-3f7c52080643a19b1a58aba0914f9817-1739846184-1739835384
-#EXTINF:-1 tvg-id="Rtp2.pt" tvg-name="RTP2" tvg-logo="https://www.freeshot.live/upload/source/RTP2-logo.png" group-title="" tvg-shift="+1",RTP2
+#EXTINF:-1 tvg-id="Rtp2.pt" tvg-name="RTP2" tvg-logo="https://i.imgur.com/T6WUqdn.png" group-title="" tvg-shift="+1",RTP2
 https://moonlight.wideiptv.top/RTP2/index.fmp4.m3u8?token=fda9ff35bec43220cfbe17ee565db4785755ca65-ab72ca232c0d33cb91e89664b01feb8c-1739846281-1739835481
 #EXTINF:-1 tvg-id="Rtp3.pt" tvg-name="RTP3" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/28545_38014_27812.jpg?amp;w=160" group-title="" tvg-shift="+1",RTP3
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RtpMemoria.pt" tvg-name="RTP Memória" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpMemoria00.jpg" group-title="" tvg-shift="+1",RTP Memória
+#EXTINF:-1 tvg-id="RtpMemoria.pt" tvg-name="RTP Memória" tvg-logo="https://i.imgur.com/jCpfdiJ.png" group-title="" tvg-shift="+1",RTP Memória
 https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/.m3u8
-#EXTINF:-1,tvg-id="" tvg-logo="https://www.freeshot.live/upload/source/RTP-Memoria-logo.png", RTP Memória
+#EXTINF:-1,tvg-id="" tvg-logo="https://i.imgur.com/jCpfdiJ.png", RTP Memória
 https://moonlight.wideiptv.top/RTPMemoria/index.fmp4.m3u8?token=d949653347f4aa10ca052e3e72853d2dc5aa1008-e09640143604be52b5e177a82413a843-1739845365-1739834565
 #EXTINF:-1 tvg-id="Sic.pt" tvg-name="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png/200px-Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="" tvg-shift="+1",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
