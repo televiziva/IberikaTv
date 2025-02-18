@@ -6,9 +6,9 @@ https://jmp2.uk/sam-ESBC4100001NZ.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="Antena3.TV" tvg-name="Antena3" tvg-logo="https://www.tvguia.es/sites/default/files/logo/antena-3.png" group-title="" tvg-shift="+1",Antena 3
 https://tvnoov.com/fadoo/antena3.m3u8
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="cuatro" tvg-logo="https://www.tvguia.es/sites/default/files/logo/cuatro.png" group-title="" tvg-shift="+1",Cuatro
+#EXTINF:-1 tvg-id="Cuatro.TV" tvg-name="cuatro" tvg-logo="https://www.tvguia.es/sites/default/files/logo/cuatro.png" group-title="" tvg-shift="+1",Cuatro
 https://tvnoov.com/fadoo/cuatrohd.m3u8
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="neox" tvg-logo="https://www.tvguia.es/sites/default/files/logo/neox.png" group-title="" tvg-shift="+1",neox
+#EXTINF:-1 tvg-id="Neox.TV" tvg-name="neox" tvg-logo="https://www.tvguia.es/sites/default/files/logo/neox.png" group-title="" tvg-shift="+1",neox
 https://tvnoov.com/fadoo/neox.m3u8
 #EXTINF:-1 tvg-id="TEN.TV" tvg-name="Ten" tvg-logo="https://www.tvguia.es/sites/default/files/logo/ten_3.png" tvg-shift="+1",Ten
 https://tvnoov.com/fadoo/ten.m3u8
