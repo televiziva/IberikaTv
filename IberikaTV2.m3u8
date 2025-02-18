@@ -40,7 +40,7 @@ https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3
 https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzY1NTU0MDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.mvPwivq6DI-cO_xgydMZAvIPWgnWOoxDvBoBA7TbLVI/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8
 #EXTINF:-1 tvg-id="Canal4Mallorca.TV" tvg-name="Canal 4 Mallorca" tvg-logo="https://i.imgur.com/tQh8C3s.png" group-title="" tvg-shift="+1",Canal 4 Mallorca
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
-#EXTINF:-1 tvg-id="Squirrel.TV" tvg-name="Squirrel" tvg-logo="https://www.tvguia.es/sites/default/files/logo/squirrel-tv.png" tvg-shift="+1",Squirrel tv
+#EXTINF:-1 tvg-id="Squirrel.es" tvg-name="Squirrel" tvg-logo="https://www.tvguia.es/sites/default/files/logo/squirrel-tv.png" tvg-shift="+1",Squirrel tv
 https://tvnoov.com/fadoo/disneychannel.m3u8
 #EXTINF:-1 tvg-id="13.TV" tvg-name="Trece" tvg-logo="https://brandemia.org/sites/default/files/inline/images/destacado13-1200x750.jpg" group-title=" " tvg-shift="+1", Trece
 https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
