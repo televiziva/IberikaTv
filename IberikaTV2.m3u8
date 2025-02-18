@@ -4,7 +4,13 @@
 https://jmp2.uk/sam-ESBC4100001NZ.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/la2.png" group-title="" tvg-shift="+1",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 tvg-id="TEN.TV" tvg-name="Ten" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/355354455_664035169070719_9012729465220653588_n.png?stp=dst-png_s200x200&_nc_cat=100&ccb=1-7&_nc_sid=79bf43&_nc_ohc=_XqcRBq49AcQ7kNvgFPfyid&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=AXdfnBnJw5zRMezy5aWeGci&oh=00_AYCMrHsmHmLgtp_8B6Dv5ajuKynRIYC8dHiDtmz-z38bVQ&oe=6784AADC" tvg-shift="+1",Ten
+#EXTINF:-1 tvg-id="Antena3.TV" tvg-name="Antena3" tvg-logo="https://www.tvguia.es/sites/default/files/logo/antena-3.png" group-title="" tvg-shift="+1",Antena 3
+https://tvnoov.com/fadoo/antena3.m3u8
+#EXTINF:-1 tvg-id="cuatro.TV" tvg-name="cuatro" tvg-logo="https://www.tvguia.es/sites/default/files/logo/cuatro.png" group-title="" tvg-shift="+1",Cuatro
+https://tvnoov.com/fadoo/cuatrohd.m3u8
+#EXTINF:-1 tvg-id="neox.TV" tvg-name="neox" tvg-logo="https://www.tvguia.es/sites/default/files/logo/neox.png" group-title="" tvg-shift="+1",neox
+https://tvnoov.com/fadoo/neox.m3u8
+#EXTINF:-1 tvg-id="TEN.TV" tvg-name="Ten" tvg-logo="https://www.tvguia.es/sites/default/files/logo/ten_3.png" tvg-shift="+1",Ten
 https://tvnoov.com/fadoo/ten.m3u8
 #EXTINF:-1 tvg-id="Paramount.TV" tvg-name="Paramount" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/348250810_996459971521809_260722525113462192_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=79bf43&_nc_ohc=3gqDSmHXzHYQ7kNvgHSkCZ-&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=AnAm-dK1DVW1iypzH_PCEUE&oh=00_AYDwL16kW3uD_EOArXOFnURZxgP3yMK4gFBq1ylaK33d2Q&oe=67849F09" tvg-shift="+1", Paramount Channel
 https://tvnoov.com/fadoo/paramountnetwork.m3u8
@@ -34,7 +40,7 @@ https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3
 https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzY1NTU0MDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.mvPwivq6DI-cO_xgydMZAvIPWgnWOoxDvBoBA7TbLVI/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Canal 4 Mallorca" tvg-logo="https://pbs.twimg.com/profile_images/1802736483951910912/vjhXPo8k_400x400.jpg" group-title=" " tvg-shift="+1",Canal 4 Mallorca
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Squirrel" tvg-logo="" tvg-shift="+1",Squirrel tv
+#EXTINF:-1 tvg-id="" tvg-name="Squirrel" tvg-logo="https://www.tvguia.es/sites/default/files/logo/squirrel-tv.png" tvg-shift="+1",Squirrel tv
 https://tvnoov.com/fadoo/disneychannel.m3u8
 #EXTINF:-1 tvg-id="13.TV" tvg-name="Trece" tvg-logo="https://brandemia.org/sites/default/files/inline/images/destacado13-1200x750.jpg" group-title=" " tvg-shift="+1", Trece
 https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
