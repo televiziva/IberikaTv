@@ -10,8 +10,8 @@ https://tvnoov.com/fadoo/ten.m3u8
 https://tvnoov.com/fadoo/paramountnetwork.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-name="El Toro TV" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/eltorotv.jpg" group-title="" tvg-shift="+1",El Toro TV
 https://streaming-1.eltorotv.com/eltorotv-streaming-web/index.m3u8
-#EXTINF:-1 tvg-id="Telemadrid.TV" tvg-name="Telemadrid" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/telemadrid.jpg" group-title="" tvg-shift="+1",Telemadrid
-https://telemadrid-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-id="TelemadridINT.es" tvg-name="Telemadrid" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/telemadrid.jpg" group-title="" tvg-shift="+1",Telemadrid
+https://new-international-23-secure2.akamaized.net/index.m3u8
 #EXTINF:-1 tvg-id="LaOtra.TV" tvg-name="LaOtra" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/laotra.jpg" group-title="" tvg-shift="+1",LaOtra
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 4 Madrid" tvg-logo="https://pbs.twimg.com/profile_images/1802736483951910912/vjhXPo8k_400x400.jpg" , Canal 4 Madrid
@@ -86,12 +86,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME  ESPANTO" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_cinespanto_16x9_0.jpg" group-title="Runtime MX",RUNTIME CINE ESPANTO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
-
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/thumbh_20250102_225527_270.jpg" group-title="", Box Cinema
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.channel_name=Box+Cinema&ads.content_id=SKL101&ads.coppa=0&ads.provider=Klasko&ads.rnd=lslf&ads.env_i=eee9fb14-09b3-4ef0-a156-ad802950aa54&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=320&ads.height=180&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=84.39.180.102&ads.geo=ES&ads.lat=40.44020&ads.long=-3.66560&ads.dma=&ads.geoType=2&ads.contentid=23195&ads.content_duration=18000&ads.episode_id=138031&ads.show_id=5276&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CAction%2FAdventure%2CDrama%2CMystery%2CMovies%2CSpanish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=es&ads.showtitle=Box%20Cinema&ads.episodetitle=Box%20Cinema&ads.keywords=Action%2CAdventure%2CCrime%2CDrama%2CEntertainment%2CFilm%2CMystery%2CLATAM%2CMovies&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Fespanol-row%2F&ads.gdprConsent=&ads.paln=&ads.islive=1&ads.streamtype=live&ads.vf=20250221
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/13cultura.svg/revision/latest/scale-to-width-down/250?cb=20220709182305" group-title="Docu" , 13 Cultura
 https://daiconnect.com/live/hls/tvup/tvfy-13cultura/.m3u8?ApPW=1366&ApPH=768&USrGDPRC=CP-S4UAP-S4UABMB9CESAmEsAP_gAAAAAAiQg1NV_H__bX9r8Xr16ft0eY1X99j77sQxBhfJk-4FyDvW_JwXn2EyNA26tqYKmRIEuzZBIQFkHJHURVigSogVrzDMYkGMgTMIJ6BkgFMRY2dYCFxvmQtjMQIY5_p_d3f52T-9_dv83dziz8FnvzU5PmclcICdA58tDfl_bRKb-5IOd-70v4v09Nfrk2_eTVk_tevr7B-ufs-7_XV-9_AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQUICIAOADPgI8ASqAmcBvgDtgHcgQUAkQBJQCUYEtAJjgTJAmkEFAAYJABgACINQ6ADAAEQaiEAGAAIg1EoAMAARBqKQAYAAiDUWgAwABEGoA.f_wAAAAAAAAA&UGDPR=1&DLg=en&ApStURL=https://tivify.tv&DAdID=%22fbf30604-9ff6-4607-837f-59ff8eb7c635%22&DAdIDT=sessionid&UUA=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F124.0.0.0%20Safari%2F537.36&UIP=&ApNm=Tivify&ApV=3.37.1&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=%22fbf30604-9ff6-4607-837f-59ff8eb7c635%22&tvfy_env=desktop&lmt=&ic=IAB1-5
 #EXTINF:-1 group-title="" tvg-id="CGTN.TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Español.png" group-title="Docu" ,CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="BBCEarth.es" tvg-logo="https://ichef.bbci.co.uk/images/ic/400x225_b/p026sp8r.jpg" group-title="Docu" , BBC Earth
 https://amg00793-amg00793c24-samsung-es-4784.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthspain-samsunges/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.tvup.cloud/canales/color_lg_679b54f5c94f7e5c9b8effce_1739785565323.png" group-title="Docu" , Viajes y Sabores
@@ -136,6 +138,8 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalipe/picture?width=200&height=200" group-title="Latino" tvg-name="Canal IPe Perú",Canal IPe Perú
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+#EXTINF:-1 tvg-id="EcuavisaInternacional.ec" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Latino" tvg-name="Canal IPe Perú",Ecuavisa Play
+https://daiconnect.com/live/hls/tvup/tvfy-ecuavisa/13a8e708ea2c4e025de343e0b071e7b2/index.m3u8?ApPW=1366&ApPH=768&USrGDPRC=CQNLZQAQNLZQAAGABBENBdFgAAAAAEPgAAiQAAAUhgJAAPAB-AEcAZYBHACaAGvAO2Af8BHoCYgGLANeAfKA_cCBgE5QKQgAAAAA.YAAAAAAAAAAA&UGDPR=1&DLg=es&ApStURL=https%3A%2F%2Ftivify.tv&DAdID=%22410d8f04-3125-40db-9df3-944f0fdfb7e7%22&DAdIDT=sessionid&UUA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&UIP=&ApNm=Tivify&ApV=4.3.3&DT=browser&DMk=WEBAPP&DMdl=Chrome&ApBdl=tivify.tv&DID=%22410d8f04-3125-40db-9df3-944f0fdfb7e7%22&tvfy_env=desktop&lmt=&ic=IAB1&content_genre=entertainment&language=es&rating=TV-PG&requestuid=d8df9732-3132-4c29-8833-2bd35671d115
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina Pe" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=200&height=200" group-title="Latino" ,Latina Pe
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?did=b21243747182678ccccd05df7
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=200&height=200" group-title="Latino" tvg-name="Latina Perú",Latina Perú Noticias
@@ -191,7 +195,7 @@ https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
 #EXTINF:-1 tvg-id="DeluxeDance(src01).de" tvg-name="Deluxe Music Dance" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_KONTOR_RGB-1.png" group-title="Música" tvg-shift="+1",Deluxe Music Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/viva_russia.png" group-title="Música" , VIVA Russia
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="Música" , VIVA Russia
 https://hls.goodgame.ru/manifest/180805_master.m3u8
 #EXTINF:-1 tvg-id="now-70s" tvg-name="now-70s" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e60f4df9-a0e1-4d45-9b3c-ee619812b2bc.jpeg" group-title="Música" , NOW 70s
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=869&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5284&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=e9b0d9cb-07a0-465a-b30e-8d7cd93675c7&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
