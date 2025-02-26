@@ -28,56 +28,48 @@ https://la8avilalive.flumotion.cloud/la8avilalive/smil:channel1PRG.smil/fmt_toke
 https://la8salamancalive.flumotion.cloud/la8salamancalive/smil:channel1PRG.smil/fmt_token/2byQggzwugAjWofr0BVwUsqLoRXF7Br_wM4s_pxO6a8/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYThzYWxhbWFuY2FsaXZlIiwiL29uZGVtYW5kLzBjNWIwYWE0LWZhZDAtNGZlZi1iNzAyLWIxMGE0N2ZlNjEzNSJdfQ/playlist.m3u8
 #EXTINF:-1 tvg-id="La8CYL.TV" tvg-logo="https://i.imgur.com/Uu7XQ15.png" group-title="" ,La 8 Burgos
 https://la8burgoslive.flumotion.cloud/la8burgoslive/smil:channel1PRG.smil/fmt_token/acBnyQqlEn_pBc6epUzKTuPaMnIySEcdMA5JqpxuEsY/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYThidXJnb3NsaXZlIiwiL29uZGVtYW5kLzhjMzk1Y2FjLTBkNzQtNDgxOC05ODI1LTg4NWI1Y2IxMDcxNCJdfQ/playlist.m3u8
-#EXTINF:-1 tvg-id="AndaluciaTelevision.es" tvg-name="AndaluciaTelevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/CanalSur1.svg/512px-CanalSur1.svg.png" group-title="" , Canal Sur Andalucía
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="AndaluciaTelevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/CanalSur1.svg/512px-CanalSur1.svg.png" group-title="" , Canal Sur Andalucía
 https://jmp2.uk/sam-ESBD3000002GP.m3u8
 #EXTINF:-1 tvg-id="7RM.TV" tvg-name="7 Murcia" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title=" " tvg-shift="+1",7 Murcia
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TPA.TV" tvg-name="TPA Asturias" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/417523995_912502047547008_6050185578021997263_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=79bf43&_nc_ohc=3pk8lkDgNnAQ7kNvgHRYFCm&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=AEPaow12odhuO4a-vtNqwxn&oh=00_AYBBOYCNwN3H1PcQUvUbLQvEtu6ginUC2EakJ43SAUzz7g&oe=67875418" group-title=" " tvg-shift="+1", TPA Asturias
-https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzY1NTU0MDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.mvPwivq6DI-cO_xgydMZAvIPWgnWOoxDvBoBA7TbLVI/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8
+#EXTINF:-1 tvg-id="TPA7.es" tvg-name="TPA Asturias" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/417523995_912502047547008_6050185578021997263_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=79bf43&_nc_ohc=3pk8lkDgNnAQ7kNvgHRYFCm&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=AEPaow12odhuO4a-vtNqwxn&oh=00_AYBBOYCNwN3H1PcQUvUbLQvEtu6ginUC2EakJ43SAUzz7g&oe=67875418" group-title=" " tvg-shift="+1", TPA Asturias
+https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDA2MDcyMDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.b25DDCOF5D1iMJdzURQ7WSEoUzN9F5sO-YdZceyo0-Y/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8
 #EXTINF:-1 tvg-id="Canal4Mallorca.TV" tvg-name="Canal 4 Mallorca" tvg-logo="https://i.imgur.com/tQh8C3s.png" group-title="" tvg-shift="+1",Canal 4 Mallorca
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
-#EXTINF:-1 tvg-id="13.TV" tvg-name="Trece" tvg-logo="https://brandemia.org/sites/default/files/inline/images/destacado13-1200x750.jpg" group-title=" " tvg-shift="+1", Trece
-https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
-#EXTINF:-1 tvg-id="DMax.TV" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/dmax.png", DMax 
-https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzY1MzE1MjYsIm5iZiI6MTczNjUzMTUyNiwiZXhwIjoxNzM2NTMxODg2LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMzkuMTgwLjEwMiJ9.AK35ylRkL15mij-Z0KulehEq0ZbdM43BjmWDPL5mrvM/live/es/b9243cdb24df40128098f3ea25fcf47d/index.m3u8
-
-#EXTINF:-1,tvg-id="PopularTVCantabria.es" tvg-logo="https://i.imgur.com/amgBFmH.png" , Popular TV Cantabria
-https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
-
-#EXTINF:-1,tvg-id="TVFerrol.TV" tvg-logo="https://i.imgur.com/TjpjoOu.png", TV Ferrol
-https://directo.tvferrol.es/tv.m3u8
-
-#EXTINF:-1,tvg-id="33tv.TV" tvg-logo="https://karyganet.com/wp-content/uploads/tv-33.jpg", 33tv
-https://limited43.todostreaming.es/live/simbana-livestream.m3u8
-
-
-#EXTINF:-1, tvg-id="Clan.TV" tvg-logo="https://i.imgur.com/03jFV68.png" , Clan Tve
-https://ztnr.rtve.es/ztnr/5466990.m3u8
-
-#EXTINF:-1, tvg-id="Kidz.TV" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/308820477_521821366616041_6035068513194751056_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=79bf43&_nc_ohc=T_EwOrgj1J0Q7kNvgF6VESH&_nc_zt=24&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&_nc_gid=AVZhqgf1_AEvasxhehEpEmN&oh=00_AYCPAmXJ-I1Kap6PrXkutPobNqmEgCq-PPRZrG3O0mz4Yw&oe=67875095", Kidz.TV
-https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5pOZQB4.png", Artflix
-https://amogonetworx-artflix-3-eu.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="101Malaga.TV" tvg-logo="https://i.imgur.com/GzI3RC4.png", 101 tv Malaga
-https://www.streaming101tv.es:19360/andalucia/andalucia.m3u8
-
-#EXTINF:-1 tvg-id="7Televalencia.TV" tvg-logo="https://i.imgur.com/ILfXDRs.png", 7 TeleValencia
-https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVGAL.TV" tvg-name="Tvg" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="" ,Tvg
 https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="TVG2.TV" tvg-name="Tvg 2" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="" ,Tvg 2
 https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
-#EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg", Negocios tv 
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-id="13.TV" tvg-name="Trece" tvg-logo="https://brandemia.org/sites/default/files/inline/images/destacado13-1200x750.jpg" group-title="" tvg-shift="+1", Trece
+https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+#EXTINF:-1 tvg-id="DMax.TV" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/dmax.png", DMax 
+https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzY1MzE1MjYsIm5iZiI6MTczNjUzMTUyNiwiZXhwIjoxNzM2NTMxODg2LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMzkuMTgwLjEwMiJ9.AK35ylRkL15mij-Z0KulehEq0ZbdM43BjmWDPL5mrvM/live/es/b9243cdb24df40128098f3ea25fcf47d/index.m3u8
+
+#EXTINF:-1,tvg-id="PopularTVCantabria.es" tvg-logo="https://i.imgur.com/amgBFmH.png" group-title="" tvg-shift="+1" , Popular TV Cantabria
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+
+#EXTINF:-1,tvg-id="TVFerrol.TV" tvg-logo="https://i.imgur.com/TjpjoOu.png" group-title="" tvg-shift="+1", TV Ferrol
+https://directo.tvferrol.es/tv.m3u8
+
+#EXTINF:-1,tvg-id="33tv.TV" tvg-logo="https://karyganet.com/wp-content/uploads/tv-33.jpg" group-title="" tvg-shift="+1" , 33tv
+https://limited43.todostreaming.es/live/simbana-livestream.m3u8
+
+#EXTINF:-1 tvg-id="101Malaga.TV" tvg-logo="https://i.imgur.com/GzI3RC4.png", 101 tv Malaga
+https://www.streaming101tv.es:19360/andalucia/andalucia.m3u8
+
+#EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://i.imgur.com/ILfXDRs.png", 7 TeleValencia
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+
 #EXTINF:-1 tvg-id="mytime-movie-network-spanish" tvg-name="mytime-movie-network-spanish" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg" group-title="" , MyTime Movie Network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=82.102.17.185
-
-#EXTINF:-1 tvg-id="(no tvg-id)x" tvg-name="MOVIESPHERE MX" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/ca53ff4d-moviesphere_intl_runtime_channeltitle.jpg" group-title="Runtime MX" ,MOVIESPHERE MX
+#EXTINF:-1 tvg-id="ARTFLIXMovieClassics.es" tvg-logo="https://i.imgur.com/5pOZQB4.png", Artflix
+https://amogonetworx-artflix-3-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://a.jsrdn.com/hls/23195/the-spanish-family-channel/thumbh_20250102_221410_270.jpg" , The Spanish Family Channel
+https://dr2t9f8nivbc6.cloudfront.net/hls/Y7QEY7A/240BEFECFA70/m.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.mx" tvg-name="MOVIESPHERE MX" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/ca53ff4d-moviesphere_intl_runtime_channeltitle.jpg" group-title="Runtime MX" ,MOVIESPHERE MX
 https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/playlist/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8?timestamp=1698413629&id=12047&ip=201.150.35.76&override_expiration=1500&sign=n2LLwgVD9SERcPAlC4QucrcV2m8H%2BPVjP5k0MoxBXS0%3D&ads.ip=201.150.35.76
+#EXTINF:-1 tvg-id="" tvg-name="FreeTv Estelar" tvg-logo="https://a.jsrdn.com/hls/23008/freetv-estelar-eu/thumbh_20240222_201846_270.jpg" , FreeTv Estelar
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-estelar-eu/playlist.m3u8?ads.rnd=zfuo&ads.env_i=36d71ce5-e611-4652-b9b5-91d936403dfe&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=320&ads.height=180&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=84.39.180.102&ads.geo=ES&ads.lat=40.44020&ads.long=-3.66560&ads.dma=&ads.geoType=2&ads.contentid=23008&ads.content_duration=18000&ads.episode_id=71859&ads.show_id=2836&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CDrama%2CSpanish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=es&ads.showtitle=FreeTV%20Estelar&ads.episodetitle=FreeTV%20Estelar&ads.keywords=Tu%20Cine%2CSpanish%2Cespanol%2Cdrama%2Ccrime%2Cestelar&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Fespanol-row%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20250226
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME TV Y PELÍCULAS" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_1920x1080.jpg" group-title="Runtime MX" ,RUNTIME TV Y PELÍCULAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME " tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Runtime MX",RUNTIME 
@@ -116,8 +108,20 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
 #EXTINF:-1 tvg-id="canela-clasicos" tvg-name="canela-clasicos" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-classics-16x9_0.png" group-title="" , Canela Clásicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
+#EXTINF:-1, tvg-id="Clan.TV" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="" tvg-shift="+1", Clan Tve
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+
+#EXTINF:-1, tvg-id="Kidz.es" tvg-logo="https://i.imgur.com/iBgsCOV.png", Kidz.TV
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
+
 #EXTINF:-1 tvg-id="LocomotionTV.do" tvg-name="LocomotionTV" tvg-logo="https://i.imgur.com/1CftDPB.png" , LocomotionTV
 http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a.jsrdn.com/hls/23195/toonovation/thumbh_20250102_222124_270.jpg" , ToonOvation
+https://dr2t9f8nivbc6.cloudfront.net/hls/ODKDXSA/m.m3u8
+
+Latino ----
+
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7DFAtOYGciVRuk5wEDsKJJBmLeF2GSVydw6qCl_mPeVuVa8uQrCZGoO4wqnk4kJXR0qY&usqp=CAU" group-title="Latino" tvg-shift="+1",Azteca Uno
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Noticias Caracol Co" tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" group-title="Latino" tvg-shift="+1",Noticias Caracol Co
@@ -149,6 +153,20 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RTEspanol.ru" tvg-name="RT Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="" tvg-shift="+1",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg", Negocios tv 
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+Internacional-----
+
+#EXTINF:-1 tvg-id="AlphaTV.gr" tvg-logo="https://i.imgur.com/6twzd38.png", Alpha TV Gr
+http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png", ERT World Gr
+https://ertflix.akamaized.net/ertlive/ertworld/default/index.m3u8
+#EXTINF:-1 tvg-id="TVRInternational.ro" tvg-logo="https://i.imgur.com/w28wcHs.png", TVR Internacional Ru
+https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
+
+
+Portugal -------
 
 #EXTINF:-1 tvg-id="RTPInter.pt" tvg-name="RTP Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="" tvg-shift="+1",RTPi Eu
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
