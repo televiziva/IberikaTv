@@ -1,8 +1,8 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-name="La1 " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png" group-title="" , La 1
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="La1 " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png" group-title="" , La 1
 https://jmp2.uk/sam-ESBC4100001NZ.m3u8
-#EXTINF:-1 tvg-id="La2.TV" tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/la2.png" group-title="" tvg-shift="+1",La 2
+#EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/la2.png" group-title="" tvg-shift="+1",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="TEN.TV" tvg-name="Ten" tvg-logo="https://www.tvguia.es/sites/default/files/logo/ten_3.png" tvg-shift="+1",Ten
 https://tvnoov.com/fadoo/ten.m3u8
@@ -20,7 +20,7 @@ https://limited35.todostreaming.es/live/mitjans-livestream2.m3u8
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="8M.TV" tvg-name="La 8 Mediterráneo" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="" tvg-shift="+1",La 8 Mediterráneo
 https://streaming004.gestec-video.com/hls/8TV.m3u8
-#EXTINF:-1 tvg-id="La7.TV" tvg-logo="https://i.imgur.com/haWbhrS.png" group-title="" ,La 7 CyL
+#EXTINF:-1 tvg-id="La 7 CyL" tvg-logo="https://i.imgur.com/haWbhrS.png" group-title="" ,La 7 CyL
 https://la7live.flumotion.cloud/la7live/smil:channel1.smil/fmt_token/brX2cV1a8QCLEqcPmGRe8fS5w9NpMGCp1qAdd3JaP1g/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYTdsaXZlIiwiL29uZGVtYW5kLzk4MWM0OGU2LWM2M2UtNGQwMC1iMWUxLTc5NzgyMGE2MWM1OSJdfQ/playlist.m3u8
 #EXTINF:-1 tvg-id="La8CYL.TV" tvg-logo="https://i.imgur.com/oVtVKw0.png" group-title="" ,La 8 Ávila
 https://la8avilalive.flumotion.cloud/la8avilalive/smil:channel1PRG.smil/fmt_token/t2cJACnNomwAyXndoCmCgIcIVAebvtSOmMv-nUHxEa0/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYThhdmlsYWxpdmUiLCIvb25kZW1hbmQvMWU4OTQ5MzAtZTJmNi00MTRlLWI4MzgtOTEwNzI2ZTkzMWIyIl19/playlist.m3u8
