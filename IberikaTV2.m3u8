@@ -1,4 +1,4 @@
-#EXTM3U  
+#EXTM3U  url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-name="La1 " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png" group-title="" , La 1
 https://jmp2.uk/sam-ESBC4100001NZ.m3u8
