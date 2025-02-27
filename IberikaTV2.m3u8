@@ -1,6 +1,6 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="La1 " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png" group-title="" , La 1
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="La1 " tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png" group-title="" , La 1 HD
 https://jmp2.uk/sam-ESBC4100001NZ.m3u8
 #EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/la2.png" group-title="" tvg-shift="+1",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
