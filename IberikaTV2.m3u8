@@ -4,13 +4,13 @@
 https://jmp2.uk/sam-ESBC4100001NZ.m3u8
 #EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/la2.png" group-title="" tvg-shift="+1",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 tvg-id="TEN.TV" tvg-name="Ten" tvg-logo="https://www.tvguia.es/sites/default/files/logo/ten_3.png" tvg-shift="+1",Ten
+#EXTINF:-1 tvg-id="Ten" tvg-name="Ten" tvg-logo="https://www.tvguia.es/sites/default/files/logo/ten_3.png" tvg-shift="+1",Ten
 https://tvnoov.com/fadoo/ten.m3u8
 #EXTINF:-1 tvg-id="Paramount.TV" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" tvg-shift="+1", Paramount Channel
 https://tvnoov.com/fadoo/paramountnetwork.m3u8
-#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-name="El Toro TV" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/eltorotv.jpg" group-title="" tvg-shift="+1",El Toro TV
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="El Toro TV" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/eltorotv.jpg" group-title="" tvg-shift="+1",El Toro TV
 https://streaming-1.eltorotv.com/eltorotv-streaming-web/index.m3u8
-#EXTINF:-1 tvg-id="TelemadridINT.es" tvg-name="Telemadrid" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/telemadrid.jpg" group-title="" tvg-shift="+1",Telemadrid
+#EXTINF:-1 tvg-id="Telemadrid Internacional" tvg-name="Telemadrid Internacional" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/telemadrid.jpg" group-title="" tvg-shift="+1",Telemadrid Internacional
 https://new-international-23-secure2.akamaized.net/index.m3u8
 #EXTINF:-1 tvg-id="LaOtra.TV" tvg-name="LaOtra" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/laotra.jpg" group-title="" tvg-shift="+1",LaOtra
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
