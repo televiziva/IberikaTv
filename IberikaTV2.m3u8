@@ -57,7 +57,7 @@ https://limited43.todostreaming.es/live/simbana-livestream.m3u8
 #EXTINF:-1 tvg-id="101Malaga.TV" tvg-logo="https://i.imgur.com/GzI3RC4.png", 101 tv Malaga
 https://www.streaming101tv.es:19360/andalucia/andalucia.m3u8
 
-#EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://i.imgur.com/ILfXDRs.png", 7 TeleValencia
+#EXTINF:-1 tvg-id="7teleValencia" tvg-logo="https://i.imgur.com/ILfXDRs.png", 7teleValencia
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mytime-movie-network-spanish" tvg-name="mytime-movie-network-spanish" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg" group-title="" , MyTime Movie Network
@@ -108,7 +108,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
 #EXTINF:-1 tvg-id="canela-clasicos" tvg-name="canela-clasicos" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-classics-16x9_0.png" group-title="" , Canela Clásicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
-#EXTINF:-1, tvg-id="Clan.TV" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="" tvg-shift="+1", Clan Tve
+#EXTINF:-1, tvg-id="Clan" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="" tvg-shift="+1", Clan
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 
 #EXTINF:-1, tvg-id="Kidz.es" tvg-logo="https://i.imgur.com/iBgsCOV.png", Kidz.TV
