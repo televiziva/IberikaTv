@@ -102,6 +102,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestylelata
 https://langleyproductions-jail-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GoUsa" tvg-name="GoUsa" tvg-logo="https://i.imgur.com/x90ALip.png" group-title="Docu", GoUsa
 https://brandusa-gousa-3-co.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="travelxp-es" tvg-name="travelxp-es" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d439f753-ad31-4078-b63d-8109bfb0bf7d.jpeg" group-title="Docu" , Travelxp
+https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5756&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=3f2bb5ca-41a1-44d6-8b91-3b9a25b0bec8&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1613
 
 #EXTINF:-1 tvg-id="canela-tv" tvg-name="canela-tv" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canela_tv-16x9_0.jpg" group-title="" , Canela TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
