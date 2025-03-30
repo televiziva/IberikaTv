@@ -38,8 +38,7 @@ https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="TVG2" tvg-name="Tvg 2" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="" ,TVG2
 https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
-#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE" tvg-logo="https://brandemia.org/sites/default/files/inline/images/destacado13-1200x750.jpg" group-title="" tvg-shift="+1", TRECE
-https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+
 #EXTINF:-1 tvg-id="DMAX" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/dmax.png", DMAX
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzY1MzE1MjYsIm5iZiI6MTczNjUzMTUyNiwiZXhwIjoxNzM2NTMxODg2LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMzkuMTgwLjEwMiJ9.AK35ylRkL15mij-Z0KulehEq0ZbdM43BjmWDPL5mrvM/live/es/b9243cdb24df40128098f3ea25fcf47d/index.m3u8
 
@@ -120,8 +119,6 @@ https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:-1, tvg-id="Kidz" tvg-logo="https://i.imgur.com/iBgsCOV.png", Kidz
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
 
-#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-name="LocomotionTV" tvg-logo="https://i.imgur.com/1CftDPB.png" , LocomotionTV
-http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a.jsrdn.com/hls/23195/toonovation/thumbh_20250102_222124_270.jpg" , ToonOvation
 https://dr2t9f8nivbc6.cloudfront.net/hls/ODKDXSA/m.m3u8
@@ -168,7 +165,7 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 Internacional-----
 
 #EXTINF:-1 tvg-id="AlphaTV.gr" tvg-logo="https://i.imgur.com/6twzd38.png", Alpha TV Gr
-http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png", ERT World Gr
 https://ertflix.akamaized.net/ertlive/ertworld/default/index.m3u8
 #EXTINF:-1 tvg-id="TVRInternational.ro" tvg-logo="https://i.imgur.com/w28wcHs.png", TVR Internacional Ru
@@ -188,9 +185,9 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Rtp2.pt" tvg-name="RTP2" tvg-logo="https://i.imgur.com/T6WUqdn.png" group-title="" tvg-shift="+1",RTP2
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Rtp3.pt" tvg-name="RTP3" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/28545_38014_27812.jpg?amp;w=160" group-title="" tvg-shift="+1",RTP3
-https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/.m3u8?DVR
 #EXTINF:-1 tvg-id="RtpMemoria.pt" tvg-name="RTP Memória" tvg-logo="https://i.imgur.com/jCpfdiJ.png" group-title="" tvg-shift="+1",RTP Memória
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/.m3u8
 #EXTINF:-1 tvg-id="Sic.pt" tvg-name="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png/200px-Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="" tvg-shift="+1",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-id="SicNoticias.pt" tvg-name="SIC Noticias" tvg-logo="https://i.imgur.com/Gi6Q26M.png" , SIC Notícias
