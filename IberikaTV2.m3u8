@@ -14,7 +14,7 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:-1 tvg-id="Neox" tvg-name="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/512px-Neox_2023_logo.svg.png" group-title="" tvg-shift="+1",Neox
 http://185.189.225.150:85/neox/index.m3u8
 #EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" tvg-shift="+1", Paramount Network
-https://tvnoov.com/fadoo/paramountnetwork.m3u8
+https://tvnoov.com/streama/stream.php?file=paramountnetwork.m3u8&expires=1750097176&token=dd8c038800a8cd854fc9a45b072d7e440e8a3790a3593c10504d6785a3ea2c10
 #EXTINF:-1 tvg-id="El Toro TV" tvg-name="El Toro TV" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/eltorotv.jpg" group-title="" tvg-shift="+1",El Toro TV
 https://streaming-1.eltorotv.com/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="Telemadrid Internacional" tvg-name="Telemadrid Internacional" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/telemadrid.jpg" group-title="" tvg-shift="+1",Telemadrid Internacional
@@ -51,7 +51,7 @@ https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
 http://185.189.225.150:85/BOM/index.m3u8
 
 #EXTINF:-1 tvg-id="DMAX" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/dmax.png", DMAX
-https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MzY1MzE1MjYsIm5iZiI6MTczNjUzMTUyNiwiZXhwIjoxNzM2NTMxODg2LCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMzkuMTgwLjEwMiJ9.AK35ylRkL15mij-Z0KulehEq0ZbdM43BjmWDPL5mrvM/live/es/b9243cdb24df40128098f3ea25fcf47d/index.m3u8
+https://tvnoov.com/streama/stream.php?file=dmax.m3u8&expires=1750096983&token=fcffbe9a33f86a4441eba2432f9a2075fbe5a41b9f3e61f77370e898846d4d9e
 
 #EXTINF:-1,tvg-id="PopularTVCantabria.es" tvg-logo="https://i.imgur.com/amgBFmH.png" group-title="" tvg-shift="+1" , Popular TV Cantabria
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
