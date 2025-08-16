@@ -5,30 +5,19 @@ https://jmp2.uk/sam-ESBC4100001NZ.m3u8
 #EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/la2.png" group-title="" tvg-shift="+1",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="Antena 3 HD" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="" tvg-shift="+1",Antena 3
-http://185.189.225.150:85/Antena3HD/index.m3u8
-#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="Cuatro HD" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="" tvg-shift="+1",Cuatro HD
-http://185.189.225.150:85/CuatroHD/index.m3u8
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="Telecinco HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png" group-title="" tvg-shift="+1",Telecinco HD
-http://185.189.225.150:85/TeleCincoHD/index.m3u8
-#EXTINF:-1 tvg-id="Neox" tvg-name="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/512px-Neox_2023_logo.svg.png" group-title="" tvg-shift="+1",Neox
-http://185.189.225.150:85/neox/index.m3u8
-#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" tvg-shift="+1", Paramount Network
-https://tvnoov.com/streama/stream.php?file=paramountnetwork.m3u8&expires=1750097176&token=dd8c038800a8cd854fc9a45b072d7e440e8a3790a3593c10504d6785a3ea2c10
 #EXTINF:-1 tvg-id="El Toro TV" tvg-name="El Toro TV" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/eltorotv.jpg" group-title="" tvg-shift="+1",El Toro TV
 https://streaming-1.eltorotv.com/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="Telemadrid Internacional" tvg-name="Telemadrid Internacional" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/telemadrid.jpg" group-title="" tvg-shift="+1",Telemadrid Internacional
 https://new-international-23-secure2.akamaized.net/index.m3u8
 #EXTINF:-1 tvg-id="La Otra" tvg-name="La Otra" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/laotra.jpg" group-title="" tvg-shift="+1",La Otra
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
-#EXTINF:-1 tvg-id="8madrid TV" tvg-name="8Madrid" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg" group-title="" tvg-shift="+1",8Madrid
-http://185.189.225.150:85/8madrid/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Canal 4 Madrid" tvg-logo="https://pbs.twimg.com/profile_images/1802736483951910912/vjhXPo8k_400x400.jpg" , Canal 4 Madrid
 https://limited35.todostreaming.es/live/mitjans-livestream2.m3u8
 #EXTINF:-1 tvg-id="CMM TV" tvg-name="CMM TV" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="" tvg-shift="+1",CMM TV
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="La Ocho Mediterráneo" tvg-name="La Ocho Mediterráneo" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="" tvg-shift="+1",La Ocho Mediterráneo
-https://streaming004.gestec-video.com/hls/8TV.m3u8
+https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
 #EXTINF:-1 tvg-id="La 7 CyL" tvg-logo="https://i.imgur.com/haWbhrS.png" group-title="" ,La 7 CyL
 https://la7live.flumotion.cloud/la7live/smil:channel1.smil/fmt_token/brX2cV1a8QCLEqcPmGRe8fS5w9NpMGCp1qAdd3JaP1g/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYTdsaXZlIiwiL29uZGVtYW5kLzk4MWM0OGU2LWM2M2UtNGQwMC1iMWUxLTc5NzgyMGE2MWM1OSJdfQ/playlist.m3u8
 #EXTINF:-1 tvg-id="La 8 Ávila" tvg-logo="https://i.imgur.com/oVtVKw0.png" group-title="" ,La 8 Ávila
@@ -47,11 +36,6 @@ https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="TVG2" tvg-name="Tvg 2" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="" ,TVG2
 https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
-#EXTINF:-1 tvg-id="BOM Cine" tvg-name="" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="" ,BOM Cine
-http://185.189.225.150:85/BOM/index.m3u8
-
-#EXTINF:-1 tvg-id="DMAX" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/dmax.png", DMAX
-https://tvnoov.com/streama/stream.php?file=dmax.m3u8&expires=1750096983&token=fcffbe9a33f86a4441eba2432f9a2075fbe5a41b9f3e61f77370e898846d4d9e
 
 #EXTINF:-1,tvg-id="PopularTVCantabria.es" tvg-logo="https://i.imgur.com/amgBFmH.png" group-title="" tvg-shift="+1" , Popular TV Cantabria
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
